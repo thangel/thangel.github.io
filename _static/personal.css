@@ -22,6 +22,7 @@ body {
     color: #ffffff;
     margin: 0;
     padding: 0;
+    text-align: justify;
 }
 
 div.documentwrapper {
@@ -298,6 +299,7 @@ div.warning div.last {
     border: 2px solid #ddd;
     border-right-style: none;
     border-bottom-style: none;
+    text-align: justify;
 }
 
 div.seealso {

@@ -3,41 +3,47 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to webpage's documentation!
-===================================
 
 
 .. only:: html 
- 
-  .. sidebar:: Current build status 
- 
-    .. container:: buildstatus 
- 
-        |thetisbuild| 
- 
-    Thetis source code is hosted on  `Github 
-    <https://github.com/thetisproject/thetis/>`__ and is being 
-    continually tested using `Jenkins <https://jenkins.io/>`__. 
- 
-    .. |thetisbuild| image:: https://jenkins.ese.ic.ac.uk:1080/job/thetisproject/job/thetis/job/master/badge/icon 
-                             :target: https://jenkins.ese.ic.ac.uk:1080/blue/organizations/jenkins/thetisproject%2Fthetis/branches/ 
-                             :align: top 
+
+
+.. figure:: support/profile.jpg
+   :width: 200px
+   :align: left
+
+..
+
+I am a *Lecturer* in Water Engineering at **The University of Edinburgh** Institute for Infrastructure and the Environment. I am also a *Research Fellow* of the UK's Natural Environment Research Council (NERC).
+
+I was previously a Research Fellow  with the Department of Earth Science and Engineering at **Imperial College London** (2016-2018). 
+During that time I was based in the Applied Modelling & Computation Group (AMCG) conducting research on ocean modelling and marine energy technologies. 
+
+I also held a postdoctoral position at the Hydro-environmental Research Centre at **Cardiff University** (2014-2016) with a focus on multi-purpose marine energy technologies.
+I completed my research studies at Cardiff University where I obtained my PhD in Hydro-environmental Engineering (2014) following an MEng(Hons) in Civil Engineering (2010). 
+Details of my background are summarised in my CV `here <_themes/personal/static/CV_2.pdf>`_.
+
+|
+
+
+.. |UoE| image:: support/uoe.png
+   :height: 70px
+
+
+.. |imperial| image:: support/logo_imperial_college_london.png
+   :height: 50px
+
+
+.. |cardiff| image:: support/cardiff.jpg
+   :height: 70px
+
++------------------+----------------+---------------+
+|  |UoE|           |                | |cardiff|     |
+|                  |  |imperial|    |               |
++------------------+----------------+---------------+
 
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-* :ref:`search`
-* :ref:`search`
-* :ref:`search`
-* :ref:`search`
-* :ref:`search`
+ 
+..   research

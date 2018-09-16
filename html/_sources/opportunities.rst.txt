@@ -1,0 +1,29 @@
+.. webpage documentation master file, created by
+   sphinx-quickstart on Fri May 18 18:18:29 2018.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+
+
+.. only:: html 
+
+
+
+**I am currently offering an opportunity for a PhD studentship at The University of Edinburgh for research on Water & Environmental engineering**. 
+I am looking for highly motivated candidates that are keen to conduct computational research that is aligned with the fields of *coastal engineering*, *environmental fluid mechanics* or CFD for *water engineering* applications. A strong foundation in civil engineering hydraulics and an interest in modern programming techniques (using Python, Matlab, C and FORTRAN) and High-Performance Computing will be considered as prerequisites.
+
+
+
+.. |UoE| image:: support/uoe.png
+   :height: 70px
+
+
+
+
++------------------+----------------+---------------+
+|  |UoE|           |                |               |
+|                  |                |               |
++------------------+----------------+---------------+
+
+
+
