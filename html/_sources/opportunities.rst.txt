@@ -12,6 +12,7 @@
 **I am currently offering an opportunity for a PhD studentship at The University of Edinburgh for research on Water & Environmental engineering**. 
 I am looking for highly motivated candidates that are keen to conduct computational research that is aligned with the fields of *coastal engineering*, *environmental fluid mechanics* or CFD for *water engineering* applications. A strong foundation in civil engineering hydraulics and an interest in modern programming techniques (using Python, Matlab, C and FORTRAN) and High-Performance Computing will be considered as prerequisites.
 
+The funding is sourced from The University of Edinburgh and is available for UK/EU candidates
 
 
 .. |UoE| image:: support/uoe.png
