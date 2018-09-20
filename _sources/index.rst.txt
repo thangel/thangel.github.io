@@ -3,19 +3,18 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-
-
 .. only:: html 
 
 
+Introduction
+============
+
 .. figure:: support/profile.jpg
    :width: 200px
-   :align: left
-   
-   
+   :align: left   
+
    
 
-..
 
 I am a *Lecturer* in Water Engineering at **The University of Edinburgh** Institute for Infrastructure and the Environment. I am also a *Research Fellow* of the UK's Natural Environment Research Council (NERC). My interests relate to coastal & offshore engineering, environmental fluid mechanics and water research.
 
