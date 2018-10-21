@@ -16,7 +16,7 @@ Introduction
    
 
 
-I am a *Lecturer* in Water Engineering at **The University of Edinburgh** Institute for Infrastructure and the Environment. I am also a *Research Fellow* of the UK's Natural Environment Research Council (NERC). My interests relate to coastal & offshore engineering, environmental fluid mechanics and water research.
+I am a *Lecturer* in Water Engineering at the **University of Edinburgh** School of Engineering and within the Institute for Infrastructure and the Environment. I am also a *Research Fellow* of the UK's Natural Environment Research Council (NERC). My interests relate to coastal & offshore engineering, environmental fluid mechanics and water research.
 
 I was previously a Research Fellow  with the Department of Earth Science and Engineering at **Imperial College London** (2016-2018). 
 During that time I was based in the Applied Modelling & Computation Group (AMCG) conducting research on ocean modelling and marine energy technologies. 
@@ -47,7 +47,5 @@ Details of my background are summarised in my CV `here <_themes/personal/static/
 
 
 .. toctree::
-   :maxdepth: 3
-..   index
-..   opportunities
-..   research
+   :maxdepth: 2
+   :caption: Contents:
