@@ -25,6 +25,8 @@ An attractive  avenue towards decarbonising infrastructure and meeting these goa
 - Evaluation and optimisation methods for the design of tidal range structures in the form of a hierarchical suite comprising of 0-D, 1-D, 2-D and 3-D numerical models that can be adapted for offshore applications.
 - The identification of interactions amongst marine structures suggesting that they can interfere with the regional tidal resonance, the hydro-environment and the performance of adjacent marine energy platforms.
 
+Ongoing research expands to the study of turbine induced hydrodynamic patterns but also to the role these technologies can play within the electricity network.
+
 .. |barrage_movie| raw:: html
 
       <iframe width="415" height="276" src="https://www.youtube.com/embed/84LAhSGNgMQ?modestbranding=1&controls=1&rel=0" frameborder="0" allowfullscreen></iframe>
@@ -33,13 +35,13 @@ An attractive  avenue towards decarbonising infrastructure and meeting these goa
 
       <iframe width="415" height="276" src="https://www.youtube.com/embed/k2lLrdzbY54?modestbranding=1&controls=1&rel=0" frameborder="0" allowfullscreen></iframe>
 
-The videos below include simulation outputs using the `Thetis <http://thetisproject.org/>`_ that has been developed for the simulation of tidal range power plant operation, building on the tidal stream capabilities.
+The videos below include simulation outputs using the `Thetis <http://thetisproject.org/>`_ software that has been developed for the simulation of tidal range power plant operation, building on the existing tidal stream array optimisation capabilities.
 
 +-----------------+----------------+
 | |barrage_movie| | |lagoon_movie| |
 +-----------------+----------------+
 
-Research on this theme is currently funded by the NERC fellowship grant `NE/R013209/1 <http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/R013209/1>`_:  Tidal energy operational and spatial planning optimisation. As part of the research I am working together with industrial partners towards the sustainable development of the tidal energy sector. 
+The research stream on marine energy is currently funded by the NERC fellowship grant `NE/R013209/1 <http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/R013209/1>`_:  Tidal energy operational and spatial planning optimisation. As part of the research I am working together with industrial partners towards the sustainable development of the tidal energy sector. 
 Close collaborators beyond the University of Edinburgh include researchers led by   `Prof Matthew Piggott <https://www.imperial.ac.uk/people/m.d.piggott>`_ from the Applied Modelling and Computation Group at Imperial College London.
 
 
@@ -58,7 +60,7 @@ My recent work in this topic involves the application of high resolution Large-E
 Environmental fluid mechanics
 -----------------------------
 
-
+The common factor between the application-focused streams outlined above is the use and development of numerical models that can be applied to more fundamental or generalised engineering applications. Recent examples include studies regarding the formation of depth-averaged vortices in oscillatory flows through inlets, the turbulent flow past bluff bodies and simple geometries. In terms of environmental fluid mechanics I am interested in mixing processes and the characterisation of anthropogenic effects on coastal, estuarine and fluvial proesses.
 
 
 
