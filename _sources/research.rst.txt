@@ -51,6 +51,10 @@ According to latest data from the World Health Organisation 1.8 billion people w
 
 My recent work in this topic involves the application of high resolution Large-Eddy Simulations (LES) to quantify the impact of certain simplified modelling assumptions on the mixing of scalars with external collaborators. I am currently extending my scope to water quality research challenges at regional and far-field scales to address environmental implications of hydrodynamics mixing induced by coastal infrastructure designs. For example, I am interested in the effects of thermal discharge outfalls and the implications of anthropogenic hydrodynamic alterations on meeting water quality standards and directives. My outputs related to this stream include:
 
+-   The identification of detrimental hydrodynamic structures and flow patterns and the interpretation of how these affect kinetic processes.
+-   A methodology that takes advantage of the CFD model insight to diagnose the performance of water treatment tanks, departing from traditional “black box” practices.
+
+
 Environmental fluid mechanics
 -----------------------------
 
