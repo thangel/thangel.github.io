@@ -39,13 +39,15 @@ Details of my background are summarised in my CV `here <_themes/personal/static/
 .. |cardiff| image:: support/cardiff.jpg
    :height: 70px
 
-+------------------+----------------+---------------+
-|  |UoE|           |                | |cardiff|     |
-|                  |  |imperial|    |               |
-+------------------+----------------+---------------+
+..
+        +------------------+----------------+---------------+
+        |  |UoE|           |                | |cardiff|     |
+        |                  |  |imperial|    |               |
+        +------------------+----------------+---------------+
 
 
 .. toctree::
-   :maxdepth: 2
- 
+   :maxdepth: 3
+..   index
+..   opportunities
 ..   research

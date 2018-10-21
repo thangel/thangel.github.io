@@ -1,0 +1,43 @@
+.. webpage documentation master file, created by
+   sphinx-quickstart on Fri May 18 18:18:29 2018.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to webpage's documentation!
+===================================
+
+
+.. only:: html 
+.. 
+  .. sidebar:: Current build status 
+ 
+    .. container:: buildstatus 
+ 
+        |thetisbuild| 
+ 
+    Thetis source code is hosted on  `Github 
+    <https://github.com/thetisproject/thetis/>`__ and is being 
+    continually tested using `Jenkins <https://jenkins.io/>`__. 
+ 
+    .. |thetisbuild| image:: https://jenkins.ese.ic.ac.uk:1080/job/thetisproject/job/thetis/job/master/badge/icon 
+                             :target: https://jenkins.ese.ic.ac.uk:1080/blue/organizations/jenkins/thetisproject%2Fthetis/branches/ 
+                             :align: top 
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+* :ref:`search`
+* :ref:`search`
+* :ref:`search`
+* :ref:`search`
+* :ref:`search`
