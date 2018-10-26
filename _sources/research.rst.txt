@@ -56,6 +56,13 @@ My recent work in this topic involves the application of high resolution Large-E
 -   The identification of detrimental hydrodynamic structures and flow patterns and the interpretation of how these affect kinetic processes.
 -   A methodology that takes advantage of the CFD model insight to diagnose the performance of water treatment tanks, departing from traditional “black box” practices.
 
+.. |contact_tanks| raw:: html
+
+      <img width="1200" height="350" src="https://ars.els-cdn.com/content/image/1-s2.0-S0043135414003224-fx1_lrg.jpg" frameborder="0" >
+
++-----------------+
+| |contact_tanks| |
++-----------------+
 
 Environmental fluid mechanics
 -----------------------------
