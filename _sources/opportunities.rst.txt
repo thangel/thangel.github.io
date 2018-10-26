@@ -8,7 +8,7 @@
 .. only:: html 
 
 
-.. _email: mailto: a.angeloudis06@imperial.ac.uk
+.. _email: mailto: a.angeloudis@ed.ac.uk
 
 Opportunities
 =============
