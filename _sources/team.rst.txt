@@ -1,0 +1,28 @@
+.. webpage documentation master file, created by
+   sphinx-quickstart on Fri May 18 18:18:29 2018.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+
+
+.. only:: html 
+
+
+.. _email: mailto: a.angeloudis@ed.ac.uk
+
+Research Team
+=============
+
+
+- **Lucas Mackie** - PhD research student, Department of Earth Science and Engineering, Imperial College London - Co-Supervised with `Prof Matthew Piggott <https://www.imperial.ac.uk/people/m.d.piggott>`_
+
+
+Academic Collaborators
+----------------------
+
+- `Prof Matthew Piggott <https://www.imperial.ac.uk/people/m.d.piggott>`_, Professor of Computational Geoscience, Department of Earth Science & Engineering, Imperial College London.
+- `Prof Thorsten Stoesser <https://iris.ucl.ac.uk/iris/browse/profile?upi=TSTOE28>`_, Professor in Civil Engineering Fluids, Department of Civil & Environmental Engineering, University College London.
+- `Dr Carlo Gualtieri <http://www.dicea.unina.it/docente.php?id=37>`_, Associate Professor in Environmental Fluid Mechanics, Department of Civil Engineering, University of Napoli Federico II
+- `Stephan Kramer <https://www.imperial.ac.uk/people/s.kramer>`_, Research Associate in Ocean Modelling and Numerical Methods, Department of Earth Science & Engineering, Imperial College London.
+- `Dr Alexandros Avdis <https://www.imperial.ac.uk/people/a.avdis>`_, Research Associate in Coastal & Ocean Modelling, Department of Earth Science & Engineering, Imperial College London
+
