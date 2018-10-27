@@ -16,7 +16,7 @@
 /* -- page layout ----------------------------------------------------------- */
 
 body {
-    font-family: "open_sansregular", sans-serif;
+    font-family: "open_sansregular", serif;
     font-size: 14px;
     background-color: #ffffff;
     color: #ffffff;
@@ -42,7 +42,7 @@ hr {
 
 div.document {
     background-color: #fff;
-    min-height: 765px;
+    min-height: 575px;
 }
 
 div.header{
@@ -74,7 +74,8 @@ div.body {
     padding: 5px 20px 30px 20px;
     margin: 0 0 0 0;
     max-width: 1500px;
-    font-size: 14px;
+    font-size: 13px;
+    font-family: "open_sansregular", serif;
     overflow: auto;
 }
 
