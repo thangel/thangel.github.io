@@ -67,7 +67,7 @@ My recent work in this topic involves the application of high resolution Large-E
 Environmental fluid mechanics
 -----------------------------
 
-The common factor between the application-focused streams outlined above is the use and development of numerical models that can be applied to more fundamental or generalised engineering applications. Recent examples include studies regarding the formation of depth-averaged vortices in oscillatory flows through inlets, the turbulent flow past bluff bodies and simple geometries. In terms of environmental fluid mechanics I am interested in mixing processes and the characterisation of anthropogenic effects on coastal, estuarine and fluvial proesses.
+The common factor between the application-focused streams outlined above is the use and development of numerical models that can be applied to more fundamental or generalised engineering applications. Recent examples include studies regarding the formation of depth-averaged vortices in oscillatory flows through inlets, the turbulent flow past bluff bodies and simple geometries. In terms of environmental fluid mechanics I am interested in mixing processes and the characterisation of anthropogenic effects on coastal, estuarine and fluvial processes.
 
 
 .. toctree::
