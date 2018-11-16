@@ -25,7 +25,6 @@ I also held a postdoctoral position at the Hydro-environmental Research Centre a
 I completed my research studies at Cardiff University where I obtained my PhD in Hydro-environmental Engineering (2014) following an MEng(Hons) in Civil Engineering (2010). 
 Details of my background are summarised in my CV `here <_themes/personal/static/CV_2.pdf>`_.
 
-|
 
 
 .. |UoE| image:: support/uoe.png
@@ -47,5 +46,4 @@ Details of my background are summarised in my CV `here <_themes/personal/static/
 
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1

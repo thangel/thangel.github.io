@@ -3,24 +3,20 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-.. only:: html 
-
 
 Research
 ========
 
+.. toctree::
+   :maxdepth: 1
 
 My research track record so far considers the development, validation and application of numerical models for the resolution of marine renewable energy and environmental engineering challenges. The broader theme underpinning the research is environmental fluid mechanics using computational modelling approaches.
 
 
 Marine renewable energy
 -----------------------
-Our cities and hinterland currently experience extreme environmental conditions that are likely to become more frequent, severe, and unpredictable. 
-The resilience of our infrastructure comes at the cost of energy demand surges, which must be sustained when necessary. 
-Simultaneously, concerns over climate change and the rapid depletion of fossil fuel reserves, have led to mounting investment in renewable energy sources that should be regulated in a manner that addresses the transient electricity demand.  
-An attractive  avenue towards decarbonising infrastructure and meeting these goals is the strategic construction of tidal energy options. Research on this front has focused on several avenues such as: 
+An attractive  avenue towards decarbonising infrastructure is the strategic construction of tidal energy options. Research on this front has focused on several avenues such as: 
 
-.. I have an established track record in tidal range energy analysis and modelling with my comments on marine energy having been featured in the national press. In the last two years, through my work I demonstrate environmental implications associated with major infrastructure proposals (e.g. the Swansea Bay tidal lagoon). 
 
 - Evaluation and optimisation methods for the design of tidal range structures in the form of a hierarchical suite comprising of 0-D, 1-D, 2-D and 3-D numerical models that can be adapted for offshore applications.
 - The identification of interactions amongst marine structures suggesting that they can interfere with the regional tidal resonance, the hydro-environment and the performance of adjacent marine energy platforms.
@@ -45,13 +41,11 @@ The research stream on marine energy is currently funded by the NERC fellowship 
 Close collaborators beyond the University of Edinburgh include researchers led by   `Prof Matthew Piggott <https://www.imperial.ac.uk/people/m.d.piggott>`_ from the Applied Modelling and Computation Group at Imperial College London.
 
 
-
-
 Water treatment hydrodynamics
 -----------------------------
-According to latest data from the World Health Organisation 1.8 billion people were still exposed in 2016 to drinking-water sources contaminated with faeces, with approximately 502,000 deaths annually attributed to water-borne disease transmission. I am interested and have previously conducted studies in physical and numerical models to reliably assess and improve the performance of water treatment facilities with particular reference to contact tanks.
 
-My recent work in this topic involves the application of high resolution Large-Eddy Simulations (LES) to quantify the impact of certain simplified modelling assumptions on the mixing of scalars with external collaborators. I am currently extending my scope to water quality research challenges at regional and far-field scales to address environmental implications of hydrodynamics mixing induced by coastal infrastructure designs. For example, I am interested in the effects of thermal discharge outfalls and the implications of anthropogenic hydrodynamic alterations on meeting water quality standards and directives. My outputs related to this stream include:
+
+I am interested in the effects of thermal discharge outfalls and the implications of hydrodynamic alterations on meeting water quality standards and directives. My outputs related to this stream include:
 
 -   The identification of detrimental hydrodynamic structures and flow patterns and the interpretation of how these affect kinetic processes.
 -   A methodology that takes advantage of the CFD model insight to diagnose the performance of water treatment tanks, departing from traditional “black box” practices.
@@ -70,6 +64,3 @@ Environmental fluid mechanics
 The common factor between the application-focused streams outlined above is the use and development of numerical models that can be applied to more fundamental or generalised engineering applications. Recent examples include studies regarding the formation of depth-averaged vortices in oscillatory flows through inlets, the turbulent flow past bluff bodies and simple geometries. In terms of environmental fluid mechanics I am interested in mixing processes and the characterisation of anthropogenic effects on coastal, estuarine and fluvial processes.
 
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
