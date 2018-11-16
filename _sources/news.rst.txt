@@ -15,7 +15,7 @@ News & Updates
 
 *November, 2018*
 
-- I presented research findings `updates <http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/R013209/1&cookieConsent=A>`_ and an overview of tidal engineering research challenges at the `Energy Futures Lab <http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/administration/energyfutureslab/eventssummary/event_7-9-2018-10-21-39>`_ on 15/11/18. A blog post regarding the theme of the talk can be found `here <https://energyfutureslab.wordpress.com/2018/11/15/tidal-lagoon-barrage-power-plants-in-the-uk-operation-assessment-and-optimisation/>`_.
+- I presented research `updates <http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/R013209/1&cookieConsent=A>`_ and an overview of tidal engineering research challenges at the `Energy Futures Lab <http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/administration/energyfutureslab/eventssummary/event_7-9-2018-10-21-39>`_ on 15/11/18. A blog post regarding the theme of the talk can be found `here <https://energyfutureslab.wordpress.com/2018/11/15/tidal-lagoon-barrage-power-plants-in-the-uk-operation-assessment-and-optimisation/>`_.
 
 *October, 2018*
 
