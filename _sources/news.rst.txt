@@ -13,10 +13,14 @@
 News & Updates
 ==============
 
+**2019**
+
 - A short publication has appeared on the assessment of tidal range structure operations at *Dams and Reservoirs*, the journals of ICE's British Dam Society. It highlights that operation optimisation using simplified models is mostly accurate for small schemes, as the larger impact on tidal dynamics is difficult to parameterise for schemes of a larger scale. The paper can be accessed `here <https://www.icevirtuallibrary.com/doi/abs/10.1680/jdare.18.00042?journalCode=jdare>`_
 
-- A new paper has been published in Applied Energy on the MSc research study Freddie Harcourt on the `flexibility of tidal range power plant operation <https://doi.org/10.1016/j.apenergy.2018.12.091>`_. It presents recent insights on how this inherent flexibility on generation times could be used to negotiate more attractive subsidy deals. 
+- A new paper has been published in *Applied Energy* on the MSc research study of Freddie Harcourt on the `flexibility of tidal range power plant operation <https://doi.org/10.1016/j.apenergy.2018.12.091>`_. It presents recent insights on how this inherent flexibility on generation times could be used to negotiate more attractive subsidy deals. 
   
+
+**2018**
 
 - I presented research `updates <http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/R013209/1&cookieConsent=A>`_ and an overview of tidal engineering research challenges at the `Energy Futures Lab <http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/administration/energyfutureslab/eventssummary/event_7-9-2018-10-21-39>`_ on 15/11/18. A blog post regarding the theme of the talk can be found `here <https://energyfutureslab.wordpress.com/2018/11/15/tidal-lagoon-barrage-power-plants-in-the-uk-operation-assessment-and-optimisation/>`_.
 
