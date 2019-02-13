@@ -1,0 +1,32 @@
+.. webpage documentation master file, created by
+   sphinx-quickstart on Fri May 18 18:18:29 2018.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+
+
+.. only:: html 
+
+
+.. _email: mailto: a.angeloudis@ed.ac.uk
+
+Teaching
+========
+
+**Spring 2019**
+
+*University of Edinburgh*
+
+- *CIVE10006 Hydraulic Engineering 4* - 4th year civil engineering course on unsteady flows. Delivery of undergraduate material on flood routing, St Venant Equations, Solitary Waves, Surges and Coastal Waves. `Course Website <http://www.drps.ed.ac.uk/18-19/dpt/cxcive10006.htm>`_ 
+
+
+
+
+..
+.. |UoE| image:: support/uoe.png
+   :height: 70px
+..
+  .. |UoE| 
+
+
+
