@@ -11,7 +11,7 @@
 .. _email: mailto: a.angeloudis@ed.ac.uk
 
 Research Team
-=============
+-------------
 
 
 - **Lucas Mackie** - PhD research student, Department of Earth Science and Engineering, Imperial College London - Co-Supervised with `Prof Matthew Piggott <https://www.imperial.ac.uk/people/m.d.piggott>`_
