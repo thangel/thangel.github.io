@@ -10,7 +10,7 @@ Introduction
 ============
 
 .. figure:: support/profile.jpg
-   :width: 150px
+   :width: 100px
    :align: left   
 
    
