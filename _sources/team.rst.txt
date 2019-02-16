@@ -6,19 +6,16 @@
 
 
 .. only:: html 
-
-
 .. _email: mailto: a.angeloudis@ed.ac.uk
 
 Research Team
--------------
+=============
 
+**Research Group**
 
 - **Lucas Mackie** - PhD research student, Department of Earth Science and Engineering, Imperial College London - Co-Supervised with `Prof Matthew Piggott <https://www.imperial.ac.uk/people/m.d.piggott>`_
 
-
-Academic Collaborators
-----------------------
+**Academic Collaborators**
 
 - `Prof Matthew Piggott <https://www.imperial.ac.uk/people/m.d.piggott>`_, Professor of Computational Geoscience and Engineering, Department of Earth Science & Engineering, Imperial College London.
 - `Prof Thorsten Stoesser <https://iris.ucl.ac.uk/iris/browse/profile?upi=TSTOE28>`_, Professor of Civil Engineering Fluids, Department of Civil & Environmental Engineering, University College London.

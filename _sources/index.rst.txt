@@ -46,4 +46,12 @@ Details of my background are summarised in my CV `here <_themes/personal/static/
 
 
 .. toctree::
-   :maxdepth: 1
+   :titlesonly:
+   :hidden:
+
+   research
+   teaching
+   publications
+   news
+   team
+   opportunities
