@@ -206,22 +206,22 @@ div.body h6 {
 }
 
 div.body h1 {
-    font-size: 2.3em;
+    font-size: 1.7em;
     line-height: 1;
     margin-bottom: 0.4em;
 }
 div.body h2 {
-    font-size: 1.7em;
+    font-size: 1.4em;
     line-height: 1;
     margin-bottom: 0.6em;
 }
 div.body h3 {
-    font-size: 1.3em;
+    font-size: 1.em;
     line-height: 1;
     margin-bottom: 0.8em;
 }
 div.body h4 {
-    font-size: 0.96em;
+    font-size: 0.9em;
     line-height: 1;
     margin-bottom: 1.0em;
 }
@@ -231,7 +231,7 @@ div.body h5 {
     margin-bottom: 1.4em;
 }
 div.body h6 {
-    font-size: 0.6em;
+    font-size: 0.7em;
     font-weight: bold;
     margin-bottom: 1.6em;
 }
@@ -429,7 +429,7 @@ tt.xref {
 }
 #access .menu-header,
 div.menu {
-    font-size: 14px;
+    font-size: 11pt;
     margin-right: 20px;
     width: 100%;
 }
@@ -444,7 +444,10 @@ div.menu ul {
 div.menu li {
     float: left;
     position: relative;
+    border-bottom: 1px solid #000000;
 }
+
+
 #access a {
     color: #000;
     display: block;
