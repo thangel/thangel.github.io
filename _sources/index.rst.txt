@@ -16,14 +16,13 @@ Introduction
    
 
 
-I am a *Lecturer* in Water Engineering at the **University of Edinburgh** School of Engineering and within the Institute for Infrastructure and the Environment. I am also a *Research Fellow* of the UK's Natural Environment Research Council (NERC). My interests relate to coastal & offshore engineering, environmental fluid mechanics and water research.
+I am a *Lecturer* in Water Engineering at the **University of Edinburgh**, incorporated within the School of Engineering and specifically the Institute for Infrastructure and the Environment. I am also an Industrial Innovation  *Research Fellow* of the UK's Natural Environment Research Council (NERC). My primary research interests relate to coastal & offshore engineering, environmental fluid mechanics and water research.
 
-I was previously a Research Fellow  with the Department of Earth Science and Engineering at **Imperial College London** (2016-2018). 
-During that time I was based in the Applied Modelling & Computation Group (AMCG) conducting research on ocean modelling and marine energy technologies. 
+Prior to Edinburgh, I was a Research Fellow  with the Department of Earth Science and Engineering at **Imperial College London** (2016-2018). 
+The post was based in the Applied Modelling & Computation Group (AMCG) conducting research on ocean modelling and marine energy technologies. 
 
-I also held a postdoctoral position at the Hydro-environmental Research Centre at **Cardiff University** (2014-2016) with a focus on multi-purpose marine energy technologies.
-I completed my research studies at Cardiff University where I obtained my PhD in Hydro-environmental Engineering (2014) following an MEng(Hons) in Civil Engineering (2010). 
-Details of my background are summarised in my CV `here <_themes/personal/static/CV_2.pdf>`_.
+I also held a postdoctoral position at the Hydro-environmental Research Centre at **Cardiff University** (2014-2016) with a focus on multi-purpose marine energy technologies once completing my research studies at Cardiff University where I obtained my PhD in Hydro-environmental Engineering (2014) following an MEng(Hons) in Civil Engineering (2010). 
+Details of my academic trajectory are summarised in my `CV <_themes/personal/static/CV_2.pdf>`_.
 
 
 
