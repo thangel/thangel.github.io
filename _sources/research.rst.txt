@@ -17,7 +17,7 @@ My research track record so far considers the development, validation and applic
 
     .. container:: header
 
-        **Marine renewable energy**
+        *Marine renewable energy*
 
     An attractive  avenue towards decarbonising infrastructure is the strategic construction of tidal energy options. Research on this front has focused on several avenues such as: 
 
@@ -48,7 +48,7 @@ My research track record so far considers the development, validation and applic
 
     .. container:: header
 
-        **Water treatment hydrodynamics**
+        *Water treatment hydrodynamics*
 
     I am interested in the effects of thermal discharge outfalls and the implications of hydrodynamic alterations on meeting water quality standards and directives. My outputs related to this stream include:
 

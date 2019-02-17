@@ -1,7 +1,7 @@
 .toggle .header {
     background-color: #eee;
     height: 18px;
-    color: #444;
+    color: #000;
     cursor: pointer;
     width: 850px;
     text-align: left;
@@ -10,10 +10,10 @@
     outline: none;
     transition: 0.5s;}
 
-.toggle .header:after {
-    content: " ▼";
+.toggle .header:before {
+    content: "> ";
 }
 
-.toggle .header.open:after {
-    content: " ▲";
+.toggle .header.open:before {
+    content: "∨ ";
 }
