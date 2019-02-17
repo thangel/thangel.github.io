@@ -44,6 +44,7 @@ Details of my background are summarised in my CV `here <_themes/personal/static/
         |                  |  |imperial|    |               |
         +------------------+----------------+---------------+
 
+     
 
 .. toctree::
    :titlesonly:

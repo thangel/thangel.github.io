@@ -9,6 +9,7 @@
     <title>Research &#8212; personal website  documentation</title>
     <link rel="stylesheet" href="_static/personal.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="_static/custom.css" />
     <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
     <script type="text/javascript" src="_static/jquery.js"></script>
     <script type="text/javascript" src="_static/underscore.js"></script>
@@ -63,9 +64,10 @@
 <h1>Research<a class="headerlink" href="#research" title="Permalink to this headline">¶</a></h1>
 <div class="toctree-wrapper compound">
 </div>
-<p>My research track record so far considers the development, validation and application of numerical models for the resolution of marine renewable energy and environmental engineering challenges. The broader theme underpinning the research is environmental fluid mechanics using computational modelling approaches.</p>
-<div class="section" id="marine-renewable-energy">
-<h2>Marine renewable energy<a class="headerlink" href="#marine-renewable-energy" title="Permalink to this headline">¶</a></h2>
+<p>My research track record so far considers the development, validation and application of numerical models for the resolution of marine renewable energy and environmental engineering challenges. The broader theme underpinning the research is environmental fluid mechanics using computational modelling approaches. Details of two application-related research streams can be expanded below:</p>
+<div class="toggle docutils container">
+<div class="header docutils container">
+<strong>Marine renewable energy</strong></div>
 <p>An attractive  avenue towards decarbonising infrastructure is the strategic construction of tidal energy options. Research on this front has focused on several avenues such as:</p>
 <ul class="simple">
 <li>Evaluation and optimisation methods for the design of tidal range structures in the form of a hierarchical suite comprising of 0-D, 1-D, 2-D and 3-D numerical models that can be adapted for offshore applications.</li>
@@ -79,16 +81,17 @@
 <col width="48%" />
 </colgroup>
 <tbody valign="top">
-<tr class="row-odd"><td><iframe width="415" height="276" src="https://www.youtube.com/embed/84LAhSGNgMQ?modestbranding=1&controls=1&rel=0" frameborder="0" allowfullscreen></iframe></td>
-<td><iframe width="415" height="276" src="https://www.youtube.com/embed/k2lLrdzbY54?modestbranding=1&controls=1&rel=0" frameborder="0" allowfullscreen></iframe></td>
+<tr class="row-odd"><td><iframe width="400" height="276" src="https://www.youtube.com/embed/84LAhSGNgMQ?modestbranding=1&controls=1&rel=0" frameborder="0" allowfullscreen></iframe></td>
+<td><iframe width="400" height="276" src="https://www.youtube.com/embed/k2lLrdzbY54?modestbranding=1&controls=1&rel=0" frameborder="0" allowfullscreen></iframe></td>
 </tr>
 </tbody>
 </table>
 <p>The research stream on marine energy is currently funded by the NERC fellowship grant <a class="reference external" href="http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/R013209/1">NE/R013209/1</a>:  Tidal energy operational and spatial planning optimisation. As part of the research I am working together with industrial partners towards the sustainable development of the tidal energy sector.
 Close collaborators beyond the University of Edinburgh include researchers led by   <a class="reference external" href="https://www.imperial.ac.uk/people/m.d.piggott">Prof Matthew Piggott</a> from the Applied Modelling and Computation Group at Imperial College London.</p>
 </div>
-<div class="section" id="water-treatment-hydrodynamics">
-<h2>Water treatment hydrodynamics<a class="headerlink" href="#water-treatment-hydrodynamics" title="Permalink to this headline">¶</a></h2>
+<div class="toggle docutils container">
+<div class="header docutils container">
+<strong>Water treatment hydrodynamics</strong></div>
 <p>I am interested in the effects of thermal discharge outfalls and the implications of hydrodynamic alterations on meeting water quality standards and directives. My outputs related to this stream include:</p>
 <ul class="simple">
 <li>The identification of detrimental hydrodynamic structures and flow patterns and the interpretation of how these affect kinetic processes.</li>
@@ -140,9 +143,16 @@ Close collaborators beyond the University of Edinburgh include researchers led b
 
 
 
-    <div class="footer" role="contentinfo">
-        &#169; Copyright 2018, Athanasios Angeloudis.
-      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.8.3.
-    </div>
+ <script type="text/javascript">
+    $(document).ready(function() {
+        $(".toggle > *").hide();
+        $(".toggle .header").show();
+        $(".toggle .header").click(function() {
+            $(this).parent().children().not(".header").toggle(400);
+            $(this).parent().children(".header").toggleClass("open");
+        })
+    });
+</script>
+
   </body>
 </html>

@@ -15,8 +15,6 @@ Teaching
 
 **Spring 2019**
 
-*University of Edinburgh*
-
 - *CIVE10006 Hydraulic Engineering 4* - 4th year civil engineering course on unsteady flows. Delivery of undergraduate material on flood routing, St Venant Equations, Solitary Waves, Surges and Coastal Waves. `Course Website <http://www.drps.ed.ac.uk/18-19/dpt/cxcive10006.htm>`_ 
 
 

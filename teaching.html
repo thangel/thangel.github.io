@@ -9,6 +9,7 @@
     <title>Teaching &#8212; personal website  documentation</title>
     <link rel="stylesheet" href="_static/personal.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="_static/custom.css" />
     <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
     <script type="text/javascript" src="_static/jquery.js"></script>
     <script type="text/javascript" src="_static/underscore.js"></script>
@@ -62,7 +63,6 @@
   <div class="section" id="teaching">
 <h1>Teaching<a class="headerlink" href="#teaching" title="Permalink to this headline">¶</a></h1>
 <p><strong>Spring 2019</strong></p>
-<p><em>University of Edinburgh</em></p>
 <ul class="simple">
 <li><em>CIVE10006 Hydraulic Engineering 4</em> - 4th year civil engineering course on unsteady flows. Delivery of undergraduate material on flood routing, St Venant Equations, Solitary Waves, Surges and Coastal Waves. <a class="reference external" href="http://www.drps.ed.ac.uk/18-19/dpt/cxcive10006.htm">Course Website</a></li>
 </ul>
@@ -98,9 +98,16 @@
 
 
 
-    <div class="footer" role="contentinfo">
-        &#169; Copyright 2018, Athanasios Angeloudis.
-      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.8.3.
-    </div>
+ <script type="text/javascript">
+    $(document).ready(function() {
+        $(".toggle > *").hide();
+        $(".toggle .header").show();
+        $(".toggle .header").click(function() {
+            $(this).parent().children().not(".header").toggle(400);
+            $(this).parent().children(".header").toggleClass("open");
+        })
+    });
+</script>
+
   </body>
 </html>
