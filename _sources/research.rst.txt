@@ -42,7 +42,7 @@ My research track record so far considers the development, validation and applic
     | |barrage_movie| | |lagoon_movie| |
     +-----------------+----------------+
 
-    The research stream on marine energy is currently funded by the NERC fellowship grant `NE/R013209/1 <http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/R013209/1>`_:  Tidal energy operational and spatial planning optimisation. As part of the research I am working together with industrial partners towards the sustainable development of the tidal energy sector. 
+    The research stream on marine energy is currently funded by the NERC fellowship grant `NE/R013209/1 <http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/R013209/1>`_ and `NE/R013209/2 <http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/R013209/2>`_ : Tidal energy operational and spatial planning optimisation. As part of the research I am working together with industrial partners towards the sustainable development of the tidal energy sector. 
     Close collaborators beyond the University of Edinburgh include researchers led by   `Prof Matthew Piggott <https://www.imperial.ac.uk/people/m.d.piggott>`_ from the Applied Modelling and Computation Group at Imperial College London.
 
 .. container:: toggle
