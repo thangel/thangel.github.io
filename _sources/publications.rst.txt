@@ -9,7 +9,7 @@
 Publications
 ============
 
-The following list contains a list of the research contributions comprising journal papers, conference proceedings and book chapters
+The following list contains research contributions comprising journal papers, conference proceedings, abstracts and book chapters
 
 
 .. raw:: html
