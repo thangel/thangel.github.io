@@ -21,7 +21,7 @@ I am a *Lecturer* in Water Engineering at the **University of Edinburgh**, incor
 Prior to Edinburgh, I was a Research Fellow  with the Department of Earth Science and Engineering at **Imperial College London** (2016-2018). 
 The post was based in the Applied Modelling & Computation Group (AMCG) conducting research on ocean modelling and marine energy technologies. 
 
-I also held a postdoctoral position at the Hydro-environmental Research Centre at **Cardiff University** (2014-2016) with a focus on multi-purpose marine energy technologies once completing my research studies for  my PhD in Hydro-environmental Engineering (2014) following an MEng(Hons) in Civil Engineering (2010). 
+I was also based at the Hydro-environmental Research Centre of **Cardiff University** (2014-2016) conducting research on multi-purpose marine energy technologies once completing my studies for a PhD in Hydro-environmental Engineering (2014) and an MEng(Hons) in Civil Engineering (2010). 
 Details of my academic trajectory are summarised in my `CV <_themes/personal/static/CV_2.pdf>`_.
 
 
