@@ -19,7 +19,7 @@ My research track record so far considers the development, validation and applic
 
         *Marine renewable energy*
 
-    An attractive routes towards decarbonising infrastructure is the strategic construction of tidal energy options. Research on this front has focused on several directions such as: 
+    An attractive route towards decarbonising infrastructure is the strategic construction of tidal energy options. Research on this front has focused on several directions such as: 
 
 
     - Evaluation and optimisation methods for the design of tidal range structures in the form of a hierarchical suite comprising of 0-D, 1-D, 2-D and 3-D numerical models that can be adapted for offshore applications.
