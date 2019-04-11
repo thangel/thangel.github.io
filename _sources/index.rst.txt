@@ -3,8 +3,17 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-.. only:: html 
+.. |twitter| raw:: html
+   
+   <a class="twitter-timeline" href="https://twitter.com/AAngeloudis" data-tweet-limit="2">Tweets by TwitterDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+.. only:: html 
+ 
+    .. sidebar:: Twitter feed 
+      
+      .. container:: twitter
+     
+          |twitter|
 
 Introduction
 ============
@@ -23,6 +32,7 @@ The post was based in the Applied Modelling & Computation Group (AMCG) conductin
 
 I was also based at the Hydro-environmental Research Centre of **Cardiff University** (2014-2016) conducting research on multi-purpose marine energy technologies once completing my studies for a PhD in Hydro-environmental Engineering (2014) and an MEng(Hons) in Civil Engineering (2010). 
 Details of my academic trajectory are summarised in my `CV <_themes/personal/static/CV_2.pdf>`_.
+
 
 
 

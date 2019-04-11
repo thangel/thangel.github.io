@@ -132,13 +132,14 @@ div.sidebar {
     margin: 15px -10px 0em 5px;
     border-style: solid;
     border-width: 2px;
-    border-color: #888;
-    background-color: #eee;
+    border-color: #fff;
+    background-color: #fff;
     width: 250px;
     float: right;
     padding: 6px 6px 6px 6px;
-    border-radius: 8px;
+    border-radius: 10px;
 }
+
 
 div.latest-commit {
     max-width: 300px;
@@ -173,6 +174,8 @@ pre.commit {
 
 p.sidebar-title {
     font-weight: bold;
+    font-size: 5px;
+    color: #fff;
 }
 
 div.youtube{
