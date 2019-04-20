@@ -10,7 +10,7 @@ Research
 .. toctree::
    :maxdepth: 1
 
-My research track record so far considers the development, validation and application of numerical models for the resolution of marine renewable energy and environmental engineering challenges. The broader theme underpinning the research is environmental fluid mechanics using computational modelling approaches. Details of two application-related research streams can be expanded below:
+Our research considers the development, validation and application of numerical models for the resolution of marine renewable energy and environmental engineering challenges. The broader theme underpinning the research is environmental fluid mechanics using computational modelling approaches. Details of two application-related research streams can be expanded below:
 
 
 .. container:: toggle
@@ -19,14 +19,14 @@ My research track record so far considers the development, validation and applic
 
         *Marine renewable energy*
 
-    An attractive route towards decarbonising infrastructure is the strategic construction of tidal energy options. Research on this front has focused on several directions such as: 
+    An attractive route towards decarbonising infrastructure is the strategic deployment of tidal energy technologies. My research has focused on several directions: 
 
 
     - Evaluation and optimisation methods for the design of tidal range structures in the form of a hierarchical suite comprising of 0-D, 1-D, 2-D and 3-D numerical models that can be adapted for offshore applications.
     - The identification of interactions amongst marine structures suggesting that they can interfere with the regional tidal resonance, the hydro-environment and the performance of adjacent marine energy platforms.
     - The study of regional anthropogenic hydrodynamic patterns by the installation and operation of hydraulic structures such as sluice gates and low-head hydropower turbines.
 
-    Ongoing research expands to the study of turbine induced hydrodynamic patterns but also to the role these technologies can play within the electricity network.
+    Ongoing activities target the study of turbine induced hydrodynamic patterns but also to the role marine energy technologies can serve within the electricity network.
 
     .. |barrage_movie| raw:: html
       
@@ -36,13 +36,13 @@ My research track record so far considers the development, validation and applic
 
         <iframe width="400" height="276" src="https://www.youtube.com/embed/k2lLrdzbY54?modestbranding=1&controls=1&rel=0" frameborder="0" allowfullscreen></iframe>
 
-    The videos below include simulation outputs using the `Thetis <http://thetisproject.org/>`_ software that has been developed for the simulation of tidal range power plant operation, building on the existing tidal stream array optimisation capabilities.
+    Videos below include hydrodynamics simulation outputs of the `Thetis <http://thetisproject.org/>`_ softwarei, as adapted for the simulation of tidal range power plant operation, building on the existing tidal stream array optimisation capabilities.
 
     +-----------------+----------------+
     | |barrage_movie| | |lagoon_movie| |
     +-----------------+----------------+
 
-    The research stream on marine energy is currently funded by the NERC fellowship grant `NE/R013209/1 <http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/R013209/1>`_ and `NE/R013209/2 <http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/R013209/2>`_ : Tidal energy operational and spatial planning optimisation. As part of the research I am working together with industrial partners towards the sustainable development of the tidal energy sector. 
+    The research stream on marine energy is currently funded by the NERC fellowship grant `NE/R013209/1 <http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/R013209/1>`_ and `NE/R013209/2 <http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/R013209/2>`_ : Tidal energy operational and spatial planning optimisation. 
     Close collaborators beyond the University of Edinburgh include researchers led by   `Prof Matthew Piggott <https://www.imperial.ac.uk/people/m.d.piggott>`_ from the Applied Modelling and Computation Group at Imperial College London.
 
 .. container:: toggle
@@ -51,7 +51,7 @@ My research track record so far considers the development, validation and applic
 
         *Water treatment hydrodynamics*
 
-    I am interested in the effects of thermal discharge outfalls and the implications of hydrodynamic alterations on meeting water quality standards and directives. My outputs related to this stream include:
+    I am interested in the effects of thermal discharge outfalls and the implications of hydrodynamic alterations on meeting water quality standards and directives. Outputs related to this stream include findings on water treatment process hydrodynamics, such as:
 
     -   The identification of detrimental hydrodynamic structures and flow patterns and the interpretation of how these affect kinetic processes.
     -   A methodology that takes advantage of the CFD model insight to diagnose the performance of water treatment tanks, departing from traditional “black box” practices.
@@ -69,6 +69,6 @@ My research track record so far considers the development, validation and applic
 Environmental fluid mechanics
 -----------------------------
 
-The common factor between the application-focused streams outlined above is the use and development of numerical models that can be applied to more fundamental or generalised engineering applications. Recent examples include studies regarding the formation of depth-averaged vortices in oscillatory flows through inlets, the turbulent flow past bluff bodies and simple geometries. In terms of environmental fluid mechanics I am interested in mixing processes and the characterisation of anthropogenic effects on coastal, estuarine and fluvial processes.
+The common factor between the application-focused streams outlined above is the application and development of numerical models that can be extended to more fundamental or generalised engineering applications. Recent examples include studies on the formation of depth-averaged vortices in oscillatory flows through inlets, the turbulent flow past bluff bodies and simple geometries. In terms of environmental fluid mechanics we are interested in mixing processes and the characterisation of anthropogenic effects on coastal, estuarine and fluvial processes.
 
 
