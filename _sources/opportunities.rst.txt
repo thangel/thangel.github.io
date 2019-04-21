@@ -35,7 +35,13 @@ Opportunities
 
    Putting together a robust proposal on a hydro-environmental modelling theme is crucial for your success and you are encouraged to get in touch with any questions prior to your proposal submission. The research proposal itself will not be explicitly binding, and can be formally adapted later over the course of the research. Nonetheless, it is imperative for applications to  demonstrate traits reflected by academic researchers and an understanding of contemporary water research challenges. Additional documentation to be taken under consideration should be sent directly by `e-mail <mailto: a.angeloudis@ed.ac.uk>`_.
 
+   Additional information on scholarships at the University of Edinburgh can be found below.
 
+   - https://www.eng.ed.ac.uk/studying/postgraduate/research/phd-scholarships
+   
+   - http://www.ed.ac.uk/schools-departments/student-funding/postgraduate/overview
+
+   For any query on the scholarships and the application process, please contact directly the Postgraduate Office of the School of Engineering: EngGradOffice@ed.ac.uk. 
 
 ..
 .. |UoE| image:: support/uoe.png
