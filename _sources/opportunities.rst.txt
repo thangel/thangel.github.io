@@ -22,8 +22,18 @@ Opportunities
     
     - **I am currently offering an opportunity for a PhD studentship at The University of Edinburgh for research on Water & Environmental engineering**.
       I am looking for highly motivated candidates that are keen to conduct computational research that is aligned with the fields of *coastal engineering*, *environmental fluid mechanics* or CFD for *water engineering* applications. A strong foundation in civil engineering hydraulics and an interest in modern programming techniques (using Python, Matlab, C and FORTRAN) and High-Performance Computing will be considered as prerequisites.
+
       The funding is sourced from The University of Edinburgh and is available for UK/EU candidates. If you are interested to know more, feel free to contact me by `email`_.
 
+.. container:: toggle2
+
+   .. container:: header
+
+      *PhD Applicants*
+
+   If you wish to apply for a scholarship at the University of Edinburgh, you require a PhD offer from the University of Edinburgh to apply for an external scholarship or you already have a scholarship or you do not need one,  the first step to join our team is to apply `online <www.eng.ed.ac.uk/postgraduate/research/apply>`_ for a PhD though the University of Edinburgh. During this process, You will be asked to put together a research proposal and specify your preferred supervisor.
+
+   Putting together a robust proposal on a hydro-environmental modelling theme is crucial for your success and you are encouraged to get in touch with any questions prior to your proposal submission. The research proposal itself will not be explicitly binding, and can be formally adapted later over the course of the research. Nonetheless, it is imperative for applications to  demonstrate traits reflected by academic researchers and an understanding of contemporary water research challenges. Additional documentation to be taken under consideration should be sent directly by `e-mail <mailto: a.angeloudis@ed.ac.uk>`_.
 
 
 
