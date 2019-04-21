@@ -11,17 +11,26 @@
 Research Team
 =============
 
-**Research Group**
 
-- **Lucas Mackie** - PhD research student, Department of Earth Science and Engineering, Imperial College London - Co-Supervised with `Prof Matthew Piggott <https://www.imperial.ac.uk/people/m.d.piggott>`_
+.. container:: toggle2
 
-**Academic Collaborators**
+    .. container:: header
+        
+       *Research Group*
 
-- `Prof Matthew Piggott <https://www.imperial.ac.uk/people/m.d.piggott>`_, Professor of Computational Geoscience and Engineering, Department of Earth Science & Engineering, Imperial College London.
-- `Prof Thorsten Stoesser <https://iris.ucl.ac.uk/iris/browse/profile?upi=TSTOE28>`_, Professor of Civil Engineering Fluids, Department of Civil & Environmental Engineering, University College London.
-- `Prof Roger A. Falconer <https://www.cardiff.ac.uk/people/view/364367-falconer-roger>`_, Emeritus Professor of Water Management, Hydro-environmental Research Centre, Cardiff University.
-- `Dr Carlo Gualtieri <http://www.dicea.unina.it/docente.php?id=37>`_, Associate Professor of Environmental Hydraulics, Department of Civil Engineering, University of Napoli Federico II.
-- `Stephan Kramer <https://www.imperial.ac.uk/people/s.kramer>`_, Research Associate in Ocean Modelling and Numerical Methods, Department of Earth Science & Engineering, Imperial College London.
-- `Dr Alexandros Avdis <https://www.imperial.ac.uk/people/a.avdis>`_, Research Associate in Coastal & Ocean Modelling, Department of Earth Science & Engineering, Imperial College London.  
-- `Dr Nicolas Barral <https://nicolasbarral.fr/>`_, Research Associate in Computational Geoscience, Department of Earth Science & Engineering, Imperial College London.
-- `Dr Paul Evans <https://www.linkedin.com/in/paulevans83/?originalSubdomain=uk>`_, Research Associate & Visiting Lecturer in Ocean Engineering, School of Engineering, Cardiff University.
+    - **Lucas Mackie** - PhD research student, Department of Earth Science and Engineering, Imperial College London - Co-Supervised with `Prof Matthew Piggott <https://www.imperial.ac.uk/people/m.d.piggott>`_
+
+.. container:: toggle2
+
+    .. container:: header
+        
+       *Academic Collaborators*
+
+    - `Prof Matthew Piggott <https://www.imperial.ac.uk/people/m.d.piggott>`_, Professor of Computational Geoscience and Engineering, Department of Earth Science & Engineering, Imperial College London.
+    - `Prof Thorsten Stoesser <https://iris.ucl.ac.uk/iris/browse/profile?upi=TSTOE28>`_, Professor of Civil Engineering Fluids, Department of Civil & Environmental Engineering, University College London.
+    - `Prof Roger A. Falconer <https://www.cardiff.ac.uk/people/view/364367-falconer-roger>`_, Emeritus Professor of Water Management, Hydro-environmental Research Centre, Cardiff University.
+    - `Dr Carlo Gualtieri <http://www.dicea.unina.it/docente.php?id=37>`_, Associate Professor of Environmental Hydraulics, Department of Civil Engineering, University of Napoli Federico II.
+    - `Stephan Kramer <https://www.imperial.ac.uk/people/s.kramer>`_, Research Associate in Ocean Modelling and Numerical Methods, Department of Earth Science & Engineering, Imperial College London.
+    - `Dr Alexandros Avdis <https://www.imperial.ac.uk/people/a.avdis>`_, Research Associate in Coastal & Ocean Modelling, Department of Earth Science & Engineering, Imperial College London.  
+    - `Dr Nicolas Barral <https://nicolasbarral.fr/>`_, Research Associate in Computational Geoscience, Department of Earth Science & Engineering, Imperial College London.
+    - `Dr Paul Evans <https://www.linkedin.com/in/paulevans83/?originalSubdomain=uk>`_, Research Associate & Visiting Lecturer in Ocean Engineering, School of Engineering, Cardiff University.

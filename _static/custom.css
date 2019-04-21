@@ -10,12 +10,32 @@
     outline: none;
     transition: 0.5s;}
 
+.toggle2 .header {
+    background-color: #eee;
+    height: 18px;
+    color: #000;
+    cursor: pointer;
+    width: 850px;
+    text-align: left;
+    padding: 10px;
+    border: none;
+    outline: none;
+    transition: 0.5s;}
+
 .toggle .header:before {
     content: "> ";
 }
 
 .toggle .header.open:before {
     content: "∨ ";
+}
+
+.toggle2 .header:before {
+    content: "∨ ";
+}
+
+.toggle2 .header.open:before {
+    content: "> ";
 }
 
 /* Fake image test */

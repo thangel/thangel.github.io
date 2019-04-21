@@ -63,11 +63,16 @@
             
   <div class="section" id="research-team">
 <h1>Research Team<a class="headerlink" href="#research-team" title="Permalink to this headline">¶</a></h1>
-<p><strong>Research Group</strong></p>
+<div class="toggle2 docutils container">
+<div class="header docutils container">
+<em>Research Group</em></div>
 <ul class="simple">
 <li><strong>Lucas Mackie</strong> - PhD research student, Department of Earth Science and Engineering, Imperial College London - Co-Supervised with <a class="reference external" href="https://www.imperial.ac.uk/people/m.d.piggott">Prof Matthew Piggott</a></li>
 </ul>
-<p><strong>Academic Collaborators</strong></p>
+</div>
+<div class="toggle2 docutils container">
+<div class="header docutils container">
+<em>Academic Collaborators</em></div>
 <ul class="simple">
 <li><a class="reference external" href="https://www.imperial.ac.uk/people/m.d.piggott">Prof Matthew Piggott</a>, Professor of Computational Geoscience and Engineering, Department of Earth Science &amp; Engineering, Imperial College London.</li>
 <li><a class="reference external" href="https://iris.ucl.ac.uk/iris/browse/profile?upi=TSTOE28">Prof Thorsten Stoesser</a>, Professor of Civil Engineering Fluids, Department of Civil &amp; Environmental Engineering, University College London.</li>
@@ -78,6 +83,7 @@
 <li><a class="reference external" href="https://nicolasbarral.fr/">Dr Nicolas Barral</a>, Research Associate in Computational Geoscience, Department of Earth Science &amp; Engineering, Imperial College London.</li>
 <li><a class="reference external" href="https://www.linkedin.com/in/paulevans83/?originalSubdomain=uk">Dr Paul Evans</a>, Research Associate &amp; Visiting Lecturer in Ocean Engineering, School of Engineering, Cardiff University.</li>
 </ul>
+</div>
 </div>
 
 
@@ -120,6 +126,18 @@
         })
     });
 </script>
+
+ <script type="text/javascript">
+    $(document).ready(function() {
+        $(".toggle2 > *").show();
+        $(".toggle2 .header").show();
+        $(".toggle2 .header").click(function() {
+            $(this).parent().children().not(".header").toggle(400);
+            $(this).parent().children(".header").toggleClass("open");
+        })
+    });
+</script>
+
 
   </body>
 </html>

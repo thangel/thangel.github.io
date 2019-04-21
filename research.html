@@ -156,5 +156,17 @@ Close collaborators beyond the University of Edinburgh include researchers led b
     });
 </script>
 
+ <script type="text/javascript">
+    $(document).ready(function() {
+        $(".toggle2 > *").show();
+        $(".toggle2 .header").show();
+        $(".toggle2 .header").click(function() {
+            $(this).parent().children().not(".header").toggle(400);
+            $(this).parent().children(".header").toggleClass("open");
+        })
+    });
+</script>
+
+
   </body>
 </html>

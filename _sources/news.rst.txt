@@ -15,7 +15,7 @@ News
 
 Latest updates on research and teaching matters are summarised below: 
 
-.. container:: toggle
+.. container:: toggle2
 
     .. container:: header
 

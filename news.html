@@ -64,7 +64,7 @@
   <div class="section" id="news">
 <h1>News<a class="headerlink" href="#news" title="Permalink to this headline">¶</a></h1>
 <p>Latest updates on research and teaching matters are summarised below:</p>
-<div class="toggle docutils container">
+<div class="toggle2 docutils container">
 <div class="header docutils container">
 <em>2019</em></div>
 <ul class="simple">
@@ -125,6 +125,18 @@
         })
     });
 </script>
+
+ <script type="text/javascript">
+    $(document).ready(function() {
+        $(".toggle2 > *").show();
+        $(".toggle2 .header").show();
+        $(".toggle2 .header").click(function() {
+            $(this).parent().children().not(".header").toggle(400);
+            $(this).parent().children(".header").toggleClass("open");
+        })
+    });
+</script>
+
 
   </body>
 </html>
