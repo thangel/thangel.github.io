@@ -22,7 +22,7 @@ This page summarises teaching responsibilities within the Institute for Infrastr
 
         *CIVE10006 Hydraulic Engineering IV*
 
-    This is 4th year undergraduate civil engineering module on unsteady flows delivered since the Spring semester of 2019. I am responsible for the delivery of material on open channel flows and specifically flood routing, St Venant Equations, Solitary Waves, Surges and Coastal Waves. `Course Website <http://www.drps.ed.ac.uk/18-19/dpt/cxcive10006.htm>`_ 
+    This is a 4th year undergraduate civil engineering module on unsteady flows delivered since the Spring semester of 2019. I am responsible for the delivery of material on open channel flows and specifically flood routing, St Venant Equations, Solitary Waves, Surges and Coastal Waves. `Course Website <http://www.drps.ed.ac.uk/18-19/dpt/cxcive10006.htm>`_ 
 
 
 ..
