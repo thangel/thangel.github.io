@@ -20,6 +20,8 @@ Research Team
 
     - **Lucas Mackie** - PhD research student, Department of Earth Science and Engineering, Imperial College London - Co-Supervised with `Prof Matthew Piggott <https://www.imperial.ac.uk/people/m.d.piggott>`_.
 
+    - **Anastasia Fragkou** - PhD research student, Institute for Infrastructure & Environment, University of Edinburgh - Co-Supervised with `Prof Venugopal Venkatesan <https://www.eng.ed.ac.uk/about/people/dr-vengatesan-venugopal>`_.
+
 .. container:: toggle2
 
     .. container:: header
