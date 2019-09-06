@@ -8,7 +8,15 @@
     padding: 10px;
     border: none;
     outline: none;
-    transition: 0.5s;}
+    white-space: nowrap;
+    transition: 0.5s;
+}
+
+.toggle .header p {
+  height: 100px;
+  width: 100px;
+  display: inline;
+}
 
 .toggle2 .header {
     background-color: #eee;
@@ -21,6 +29,12 @@
     border: none;
     outline: none;
     transition: 0.5s;}
+
+.toggle2 .header p {
+  height: 100px;
+  width: 100px;
+  display: inline;
+}
 
 .toggle .header:before {
     content: "> ";

@@ -17,7 +17,7 @@ Our research considers the development, validation and application of numerical 
 
     .. container:: header
 
-        *Marine renewable energy*
+       *Marine renewable energy*
 
     An attractive route towards decarbonising infrastructure is the strategic deployment of tidal energy technologies. My research has focused on several directions: 
 
