@@ -21,8 +21,8 @@
 Introduction
 ============
 
-Welcome! On these pages I am detailing information on research interests and activities of my hydro-environmental research team based at the University of Edinburgh and beyond. 
-Essentially, I seek to provide herein a medium to summarise our progress and academic opportunities associated with our work on environmental fluid mechanics.
+Welcome! On these pages I am detailing information on research interests and activities of my water and coastal engineering research team based at the University of Edinburgh and beyond. 
+Essentially, I seek to provide herein a medium to summarise our progress and academic opportunities associated with our work on water research and environmental fluid mechanics.
 
 Biography
 ---------
@@ -32,7 +32,7 @@ Biography
    :align: left   
 
 
-I am a *Lecturer* in Water Engineering at the **University of Edinburgh**, incorporated within the School of Engineering and specifically the Institute for Infrastructure and the Environment. In addition, as an Industrial Innovation  *Research Fellow* of the UK's Natural Environment Research Council (NERC) I coordinate research activities on coastal & offshore engineering, environmental fluid mechanics and water research.
+I am a *Lecturer* in Water, Coastal and Offshore  Engineering at the **University of Edinburgh**, incorporated within the School of Engineering and specifically the Institute for Infrastructure and the Environment. In addition, as an Industrial Innovation  *Research Fellow* of the UK's Natural Environment Research Council (NERC) I coordinate research activities on coastal & offshore engineering, environmental fluid mechanics and water research.
 
 Prior to Edinburgh, I was a Research Fellow  with the Department of Earth Science and Engineering at **Imperial College London** (2016-2018). 
 The post was within the Applied Modelling & Computation Group (AMCG), conducting research on ocean modelling and marine energy technologies. 
