@@ -85,7 +85,7 @@ div.footer {
     width: 900px;
     padding: 23px 0px 30px 0px;
     text-align: center;
-    font-size: 9pt;
+    font-size: 1em;
     background: #fff;
     clear:both;
 }
@@ -102,7 +102,7 @@ div.footer a:hover {
 div.related {
     line-height: 30px;
     color: #373839;
-    font-size: 12px;
+    font-size: 1em;
     background-color: #eee;
 }
 
@@ -174,7 +174,7 @@ pre.commit {
 
 p.sidebar-title {
     font-weight: bold;
-    font-size: 5px;
+    font-size: 1em;
     color: #fff;
 }
 
@@ -241,7 +241,7 @@ div.body h6 {
 
 a.headerlink {
     color: #1b61d6;
-    font-size: 12pt;
+    font-size: 1em;
     padding: 0 4px 0 4px;
     text-decoration: none;
 }
@@ -432,7 +432,7 @@ tt.xref {
 }
 #access .menu-header,
 div.menu {
-    font-size: 10pt; 
+    font-size: 1em; 
     margin-right: 20px;
     width: 100%;
 }
@@ -626,7 +626,7 @@ a.button {
     -moz-border-radius: .7em;
     border-radius: .7em;
     color:#667;
-    font-size:13px;
+    font-size:1em;
     margin:0 10px 0 0;
     padding:.75em 1.25em;
     text-decoration:none;
