@@ -28,6 +28,8 @@ Biography
 ---------
 
 .. figure:: support/profile.jpg
+   :class: img-rounded
+   :border-radius: 25 px
    :width: 100px
    :align: left   
 
