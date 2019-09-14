@@ -52,9 +52,10 @@
     content: "> ";
 }
 
-/* Fake image test */
-.test .fakeimg {
-  background-color: #aaa;
-  width: 80%;
-  padding: 20px;
+
+.styledimg {
+background-image: url(path);
+background-repeat: no-repeat;
+width: 10px;
+height: 20px;
 }
