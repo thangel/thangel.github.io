@@ -1,5 +1,6 @@
 .toggle .header {
     background-color: #eee;
+    font-size: 1.05em;
     height: 18px;
     color: #000;
     cursor: pointer;
@@ -16,6 +17,7 @@
   height: 100px;
   width: 100px;
   display: inline;
+  font-size: 1.05em;
 }
 
 .toggle2 .header {
@@ -28,11 +30,13 @@
     padding: 10px;
     border: none;
     outline: none;
+    font-size: 1.05em;
     transition: 0.5s;}
 
 .toggle2 .header p {
   height: 100px;
   width: 100px;
+  font-size: 1.05em;
   display: inline;
 }
 
