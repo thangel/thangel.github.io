@@ -17,7 +17,7 @@
 
 body {
     font-family: "pt_serifregular", sans-serif;
-    font-size: 10pt; /*11pt*/
+    font-size: 16px; /*11pt*/
     background-color: #ffffff;
     color: #ffffff;
     margin: 0;
@@ -241,7 +241,7 @@ div.body h6 {
 
 a.headerlink {
     color: #1b61d6;
-    font-size: 1em;
+    font-size: 16px;
     padding: 0 4px 0 4px;
     text-decoration: none;
 }
