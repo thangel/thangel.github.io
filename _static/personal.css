@@ -17,7 +17,7 @@
 
 body {
     font-family: "pt_serifregular", sans-serif;
-    font-size: 1em; /*11pt*/
+    font-size: 10pt; /*11pt*/
     background-color: #ffffff;
     color: #ffffff;
     margin: 0;
@@ -74,7 +74,7 @@ div.body {
     padding: 5px 20px 30px 20px;
     margin: 0 0 0 0;
     max-width: 1500px;
-    font-size: 11pt;
+    font-size: 1em;
     font-family: "pt_serifregular", sans-serif;
     overflow: auto;
 }
@@ -432,7 +432,7 @@ tt.xref {
 }
 #access .menu-header,
 div.menu {
-    font-size: 1em;
+    font-size: 10pt; 
     margin-right: 20px;
     width: 100%;
 }
