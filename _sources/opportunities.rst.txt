@@ -36,9 +36,9 @@ Opportunities
 
       *PhD Applicants*
 
-   If you wish to do a PhD or attain a studentship at the University of Edinburgh, the first step to join our team is to apply `online <www.eng.ed.ac.uk/postgraduate/research/apply>`_ for a PhD though the University of Edinburgh website. During the application process, You will be asked to put together a research proposal along with the remaining documentation and specify your preferred supervisor.
+   If you wish to study for a PhD and/or attain a studentship at the University of Edinburgh, the first step to join our team is to apply `online <www.eng.ed.ac.uk/postgraduate/research/apply>`_.  During the application process, You will be asked to prepare a research proposal along with the remaining documentation, and specify your preferred supervisor.
 
-   Putting together a robust proposal on a hydro-environmental modelling theme is crucial for your success and you are encouraged to get in touch with any questions prior to your proposal submission. The research proposal itself will not be explicitly binding, and can be formally adapted later over the course of the research. Nonetheless, it is imperative for applicants to  demonstrate traits reflected by academic researchers and specifically for our group, an understanding of contemporary water research challenges. Further documentation to be taken under consideration should be sent directly by `e-mail <mailto: a.angeloudis@ed.ac.uk>`_.
+   Putting together a robust proposal on a hydro-environmental modelling theme is crucial for your success and you are encouraged to get in touch with any questions. The research proposal itself will not be explicitly binding, and can be formally adapted at a later stage. It is imperative for applicants to  demonstrate traits reflected by academic researchers and specifically for our group, an understanding of contemporary water research challenges. Further documentation to be taken under consideration should be sent directly by `e-mail <mailto: a.angeloudis@ed.ac.uk>`_.
 
    Additional information on scholarships at the University of Edinburgh can be found below.
 
@@ -46,7 +46,7 @@ Opportunities
    
    - http://www.ed.ac.uk/schools-departments/student-funding/postgraduate/overview
 
-   For any query on the scholarships and the application process, please contact directly the Postgraduate Office of the School of Engineering: EngGradOffice@ed.ac.uk. 
+   For any queries on the scholarships and the application process, please contact directly the Postgraduate Office of the School of Engineering: EngGradOffice@ed.ac.uk. 
 
 ..
 .. |UoE| image:: support/uoe.png

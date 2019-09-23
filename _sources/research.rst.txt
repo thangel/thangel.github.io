@@ -37,7 +37,7 @@ Our research considers the development, validation and application of numerical 
 
         <iframe width="400" height="276" src="https://www.youtube.com/embed/k2lLrdzbY54?modestbranding=1&controls=1&rel=0" frameborder="0" allowfullscreen></iframe>
 
-    Videos present hydrodynamics simulation outputs from the `Thetis <http://thetisproject.org/>`_ software, as adapted for the simulation of tidal range power plant operation and building on the existing tidal stream array optimisation capabilities.
+    Videos present hydrodynamics simulations from the `Thetis <http://thetisproject.org/>`_ software, as adapted for the simulation of tidal range power plant operation, building on the existing tidal stream array optimisation capabilities.
 
     +-----------------+----------------+
     | |barrage_movie| | |lagoon_movie| |
