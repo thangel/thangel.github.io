@@ -29,7 +29,7 @@ Biography
 
 .. figure:: support/profile.jpg
    :class: img-rounded
-   :width: 100px
+   :width: 120px
    :align: left   
 
 
