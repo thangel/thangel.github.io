@@ -33,7 +33,8 @@ Biography
    :align: left   
 
 
-I am a *Lecturer* in Water, Coastal and Offshore  Engineering at the **University of Edinburgh**, incorporated within the School of Engineering and specifically the Institute for Infrastructure and the Environment. In addition, as an Industrial Innovation  *Research Fellow* of the UK's Natural Environment Research Council (NERC) I coordinate research activities on coastal & offshore engineering, environmental fluid mechanics and water research.
+I am a *Lecturer* in Water, Coastal and Offshore  Engineering at the **University of Edinburgh**, incorporated within the School of Engineering and specifically the Institute for Infrastructure and the Environment. In addition, as an Industrial Innovation  *Research Fellow* of the UK's Natural Environment Research Council (NERC) I coordinate research activities on coastal & offshore engineering, environmental fluid mechanics and water research. 
+I am a Chartered member of the Technical Chamber of Greece (TEE), a member of the Institution of Civil Engineers (ICE) and have been affiliated with the International Association of Hydro-environment Engineering and Research (IAHR). 
 
 Prior to Edinburgh, I was a Research Fellow working on coastal engineering applications with the Department of Earth Science and Engineering at **Imperial College London** (2016-2018) and the Hydro-environmental Research Centre of **Cardiff University** (2014-2016). I hold a PhD in Hydro-environmental Engineering (2014) and an MEng(Hons) in Civil Engineering (2010). 
 Details of my academic trajectory are summarised in my `CV <_static/CV_2.pdf>`_.

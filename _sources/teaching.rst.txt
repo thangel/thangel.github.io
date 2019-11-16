@@ -13,7 +13,7 @@
 Teaching
 ========
 
-This page summarises teaching responsibilities within the Institute for Infrastructure & the Environment as of October 2018.
+This page summarises teaching responsibilities within the Discipline of Civil & Environmental Engineering.
 
 
 .. container:: toggle2
@@ -23,6 +23,15 @@ This page summarises teaching responsibilities within the Institute for Infrastr
         *CIVE10006 Hydraulic Engineering IV*
 
     This is a 4th year undergraduate civil engineering module on unsteady flows delivered since the Spring semester of 2019. I am responsible for the delivery of material on open channel flows and specifically flood routing, St Venant Equations, Solitary Waves, Surges and Coastal Waves. `Course Website <http://www.drps.ed.ac.uk/18-19/dpt/cxcive10006.htm>`_ 
+
+
+.. container:: toggle2
+
+    .. container:: header
+
+        *CIVE09035 Water  Engineering, Transport & Treatment III*
+
+    A 3rd year undergraduate civil engineering module covering the fundamentals of hydraulic flows since the Autumn semester of 2019. I am responsible for the delivery of material introducing the gradually varied flow equation, the use and rationale of certain flow-control structures, and the application of the momentum and energy principles on open channel flow settings. `Course Website  <http://www.drps.ed.ac.uk/19-20/dpt/cxcive09035.htm>`_ 
 
 
 ..
