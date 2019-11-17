@@ -22,7 +22,7 @@ Introduction
 ============
 
 Welcome! On these pages I am detailing information on research interests and activities of my water and coastal engineering research team based at the University of Edinburgh and beyond. 
-Essentially, I seek to provide herein a medium to summarise our progress and academic opportunities associated with our work on water research and environmental fluid mechanics.
+Essentially, this site serves as a medium to summarise our progress and academic opportunities associated with our work on water research and environmental fluid mechanics.
 
 Biography
 ---------
@@ -40,23 +40,28 @@ Prior to Edinburgh, I was a Research Fellow working on coastal engineering appli
 Details of my academic trajectory are summarised in my `CV <_static/CV_2.pdf>`_.
 
 
+.. |UoE| raw:: html
 
-.. |UoE| image:: support/uoe.png
-   :height: 70px
+   <style>
+     img {border-radius: 0%;}
+   </style>
+   <img src="_static/uoe.png" style="height:50px">
 
 
-.. |imperial| image:: support/logo_imperial_college_london.png
-   :height: 50px
+.. |imperial| raw:: html
+   
+   <img src="_static/logo_imperial_college_london.png" style="height:40px">
 
 
-.. |cardiff| image:: support/cardiff.jpg
-   :height: 70px
+.. |cardiff| raw:: html
 
-..
-        +------------------+----------------+---------------+
-        |  |UoE|           |                | |cardiff|     |
-        |                  |  |imperial|    |               |
-        +------------------+----------------+---------------+
+   <img src="_static/cardiff.jpg" style="height:55px">
+
+        
++------------------+-------------------------------+---------------+
+|  |UoE|           |                               | |cardiff|     |
+|                  |  |imperial|                   |               |
++------------------+-------------------------------+---------------+
 
      
 

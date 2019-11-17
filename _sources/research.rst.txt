@@ -1,4 +1,4 @@
-.. webpage documentation master file, created by
+ webpage documentation master file, created by
    sphinx-quickstart on Fri May 18 18:18:29 2018.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
@@ -9,6 +9,11 @@ Research
 
 .. toctree::
    :maxdepth: 1
+
+
+.. |imperial| raw:: html
+   
+   <img src="https://www.dropbox.com/s/r96rdwovoqgjnlm/ramsey_gif_2a.gif?raw=1" style="height:40px" class="center">
 
 Our research considers the development, validation and application of numerical models for the resolution of marine renewable energy and environmental engineering challenges. The broader theme underpinning the research is environmental fluid mechanics using computational modelling approaches. Details of two application-related research streams can be expanded below:
 
