@@ -22,7 +22,7 @@ Research Team
 
     - **Anastasia Fragkou** - PhD research student, Institute for Infrastructure & Environment, University of Edinburgh - Co-Supervised with `Prof Vengatesan Venugopal <https://www.eng.ed.ac.uk/about/people/dr-vengatesan-venugopal>`_.
 
-.. container:: toggle2
+.. container:: toggle
 
     .. container:: header
         
