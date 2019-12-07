@@ -438,30 +438,31 @@ tt.xref {
 }
 #access .menu-header,
 div.menu {
-    font-size: 1em; 
-    margin-right: 20px;
+    float:left;
+    font-size: 1.2em; 
+    margin-right: 0px;
     width: 100%;
 }
 #access .menu-header ul,
 div.menu ul {
-    float:right;
-    margin-right:10px;
+    float:left;
     list-style: none;
-    margin: 0;
 }
 #access .menu-header li,
 div.menu li {
+    margin-right: 1px;
     float: left;
+    left:5%;
     position: relative;
-    border-bottom: 1px solid #000000;
+    border-bottom: 1.2px solid #000000; 
 }
 
 
 #access a {
     color: #000;
     display: block;
-    line-height: 38px;
-    padding: 0 10px;
+    line-height: 50px;
+    padding: 0 15px;
     text-decoration: none;
 }
 #access ul ul {
@@ -471,9 +472,7 @@ div.menu li {
     display: none;
     position: absolute;
     top: 38px;
-    left: 0;
-    float: left;
-    width: 180px;
+    width: 200px;
     z-index: 99999;
 }
 #access ul ul li {
@@ -485,10 +484,9 @@ div.menu li {
 }
 #access ul ul a {
     background: #333;
-    line-height: 1em;
-    padding: 10px;
-    width: 160px;
-    height: auto;
+    line-height: 2em;
+    padding: 15px;
+    width: 180px;
 }
 #access li:hover > a,
 #access ul ul :hover > a {
@@ -499,7 +497,7 @@ div.menu li {
     display: block;
 }
 #access ul li.current_page_item > a,
-#access ul li.current-m#enu-ancestor > a,
+#access ul li.current-menu-ancestor > a,
 #access ul li.current-menu-item > a,
 #access ul li.current-menu-parent > a {
     color: #fff;
