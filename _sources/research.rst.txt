@@ -29,16 +29,18 @@ Our research considers the development, validation and application of numerical 
 
 .. |barrage_movie| raw:: html
       
-          <div style="float: right; padding-left: 60px; padding-right: 40px;  margin: 2px auto; overflow: hidden">
-                <p><iframe width="300" height="175" align="middle" src="https://www.youtube.com/embed/84LAhSGNgMQ?modestbranding=1&controls=1&rel=0" frameborder="0" allowfullscreen></iframe></p>
+          <div style="float: right; padding-left: 40px; padding-right: 40px;  margin: 2px auto; overflow: hidden">
+                <p><iframe width="400" height="200" align="middle" src="https://www.youtube.com/embed/84LAhSGNgMQ?modestbranding=1&controls=1&rel=0" frameborder="0" allowfullscreen></iframe></p>
 
-                <p><iframe width="300" height="140" align="middle" src="https://www.youtube.com/embed/k2lLrdzbY54?modestbranding=1&controls=1&rel=0" frameborder="0" allowfullscreen></iframe></p>
+                <p><iframe width="400" height="150" align="middle" src="https://www.youtube.com/embed/k2lLrdzbY54?modestbranding=1&controls=1&rel=0" frameborder="0" allowfullscreen></iframe></p>
         </div>
 
 .. |contact_tanks| raw:: html
 
-      <img width="400" height="175" align='right'  padding-left:"60px" padding-right:"40px" src="https://ars.els-cdn.com/content/image/1-s2.0-S0043135414003224-fx1_lrg.jpg" frameborder="0" >
+          <div style="float: right; padding-left: 40px; padding-right: 40px;  margin: 2px auto; overflow: hidden">
+             <p><img width="450" height="200" align='right'  src="https://ars.els-cdn.com/content/image/1-s2.0-S0043135414003224-fx1_lrg.jpg" frameborder="0" ></p>
 
+          </div>
 
 .. container:: toggle
 
