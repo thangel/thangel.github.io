@@ -26,38 +26,36 @@ Research
 Our research considers the development, validation and application of numerical models for the resolution of marine renewable energy and environmental engineering challenges. The broader theme underpinning the research is environmental fluid mechanics using computational modelling approaches. Details of two application-related research streams can be expanded below:
 
 
+
+.. |barrage_movie| raw:: html
+      
+          <div style="float: right; padding-left: 60px; padding-right: 40px;  margin: 2px auto; overflow: hidden">
+                <p><iframe width="300" height="175" align="middle" src="https://www.youtube.com/embed/84LAhSGNgMQ?modestbranding=1&controls=1&rel=0" frameborder="0" allowfullscreen></iframe></p>
+
+                <p><iframe width="300" height="140" align="middle" src="https://www.youtube.com/embed/k2lLrdzbY54?modestbranding=1&controls=1&rel=0" frameborder="0" allowfullscreen></iframe></p>
+        </div>
+
+.. |contact_tanks| raw:: html
+
+      <img width="400" height="175" align='right'  padding-left:"60px" padding-right:"40px" src="https://ars.els-cdn.com/content/image/1-s2.0-S0043135414003224-fx1_lrg.jpg" frameborder="0" >
+
+
 .. container:: toggle
 
     .. container:: header
 
        *Marine renewable energy*
 
-    An attractive route towards decarbonising infrastructure is the strategic deployment of tidal energy technologies. Our work has so far focused on several directions: 
+    |barrage_movie| 
+ 
+    An attractive route towards decarbonising infrastructure is the strategic deployment of tidal energy technologies. Our work has so far focused on the development of state-of-the-art software, towards  addressing engineering challenges  associated with the energy output and environmental impacts. 
 
-
-    - Evaluation and optimisation methods for the design of tidal range and stream energy installation in the form of a hierarchical suite comprising of 0-D, 1-D, 2-D and 3-D numerical models that can be adapted for offshore applications.
-    - The identification of interactions amongst marine structures suggesting that they can interfere with the regional tidal resonance, the hydro-environment and the performance of adjacent marine energy platforms.
-    - The study of regional anthropogenic hydrodynamic patterns by the installation and operation of hydraulic structures such as sluice gates and low-head hydropower turbines.
-    - The optimisation of these technologies considering technological constraints, energy demand and financial constraints. 
-      
-    Ongoing activities target the study of turbine induced hydrodynamic patterns but also to the role marine energy technologies can serve within the electricity network, acknowledging their financial viability as a requirements.
-
-    .. |barrage_movie| raw:: html
-      
-        <iframe width="400" height="276" src="https://www.youtube.com/embed/84LAhSGNgMQ?modestbranding=1&controls=1&rel=0" frameborder="0" allowfullscreen></iframe>
-
-    .. |lagoon_movie| raw:: html
-
-        <iframe width="400" height="276" src="https://www.youtube.com/embed/k2lLrdzbY54?modestbranding=1&controls=1&rel=0" frameborder="0" allowfullscreen></iframe>
-
-    Videos present hydrodynamics simulations from the `Thetis <http://thetisproject.org/>`_ software, as adapted for the simulation of tidal range power plant operation, building on the existing tidal stream array optimisation capabilities.
-
-    +-----------------+----------------+
-    | |barrage_movie| | |lagoon_movie| |
-    +-----------------+----------------+
+    For example, the animations present hydrodynamics simulations from the `Thetis <http://thetisproject.org/>`_ software, as adapted for the simulation of tidal range power plant operation, building on the existing tidal stream array optimisation capabilities.
 
     The research stream on marine energy is currently funded by the NERC fellowship grant `NE/R013209/1 <http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/R013209/1>`_ and `NE/R013209/2 <http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/R013209/2>`_ : Tidal energy operational and spatial planning optimisation. 
-    Close collaborators beyond the University of Edinburgh include researchers led by   `Prof Matthew Piggott <https://www.imperial.ac.uk/people/m.d.piggott>`_ from the Applied Modelling and Computation Group at Imperial College London.
+
+   
+
 
 .. container:: toggle
 
@@ -65,18 +63,15 @@ Our research considers the development, validation and application of numerical 
 
         *Water treatment hydrodynamics*
 
-    I am interested in the effects of thermal discharge outfalls and the implications of hydrodynamic alterations on meeting water quality standards and directives. Outputs related to this stream include findings on water treatment process hydrodynamics, such as:
 
-    -   The identification of detrimental hydrodynamic structures and flow patterns and the interpretation of how these affect kinetic processes.
-    -   A methodology that takes advantage of the CFD model insight to diagnose the performance of water treatment tanks, departing from traditional “black box” practices.
+    |contact_tanks| 
 
-    .. |contact_tanks| raw:: html
 
-              <img width="1200" height="350" src="https://ars.els-cdn.com/content/image/1-s2.0-S0043135414003224-fx1_lrg.jpg" frameborder="0" >
+    We  are interested in the effects of discharge outfalls and the implications of hydrodynamic-driven alterations on meeting water quality standards and directives. Outputs related to this stream include findings on water treatment process hydrodynamics, such as:
 
-    +-----------------+     
-    | |contact_tanks| |
-    +-----------------+
+    -   Identification of detrimental hydrodynamic structures and flow patterns and the interpretation of how these affect kinetic processes.
+    -   A methodology that employs CFD model insight to diagnose the performance of water treatment tanks, departing from “black box” practices.
+
 
 
 
@@ -86,4 +81,12 @@ Environmental fluid mechanics
 The common factor between the application-focused streams outlined above is the application and development of numerical models that can be extended to more fundamental or generalised engineering applications. Recent examples include studies on the formation of depth-averaged vortices in oscillatory flows through inlets, the turbulent flow past bluff bodies and simple geometries. In terms of environmental fluid mechanics we are interested in mixing processes and the characterisation of anthropogenic effects on coastal, estuarine and fluvial processes.
 
 
+
+..    - Evaluation and optimisation methods for the design of tidal range and stream energy installation in the form of a hierarchical suite comprising of 0-D, 1-D, 2-D and 3-D numerical models that can be adapted for offshore applications.
+    - The identification of interactions amongst marine structures suggesting that they can interfere with the regional tidal resonance, the hydro-environment and the performance of adjacent marine energy platforms.
+    - The study of regional anthropogenic hydrodynamic patterns by the installation and operation of hydraulic structures such as sluice gates and low-head hydropower turbines.
+    - The optimisation of these technologies considering technological constraints, energy demand and financial constraints. 
+      
+    Ongoing activities target the study of turbine induced hydrodynamic patterns but also to the role marine energy technologies can serve within the electricity network, acknowledging their financial viability as a requirements.
+..    Close collaborators beyond the University of Edinburgh include researchers led by   `Prof Matthew Piggott <https://www.imperial.ac.uk/people/m.d.piggott>`_ from the Applied Modelling and Computation Group at Imperial College London.
 

@@ -39,26 +39,32 @@
 
 |analytics|
 
+About us
+--------
+
+Welcome! These pages detail information on our activities within the Applied Fluid Mechanics Group, based at the University of Edinburgh. 
+
+..  This site serves as a medium to summarise our progress and academic opportunities associated with our work on water research and environmental fluid mechanics.
+
+
 Introduction
-============
-
-Welcome! On these pages I am detailing information on research interests and activities of my water and coastal engineering research team based at the University of Edinburgh and beyond. 
-Essentially, this site serves as a medium to summarise our progress and academic opportunities associated with our work on water research and environmental fluid mechanics.
-
-Biography
----------
+------------
 
 .. figure:: support/profile.jpg
    :class: img-rounded
-   :width: 120px
+   :width: 100px
    :align: left   
 
 
-I am a *Lecturer* in Water, Coastal and Offshore  Engineering at the **University of Edinburgh**, incorporated within the School of Engineering and specifically the Institute for Infrastructure and the Environment. In addition, as an Industrial Innovation  *Research Fellow* of the UK's Natural Environment Research Council (NERC) I coordinate research activities on coastal & offshore engineering, environmental fluid mechanics and water research. 
-I am a Chartered member of the Technical Chamber of Greece (TEE), a member of the Institution of Civil Engineers (ICE) and have been affiliated with the International Association of Hydro-environment Engineering and Research (IAHR). 
+I am a *Lecturer* in Environmental Fluid Mechanics at the *University of Edinburgh*, incorporated within the Institute for Infrastructure and the Environment and leading the Applied Fluid Mechanics Group. In addition, as an Industrial Innovation  *Research Fellow* of the UK's Natural Environment Research Council (NERC) I coordinate research activities on computational methods for marine and offshore renewable energy, working closely with industry and other research groups.
 
-Prior to Edinburgh, I was a Research Fellow working on coastal engineering applications with the Department of Earth Science and Engineering at **Imperial College London** (2016-2018) and the Hydro-environmental Research Centre of **Cardiff University** (2014-2016). I hold a PhD in Hydro-environmental Engineering (2014) and an MEng(Hons) in Civil Engineering (2010). 
-Details of my academic trajectory are summarised in my `CV <_static/CV_2.pdf>`_.
+.. I am a Chartered member of the Technical Chamber of Greece (TEE), a member of the Institution of Civil Engineers (ICE) and have been affiliated with the International Association of Hydro-environment Engineering and Research (IAHR). 
+
+I have previously worked with the Department of Earth Science and Engineering at **Imperial College London** and the Hydro-environmental Research Centre of **Cardiff University**. 
+More details are summarised in my `CV <_static/CV_2.pdf>`_.
+
+.. I hold a PhD in Hydro-environmental Engineering (2014) and an MEng(Hons) in Civil Engineering (2010). 
+
 
 
 .. |UoE| raw:: html
