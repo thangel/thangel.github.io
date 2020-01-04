@@ -1,8 +1,8 @@
-.toggle .header {
+div.toggle .header {
     background-color: #eee;
     font-size: 20px;
     font-family:Georgia, serif;-ms-text-size-adjust:200%;-webkit-text-size-adjust:200%;
-    height: 30px;
+    height: 1.5em;
     color: #000;
     cursor: pointer;
     width: 830px;
@@ -14,16 +14,15 @@
     transition: 0.5s;
 }
 
-.toggle .header p {
-  height: 100px;
-  width: 100px;
+div.toggle .header p {
   display: inline;
+  height: 1.3em;
   font-size: 20px;
 }
 
-.toggle2 .header {
+div.toggle2 .header {
     background-color: #eee;
-    height: 30px;
+    height: 1.5em;
     color: #000;
     cursor: pointer;
     width: 830px;
@@ -31,22 +30,21 @@
     padding: 10px;
     border: none;
     outline: none;
-    font-family:Georgia, serif;-ms-text-size-adjust:200%;-webkit-text-size-adjust:200%;
+    font-family:Georgia, serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;
     font-size: 20px;
     transition: 0.5s;}
 
-.toggle2 .header p {
-  height: 100px;
-  width: 100px;
+div.toggle2 .header p {
+  height: 1.3em;
   font-size: 20px; 
   display: inline;
 }
 
-.toggle .header:before {
+div.toggle .header:before {
     content: ">  ";
 }
 
-.toggle .header.open:before {
+div.toggle .header.open:before {
     content: "∨  ";
 }
 
