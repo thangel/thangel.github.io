@@ -183,7 +183,7 @@ Our research considers the development, validation and application of numerical 
                  
                    .. raw :: html
 
-                        <div> <a https://www.mdpi.com/2311-5521/2/2/17">On the Values for the Turbulent Schmidt Number in Environmental Flows , <b>Fluids</b>, 2017</a> </div><br>
+                        <div> <a href="https://www.mdpi.com/2311-5521/2/2/17">On the Values for the Turbulent Schmidt Number in Environmental Flows , <b>Fluids</b>, 2017</a> </div><br>
 
            .. container :: leftside
 
