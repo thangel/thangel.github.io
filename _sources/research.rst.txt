@@ -7,6 +7,7 @@
    :maxdepth: 1
 
 
+
 .. |temp| raw:: html
 
     <div style="margin: 0 auto; overflow: hidden; ">
@@ -27,20 +28,6 @@ Our research considers the development, validation and application of numerical 
 
 
 
-.. |barrage_movie| raw:: html
-      
-          <div style="float: right; padding-left: 40px; padding-right: 40px;  margin: 2px auto; overflow: hidden">
-                <p><iframe width="400" height="200" align="middle" src="https://www.youtube.com/embed/84LAhSGNgMQ?modestbranding=1&controls=1&rel=0" frameborder="0" allowfullscreen></iframe></p>
-
-                <p><iframe width="400" height="150" align="middle" src="https://www.youtube.com/embed/k2lLrdzbY54?modestbranding=1&controls=1&rel=0" frameborder="0" allowfullscreen></iframe></p>
-        </div>
-
-.. |contact_tanks| raw:: html
-
-          <div style="float: right; padding-left: 70px; padding-right: 50px;  margin: 2px auto; overflow: hidden">
-             <p><img width="350" height="140" align='right'  src="https://ars.els-cdn.com/content/image/1-s2.0-S0043135414003224-fx1_lrg.jpg" frameborder="0" ></p>
-
-          </div>
 
 .. container:: toggle
 
@@ -53,18 +40,20 @@ Our research considers the development, validation and application of numerical 
 
     The research stream on marine energy is currently funded by the NERC fellowship grant `NE/R013209/1 <http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/R013209/1>`_ and `NE/R013209/2 <http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/R013209/2>`_ : Tidal energy operational and spatial planning optimisation. 
 
-    .. container:: note2
+    .. container :: note2 
 
            .. container :: leftside
 
                    .. image:: _static/document.png
-                           :width: 60px
+                           :width: 40px
                            :align: left
                            :target: https://www.sciencedirect.com/science/article/pii/S0306261918319093
 
            ..  container :: rightside
+                 
+                   .. raw :: html
 
-                `Utilising the flexible generation potential of tidal range power plants to optimise economic value, Applied Energy, 2019 <https://www.sciencedirect.com/science/article/pii/S0306261918319093>`_ .
+                        <a href="https://www.sciencedirect.com/science/article/pii/S0306261918319093">Utilising the flexible generation potential of tidal range power plants to optimise economic value, <b>Applied Energy</b>, 2019</a> 
 
 
 ..
