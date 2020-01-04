@@ -24,7 +24,7 @@ Research
 ========
 
 
-Our research considers the development, validation and application of numerical models for the resolution of marine renewable energy and environmental engineering challenges. The broader theme underpinning the research is environmental fluid mechanics using computational modelling approaches. Details of two application-related research streams can be expanded below:
+Our research considers the development, validation and application of numerical models for the resolution of marine renewable energy and environmental engineering challenges. The broader theme underpinning the research is environmental fluid mechanics using computational modelling approaches. Details of certain application-related research streams can be expanded below, including selected publications:
 
 
 
@@ -42,10 +42,11 @@ Our research considers the development, validation and application of numerical 
 
     .. container :: note2 
 
+
            .. container :: leftside
 
                    .. image:: _static/document.png
-                           :width: 40px
+                           :width: 30px
                            :align: left
                            :target: https://www.sciencedirect.com/science/article/pii/S0306261918319093
 
@@ -54,6 +55,33 @@ Our research considers the development, validation and application of numerical 
                    .. raw :: html
 
                         <a href="https://www.sciencedirect.com/science/article/pii/S0306261918319093">Utilising the flexible generation potential of tidal range power plants to optimise economic value, <b>Applied Energy</b>, 2019</a> 
+
+           .. container :: leftside
+
+                   .. image:: _static/document.png
+                           :width: 30px
+                           :align: left
+                           :target: https://www.sciencedirect.com/science/article/pii/S0306261917317671
+
+           ..  container :: rightside
+                 
+                   .. raw :: html
+
+                        <a href="https://www.sciencedirect.com/science/article/pii/S0306261917317671">Optimising tidal range power plant operation, <b>Applied Energy</b>, 2018</a> <br><br>
+
+
+           .. container :: leftside
+
+                   .. image:: _static/document.png
+                           :width: 30px
+                           :align: left
+                           :target: https://www.sciencedirect.com/science/article/pii/S0960148118305263
+
+           ..  container :: rightside
+                 
+                   .. raw :: html
+
+                        <div> <a href="https://www.sciencedirect.com/science/article/pii/S0960148118305263">Tidal range energy resource and optimization – Past perspectives and future challenges, <b>Renewable Energy</b>, 2018</a> </div>
 
 
 ..
@@ -73,13 +101,102 @@ Our research considers the development, validation and application of numerical 
     -   Identification of detrimental hydrodynamic structures and flow patterns and the interpretation of how these affect kinetic processes.
     -   A methodology that employs CFD model insight to diagnose the performance of water treatment tanks, departing from “black box” practices.
 
+    .. container :: note2 
+
+
+           .. container :: leftside
+
+                   .. image:: _static/document.png
+                           :width: 30px
+                           :align: left
+                           :target: https://link.springer.com/article/10.1007/s10666-016-9502-x
+
+           ..  container :: rightside
+                 
+                   .. raw :: html
+
+                        <a href="https://link.springer.com/article/10.1007/s10666-016-9502-x">Contact Tank Design Impact on Process Performance, <b>Environmental Modelling & Assessment</b>, 2016</a> <br>
+
+           .. container :: leftside
+
+                   .. image:: _static/document.png
+                           :width: 30px
+                           :align: left
+                           :target: https://www.sciencedirect.com/science/article/pii/S1570644314000410
+
+           ..  container :: rightside
+                 
+                   .. raw :: html
+
+                        <div> <a https://www.sciencedirect.com/science/article/pii/S1570644314000410">Flow, transport and disinfection performance in small- and full-scale contact tanks, <b>Journal of Hydro-environment Research</b>, 2015</a> </div>
+
+           .. container :: leftside
+
+                   .. image:: _static/document.png
+                           :width: 30px
+                           :align: left
+                           :target: https://www.sciencedirect.com/science/article/pii/S0043135414003224
+
+           ..  container :: rightside
+                 
+                   .. raw :: html
+
+                        <a href="https://www.sciencedirect.com/science/article/pii/S0043135414003224">Predicting the disinfection efficiency range in chlorine contact tanks through a CFD-based approach, <b>Water Research</b>, 2014</a> 
 
 
 
-Environmental fluid mechanics
------------------------------
 
-The common factor between the application-focused streams outlined above is the application and development of numerical models that can be extended to more fundamental or generalised engineering applications. Recent examples include studies on the formation of depth-averaged vortices in oscillatory flows through inlets, the turbulent flow past bluff bodies and simple geometries. In terms of environmental fluid mechanics we are interested in mixing processes and the characterisation of anthropogenic effects on coastal, estuarine and fluvial processes.
+
+.. container:: toggle
+
+    .. container:: header
+
+        *Environmental Fluid Mechanics*
+
+    The common factor between the application-focused streams outlined above is the application and development of numerical models that can be extended to more fundamental or generalised engineering applications. recent examples include studies on the formation of depth-averaged vortices in oscillatory flows through inlets, the turbulent flow past bluff bodies and simple geometries. in terms of environmental fluid mechanics we are interested in mixing processes and the characterisation of anthropogenic effects on coastal, estuarine and fluvial processes.
+
+
+    .. container :: note2 
+
+
+           .. container :: leftside
+
+                   .. image:: _static/document.png
+                           :width: 30px
+                           :align: left
+                           :target: https://link.springer.com/article/10.1007/s10652-018-9626-4
+
+           ..  container :: rightside
+                 
+                   .. raw :: html
+
+                        <a href="https://link.springer.com/article/10.1007/s10652-018-9626-4">Fate of large-scale vortices in idealized tidal lagoons, <b>Environmental Fluid Mechanics</b>, 2018</a> <br><br>
+
+           .. container :: leftside
+
+                   .. image:: _static/document.png
+                           :width: 30px
+                           :align: left
+                           :target: https://www.mdpi.com/2311-5521/2/2/17
+
+           ..  container :: rightside
+                 
+                   .. raw :: html
+
+                        <div> <a https://www.mdpi.com/2311-5521/2/2/17">On the Values for the Turbulent Schmidt Number in Environmental Flows , <b>Fluids</b>, 2017</a> </div><br>
+
+           .. container :: leftside
+
+                   .. image:: _static/document.png
+                           :width: 30px
+                           :align: left
+                           :target: https://doi.org/10.1063/1.5004028
+
+           ..  container :: rightside
+                 
+                   .. raw :: html
+
+                        <a href="https://doi.org/10.1063/1.5004028">Large-eddy simulation of shallow turbulent wakes behind a conical island, <b>Physics of Fluids</b>, 2017</a> 
 
 
 
