@@ -2,7 +2,7 @@ div.toggle .header {
     background-color: #eee;
     font-size: 20px;
     font-family:Georgia, serif;-ms-text-size-adjust:200%;-webkit-text-size-adjust:200%;
-    height: 1.5em;
+    height: 2.0em;
     color: #000;
     cursor: pointer;
     width: 830px;
@@ -16,13 +16,13 @@ div.toggle .header {
 
 div.toggle .header p {
   display: inline;
-  height: 1.3em;
+  height: 2.0em;
   font-size: 20px;
 }
 
 div.toggle2 .header {
     background-color: #eee;
-    height: 1.5em;
+    height: 2.0em;
     color: #000;
     cursor: pointer;
     width: 830px;
@@ -35,7 +35,7 @@ div.toggle2 .header {
     transition: 0.5s;}
 
 div.toggle2 .header p {
-  height: 1.3em;
+  height: 2.0em;
   font-size: 20px; 
   display: inline;
 }
