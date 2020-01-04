@@ -1,5 +1,5 @@
 /*
- * thetis.css_t
+ thetis.css_t
  * ~~~~~~~~~~~~
  *
  * This is a modified version of the pylons theme.
@@ -637,7 +637,7 @@ a.button {
 }
 a.button:hover,
 a.button:active {
-    color: #FF4B33;
+    color: #6699ff;
 }
 
 .footer-nav {

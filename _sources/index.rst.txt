@@ -52,7 +52,7 @@ Introduction
 
 .. figure:: support/profile.jpg
    :class: img-rounded
-   :width: 100px
+   :height: 200 px
    :align: left   
 
 
@@ -90,7 +90,7 @@ More details are summarised in my `CV <_static/CV_2.pdf>`_.
 |                  |  |imperial|                   |               |
 +------------------+-------------------------------+---------------+
 
-     
+
 
 .. toctree::
    :titlesonly:

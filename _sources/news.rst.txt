@@ -15,17 +15,26 @@ News
 
 Latest updates on research and teaching matters are summarised below: 
 
+
 .. container:: toggle2
+
+    .. container:: header
+
+        *2020*
+     
+    - Yearly highlights will be presented here
+
+.. container:: toggle
 
     .. container:: header
 
         *2019*
 
-    - Progress on tidal range energy income optimisation was presented by `Lucas Mackie <https://www.imperial.ac.uk/people/l.mackie18>`_ at EWTEC 2019, demonstrating interesting interactions between the operation of multiple tidal power plants, as detailed in the `conference paper <https://www.dropbox.com/s/1za84hyg2cp2tir/EWTEC2019.pdf?dl=0>`_.
+    - Recent progress on tidal range energy income optimisation was presented by `Lucas Mackie <https://www.imperial.ac.uk/people/l.mackie18>`_ at EWTEC 2019, demonstrating interesting interactions amongst  tidal power plants, as detailed in the `conference paper <https://www.dropbox.com/s/1za84hyg2cp2tir/EWTEC2019.pdf?dl=0>`_.
 
-    - `Lucas Mackie <https://www.imperial.ac.uk/people/l.mackie18>`_ presented a `poster <https://uc054bba4e3ee56cf40c96bd1c83.dl.dropboxusercontent.com/cd/0/get/AfZmJosRG3uXM4-OFeFwJwKe_smGWvFha_fFhUY_r_-HYgHXXLto8y47yJ2F95QIzlIdo1sxKbVMEDeBojJWD7-0xsaeopFhMSsMRuA1f7ev9WuuTsozGoFnxdbMVTAyh1M/file?dl=1#>`_ on his doctoral research on  the optimisation of  tidal  range power plant operation. It was presented at the University of Oxford's `Tidal Energy Workshop <https://www.eng.ox.ac.uk/events/7th-oxford-tidal-energy-workshop/>`_.
+    - `Lucas Mackie <https://www.imperial.ac.uk/people/l.mackie18>`_ presented a `poster <https://uc054bba4e3ee56cf40c96bd1c83.dl.dropboxusercontent.com/cd/0/get/AfZmJosRG3uXM4-OFeFwJwKe_smGWvFha_fFhUY_r_-HYgHXXLto8y47yJ2F95QIzlIdo1sxKbVMEDeBojJWD7-0xsaeopFhMSsMRuA1f7ev9WuuTsozGoFnxdbMVTAyh1M/file?dl=1#>`_ on his research regarding  the optimisation of  tidal range power plant operation. It was presented at the University of Oxford's `Tidal Energy Workshop <https://www.eng.ox.ac.uk/events/7th-oxford-tidal-energy-workshop/>`_.
 
-    - A publication is now available on the assessment of tidal range structure operations at *Dams and Reservoirs*, the journal of ICE's British Dam Society. It highlights that operation optimisation using simplified models is mostly accurate for small schemes, as the larger impact on tidal dynamics is difficult to parameterise for schemes of a larger scale. The paper can be accessed `from here <https://www.icevirtuallibrary.com/doi/abs/10.1680/jdare.18.00042?journalCode=jdare>`_.
+    - A publication is now available on the assessment of tidal range structure operations at *Dams and Reservoirs*. It highlights that operation optimisation using simplified models is mostly accurate for small schemes, as the larger impact on tidal dynamics invalidates simplified model assumptions. The paper can be accessed `from here <https://www.icevirtuallibrary.com/doi/abs/10.1680/jdare.18.00042?journalCode=jdare>`_.
 
     - A new paper has been published in *Applied Energy* on the MSc research study of Freddie Harcourt on the `flexibility of tidal range power plant operation <https://doi.org/10.1016/j.apenergy.2018.12.091>`_. It presents recent insights on how this inherent flexibility on generation times could be used to negotiate more attractive subsidy deals. 
   
@@ -37,7 +46,7 @@ Latest updates on research and teaching matters are summarised below:
         *2018*
 
 
-    - I presented research `updates <http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/R013209/1&cookieConsent=A>`_ and an overview of tidal engineering research challenges at the `Energy Futures Lab <http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/administration/energyfutureslab/eventssummary/event_7-9-2018-10-21-39>`_ on 15/11/18. A blog post regarding the theme of the talk can be found `here <https://energyfutureslab.wordpress.com/2018/11/15/tidal-lagoon-barrage-power-plants-in-the-uk-operation-assessment-and-optimisation/>`_.
+    - I presented research `updates <http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/R013209/1&cookieConsent=A>`_ and an overview of tidal engineering research challenges at the `Energy Futures Lab <http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/administration/energyfutureslab/eventssummary/event_7-9-2018-10-21-39>`_ . A blog post regarding the theme of the talk can be found `here <https://energyfutureslab.wordpress.com/2018/11/15/tidal-lagoon-barrage-power-plants-in-the-uk-operation-assessment-and-optimisation/>`_.
 
     - Research together with colleagues from Imperial College was presented at the biennial Conference on Renewable Energies Offshore in Lisbon (RENEW 2018). `Zoe Goss <https://www.imperial.ac.uk/people/z.goss15>`_ presented her `progress <http://books.google.com/books?hl=en&lr=&id=BjhyDwAAQBAJ&oi=fnd&pg=PA255&dq=info:8FNPRGtYPSkJ:scholar.google.com&ots=a7_8_hMhBw&sig=uBDRPNE1Rq8Gj2VZHTQBYygOB90>`_ on tidal stream energy in Alderney race and I gave a talk on the feasibility and characteristics of `twin-basin lagoons <http://books.google.com/books?hl=en&lr=&id=BjhyDwAAQBAJ&oi=fnd&pg=PA159&dq=info:IuP6Re4rgQUJ:scholar.google.com&ots=a7_8_hMiyu&sig=Myj9sPWKoXrArxcjPTXqmkyw8AU>`_.
 

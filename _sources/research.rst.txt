@@ -37,8 +37,8 @@ Our research considers the development, validation and application of numerical 
 
 .. |contact_tanks| raw:: html
 
-          <div style="float: right; padding-left: 40px; padding-right: 40px;  margin: 2px auto; overflow: hidden">
-             <p><img width="450" height="200" align='right'  src="https://ars.els-cdn.com/content/image/1-s2.0-S0043135414003224-fx1_lrg.jpg" frameborder="0" ></p>
+          <div style="float: right; padding-left: 70px; padding-right: 50px;  margin: 2px auto; overflow: hidden">
+             <p><img width="350" height="140" align='right'  src="https://ars.els-cdn.com/content/image/1-s2.0-S0043135414003224-fx1_lrg.jpg" frameborder="0" ></p>
 
           </div>
 
@@ -48,15 +48,28 @@ Our research considers the development, validation and application of numerical 
 
        *Marine renewable energy*
 
-    |barrage_movie| 
  
     An attractive route towards decarbonising infrastructure is the strategic deployment of tidal energy technologies. Our work has so far focused on the development of state-of-the-art software, towards  addressing engineering challenges  associated with the energy output and environmental impacts. 
 
-    For example, the animations present hydrodynamics simulations from the `Thetis <http://thetisproject.org/>`_ software, as adapted for the simulation of tidal range power plant operation, building on the existing tidal stream array optimisation capabilities.
-
     The research stream on marine energy is currently funded by the NERC fellowship grant `NE/R013209/1 <http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/R013209/1>`_ and `NE/R013209/2 <http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/R013209/2>`_ : Tidal energy operational and spatial planning optimisation. 
 
-   
+    .. container:: note2
+
+           .. container :: leftside
+
+                   .. image:: _static/document.png
+                           :width: 60px
+                           :align: left
+                           :target: https://www.sciencedirect.com/science/article/pii/S0306261918319093
+
+           ..  container :: rightside
+
+                `Utilising the flexible generation potential of tidal range power plants to optimise economic value, Applied Energy, 2019 <https://www.sciencedirect.com/science/article/pii/S0306261918319093>`_ .
+
+
+..
+    Commented sections   
+    For example, the animations present hydrodynamics simulations from the `Thetis <http://thetisproject.org/>`_ software, as adapted for the simulation of tidal range power plant operation, building on the existing tidal stream array optimisation capabilities.
 
 
 .. container:: toggle
@@ -64,9 +77,6 @@ Our research considers the development, validation and application of numerical 
     .. container:: header
 
         *Water treatment hydrodynamics*
-
-
-    |contact_tanks| 
 
 
     We  are interested in the effects of discharge outfalls and the implications of hydrodynamic-driven alterations on meeting water quality standards and directives. Outputs related to this stream include findings on water treatment process hydrodynamics, such as:
