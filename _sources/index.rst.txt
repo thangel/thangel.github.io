@@ -51,8 +51,7 @@ Introduction
 ------------
 
 .. figure:: support/profile.jpg
-   :class: img-rounded
-   :height: 200 px
+   :height: 150 px
    :align: left   
 
 
@@ -81,22 +80,22 @@ I am a *Lecturer* in Environmental Fluid Mechanics at the *University of Edinbur
             <a href="https://www.dropbox.com/s/16uwh3yl06ehjrh/cv.pdf?raw=1"> Curriculum Vitae, </b> 01/2020</a> <br><br>
 
 
-.. |UoE| raw:: html
+.. .. |UoE| raw:: html
 
-   <style>
-     img {border-radius: 0%;}
-   </style>
-   <img src="_static/uoe.png" style="height:50px">
+..    <style>
+..      img {border-radius: 0%;}
+..    </style>
+..    <img src="_static/uoe.png" style="height:50px">
 
 
-.. |imperial| raw:: html
+.. .. |imperial| raw:: html
    
-   <img src="_static/logo_imperial_college_london.png" style="height:40px">
+..    <img src="_static/logo_imperial_college_london.png" style="height:40px">
 
 
-.. |cardiff| raw:: html
+.. .. |cardiff| raw:: html
 
-   <img src="_static/cardiff.jpg" style="height:55px">
+..    <img src="_static/cardiff.jpg" style="height:55px">
 
 ..        
   +------------------+-------------------------------+---------------+
