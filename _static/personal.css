@@ -19,11 +19,11 @@ body {
 /*    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; */
     font-family:Georgia, serif;-ms-text-size-adjust:150%;-webkit-text-size-adjust:150%;
     /*font-family: "pt_serifregular", sans-serif;*/
-    font-size: 18px; /*11pt*/
+    font-size: 17px; /*11pt*/
     background-color: #ffffff;
     color: #ffffff;
     margin: 0;
-    padding: 0;
+    padding: 20px;
     text-align: justify;
 }
 
@@ -82,7 +82,7 @@ div.body {
 }
 
 div.footer {
-    color: #000000;
+    color: #323232;
     margin: 10px auto 0;
     width: 70vw;
     padding: 23px 0px 30px 0px;
@@ -93,7 +93,7 @@ div.footer {
 }
 
 div.footer a {
-    color: #aaa;
+    color: #fff;
     text-decoration: none;
 }
 
@@ -439,8 +439,8 @@ tt.xref {
 div.menu {
     float:left;
     font-family:Georgia, serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;
-    font-size: 1em; 
-    width: 100%;
+    font-size: 1.0em; 
+    /*width: 100%;*/
 }
 #access .menu-header ul,
 div.menu ul {
@@ -449,9 +449,9 @@ div.menu ul {
 }
 #access .menu-header li,
 div.menu li {
-    margin-right: 1px;
+    margin-right: 0px;
     float: left;
-    left:5%;
+    /*left:5%;*/
     position: relative;
     border-bottom: 1.2px solid #000000; 
 }
@@ -461,7 +461,7 @@ div.menu li {
     color: #000;
     display: block;
     line-height: 50px;
-    padding: 0 15px;
+    padding: 0 10px;
     text-decoration: none;
 }
 #access ul ul {
@@ -470,7 +470,7 @@ div.menu li {
     -webkit-box-shadow: 0px 3px 3px rgba(0,0,0,0.2);
     display: none;
     position: absolute;
-    top: 38px;
+    top: 30px;
     width: 200px;
     z-index: 99999;
 }
@@ -484,8 +484,8 @@ div.menu li {
 #access ul ul a {
     background: #333;
     line-height: 2em;
-    padding: 15px;
-    width: 180px;
+    padding: 10px;
+    width: 150px;
 }
 #access li:hover > a,
 #access ul ul :hover > a {
@@ -512,6 +512,7 @@ div.menu li {
 .wrapper {
     margin: 0 auto;
     width: 70vw;
+    /*width: 70vw;*/
 }
 
 /* =Leader and Front Page Styles
@@ -643,7 +644,7 @@ a.button:active {
     height:9em;
 }
 .footer-nav h4 {
-    margin-left: 2em;
+    margin-left: 20em;
     margin-top: 0;
     margin-bottom: 0;
 }

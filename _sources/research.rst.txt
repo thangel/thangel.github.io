@@ -115,7 +115,7 @@ Our research considers the development, validation and application of numerical 
                  
                    .. raw :: html
 
-                        <a href="https://link.springer.com/article/10.1007/s10666-016-9502-x">Contact Tank Design Impact on Process Performance, <b>Environmental Modelling & Assessment</b>, 2016</a> <br>
+                        <a href="https://link.springer.com/article/10.1007/s10666-016-9502-x">Contact Tank Design Impact on Process Performance, <b>Environmental Modelling & Assessment</b>, 2016</a> <br><br>
 
            .. container :: leftside
 

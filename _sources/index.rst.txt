@@ -104,8 +104,6 @@ I am a *Lecturer* in Environmental Fluid Mechanics at the *University of Edinbur
   |                  |  |imperial|                   |               |
   +------------------+-------------------------------+---------------+
 
-
-
 .. toctree::
    :titlesonly:
    :hidden:
