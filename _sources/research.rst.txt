@@ -46,7 +46,7 @@ Our research considers the development, validation and application of numerical 
            .. container :: leftside
 
                    .. image:: _static/document.png
-                           :width: 30px
+                           :width: 40px
                            :align: left
                            :target: https://www.sciencedirect.com/science/article/pii/S0306261918319093
 
@@ -59,7 +59,7 @@ Our research considers the development, validation and application of numerical 
            .. container :: leftside
 
                    .. image:: _static/document.png
-                           :width: 30px
+                           :width: 40px
                            :align: left
                            :target: https://www.sciencedirect.com/science/article/pii/S0306261917317671
 
@@ -73,7 +73,7 @@ Our research considers the development, validation and application of numerical 
            .. container :: leftside
 
                    .. image:: _static/document.png
-                           :width: 30px
+                           :width: 40px
                            :align: left
                            :target: https://www.sciencedirect.com/science/article/pii/S0960148118305263
 
@@ -107,7 +107,7 @@ Our research considers the development, validation and application of numerical 
            .. container :: leftside
 
                    .. image:: _static/document.png
-                           :width: 30px
+                           :width: 40px
                            :align: left
                            :target: https://link.springer.com/article/10.1007/s10666-016-9502-x
 
@@ -120,7 +120,7 @@ Our research considers the development, validation and application of numerical 
            .. container :: leftside
 
                    .. image:: _static/document.png
-                           :width: 30px
+                           :width: 40px
                            :align: left
                            :target: https://www.sciencedirect.com/science/article/pii/S1570644314000410
 
@@ -133,7 +133,7 @@ Our research considers the development, validation and application of numerical 
            .. container :: leftside
 
                    .. image:: _static/document.png
-                           :width: 30px
+                           :width: 40px
                            :align: left
                            :target: https://www.sciencedirect.com/science/article/pii/S0043135414003224
 
@@ -164,7 +164,7 @@ Our research considers the development, validation and application of numerical 
            .. container :: leftside
 
                    .. image:: _static/document.png
-                           :width: 30px
+                           :width: 40px
                            :align: left
                            :target: https://link.springer.com/article/10.1007/s10652-018-9626-4
 
@@ -177,7 +177,7 @@ Our research considers the development, validation and application of numerical 
            .. container :: leftside
 
                    .. image:: _static/document.png
-                           :width: 30px
+                           :width: 40px
                            :align: left
                            :target: https://www.mdpi.com/2311-5521/2/2/17
 
@@ -190,7 +190,7 @@ Our research considers the development, validation and application of numerical 
            .. container :: leftside
 
                    .. image:: _static/document.png
-                           :width: 30px
+                           :width: 40px
                            :align: left
                            :target: https://doi.org/10.1063/1.5004028
 
