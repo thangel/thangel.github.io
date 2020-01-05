@@ -29,7 +29,7 @@ body {
 
 div.documentwrapper {
     float: right;
-    width: 70vw;
+    width: 100%;
 }
 
 div.bodywrapper {
@@ -440,7 +440,7 @@ tt.xref {
 div.menu {
     float:left;
     font-family:Georgia, serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;
-    font-size: 1.1em; 
+    font-size: 1em; 
     width: 100%;
 }
 #access .menu-header ul,
@@ -452,6 +452,7 @@ div.menu ul {
 div.menu li {
     margin-right: 1px;
     float: left;
+    left:5%;
     position: relative;
     border-bottom: 1.2px solid #000000; 
 }
