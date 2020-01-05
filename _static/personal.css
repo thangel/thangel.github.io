@@ -29,7 +29,7 @@ body {
 
 div.documentwrapper {
     float: right;
-    width: 100%;
+    width: 70vw;
 }
 
 div.bodywrapper {
@@ -75,7 +75,7 @@ div.body {
     color: #323232;
     padding: 5px 20px 30px 20px;
     margin: 0 0 0 0;
-    max-width: 1500px;
+    max-width: 70vw;
     font-size: 1em;
     font-family:Georgia, serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;
     /* font-family: "pt_serifregular", sans-serif; */
