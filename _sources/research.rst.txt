@@ -12,7 +12,7 @@
 
     <div style="margin: 0 auto; overflow: hidden; ">
           <div style="float: right; padding:20px">
-            <a><img src="https://www.dropbox.com/s/r96rdwovoqgjnlm/ramsey_gif_2a.gif?raw=1" width="300px" ></a>
+            <a><img  src="https://www.dropbox.com/s/r96rdwovoqgjnlm/ramsey_gif_2a.gif?raw=1" style="width:300px" ></a>
             <p style="font-size:60%">Flow through a tidal strait; Ramsey Sound, UK. Mackie et al. 2019</p>
     </div>
 
@@ -54,7 +54,7 @@ Our research considers the development, validation and application of numerical 
                  
                    .. raw :: html
 
-                        <a href="https://www.sciencedirect.com/science/article/pii/S0306261918319093">Utilising the flexible generation potential of tidal range power plants to optimise economic value, <b>Applied Energy</b>, 2019</a> 
+                        <a href="https://www.sciencedirect.com/science/article/pii/S0306261918319093">Utilising the flexible generation potential of tidal range power plants to optimise economic value, <b>Applied Energy</b>, 2019</a> <br><br>
 
            .. container :: leftside
 
@@ -128,7 +128,7 @@ Our research considers the development, validation and application of numerical 
                  
                    .. raw :: html
 
-                        <div> <a https://www.sciencedirect.com/science/article/pii/S1570644314000410">Flow, transport and disinfection performance in small- and full-scale contact tanks, <b>Journal of Hydro-environment Research</b>, 2015</a> </div>
+                        <div> <a https://www.sciencedirect.com/science/article/pii/S1570644314000410">Flow, transport and disinfection performance in small- and full-scale contact tanks, <b>Journal of Hydro-environment Research</b>, 2015</a> </div><br>
 
            .. container :: leftside
 
@@ -141,7 +141,7 @@ Our research considers the development, validation and application of numerical 
                  
                    .. raw :: html
 
-                        <a href="https://www.sciencedirect.com/science/article/pii/S0043135414003224">Predicting the disinfection efficiency range in chlorine contact tanks through a CFD-based approach, <b>Water Research</b>, 2014</a> 
+                        <a href="https://www.sciencedirect.com/science/article/pii/S0043135414003224">Predicting the disinfection efficiency range in chlorine contact tanks through a CFD-based approach, <b>Water Research</b>, 2014</a> <br>
 
 
 
@@ -153,7 +153,9 @@ Our research considers the development, validation and application of numerical 
 
         *Environmental Fluid Mechanics*
 
-    The common factor between the application-focused streams outlined above is the application and development of numerical models that can be extended to more fundamental or generalised engineering applications. recent examples include studies on the formation of depth-averaged vortices in oscillatory flows through inlets, the turbulent flow past bluff bodies and simple geometries. in terms of environmental fluid mechanics we are interested in mixing processes and the characterisation of anthropogenic effects on coastal, estuarine and fluvial processes.
+    The common factor between the application-focused streams outlined above is the application and development of numerical models that can be extended to more fundamental or generalised engineering applications. 
+    Recent examples include studies on the formation of depth-averaged vortices in oscillatory flows through inlets, the turbulent flow past bluff bodies and simple geometries. 
+    In terms of environmental fluid mechanics we are interested in mixing processes and the characterisation of anthropogenic effects on coastal, estuarine and fluvial processes.
 
 
     .. container :: note2 

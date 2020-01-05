@@ -19,7 +19,7 @@ body {
 /*    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; */
     font-family:Georgia, serif;-ms-text-size-adjust:150%;-webkit-text-size-adjust:150%;
     /*font-family: "pt_serifregular", sans-serif;*/
-    font-size: 17px; /*11pt*/
+    font-size: 18px; /*11pt*/
     background-color: #ffffff;
     color: #ffffff;
     margin: 0;
@@ -28,12 +28,12 @@ body {
 }
 
 div.documentwrapper {
-    float: left;
+    float: right;
     width: 100%;
 }
 
 div.bodywrapper {
-    width: 900px;
+    width:  72vw;
     margin-left: auto;
     margin-right: auto;
 }
@@ -513,7 +513,7 @@ div.menu li {
 
 .wrapper {
     margin: 0 auto;
-    width: 900px;
+    width: 70vw;
 }
 
 /* =Leader and Front Page Styles
