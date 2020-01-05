@@ -27,13 +27,17 @@ body {
     text-align: justify;
 }
 
+div.body{
+    max-width: 50vw;
+    min-width: 40vw;
+}
 div.documentwrapper {
     float: right;
     width: 100%;
 }
 
 div.bodywrapper {
-    width:  70vw;
+    width:  50vw;
     margin-left: auto;
     margin-right: auto;
 }
@@ -84,7 +88,7 @@ div.body {
 div.footer {
     color: #323232;
     margin: 10px auto 0;
-    width: 70vw;
+    width: 50vw;
     padding: 23px 0px 30px 0px;
     text-align: center;
     font-size: 15px;
@@ -511,8 +515,7 @@ div.menu li {
 
 .wrapper {
     margin: 0 auto;
-    width: 70vw;
-    /*width: 70vw;*/
+    width: 52vw;
 }
 
 /* =Leader and Front Page Styles
