@@ -75,7 +75,6 @@ div.body {
     color: #323232;
     padding: 5px 20px 30px 20px;
     margin: 0 0 0 0;
-    max-width: 70vw;
     font-size: 1em;
     font-family:Georgia, serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;
     /* font-family: "pt_serifregular", sans-serif; */
@@ -85,7 +84,7 @@ div.body {
 div.footer {
     color: #000000;
     margin: 10px auto 0;
-    width: 900px;
+    width: 70vw;
     padding: 23px 0px 30px 0px;
     text-align: center;
     font-size: 15px;
@@ -475,9 +474,9 @@ div.menu li {
     width: 200px;
     z-index: 99999;
 }
-#access ul ul li {
+/*#access ul ul li {
     min-width: 180px;
-}
+}*/
 #access ul ul ul {
     left: 100%;
     top: 0;
