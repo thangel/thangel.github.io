@@ -64,7 +64,7 @@ img {
 
 
 div.note2 {
-    width: 100%;
+    width: 78vw;
     border: 2px solid #9b3717;
     border-right-style: none;
     border-left-style: none;
@@ -74,11 +74,14 @@ div.note2 {
 
 div.leftside {
   width: 7%;
-  padding: 10px 0px 20px 10px;
+  padding: 10px 10px 20px 10px;
   float: left;
+  height: 50px;
 }
 
 div.rightside {
   padding: 10px 20px 20px 5px;
   margin-left: 2%;
+  height: 50px;
+  min-height: 8vh;
 }

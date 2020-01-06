@@ -55,7 +55,7 @@ Our research considers the development, validation and application of numerical 
                  
                    .. raw :: html
 
-                        <a href="https://www.sciencedirect.com/science/article/pii/S0306261918319093">Utilising the flexible generation potential of tidal range power plants to optimise economic value, <b>Applied Energy</b>, 2019</a> <br><br>
+                        <a href="https://www.sciencedirect.com/science/article/pii/S0306261918319093">Utilising the flexible generation potential of tidal range power plants to optimise economic value, <b>Applied Energy</b>, 2019</a> 
 
            .. container :: leftside
 
@@ -68,7 +68,7 @@ Our research considers the development, validation and application of numerical 
                  
                    .. raw :: html
 
-                        <a href="https://www.sciencedirect.com/science/article/pii/S0306261917317671">Optimising tidal range power plant operation, <b>Applied Energy</b>, 2018</a> <br><br>
+                        <a href="https://www.sciencedirect.com/science/article/pii/S0306261917317671">Optimising tidal range power plant operation, <b>Applied Energy</b>, 2018</a> 
 
 
            .. container :: leftside
@@ -116,7 +116,7 @@ Our research considers the development, validation and application of numerical 
                  
                    .. raw :: html
 
-                        <a href="https://link.springer.com/article/10.1007/s10666-016-9502-x">Contact Tank Design Impact on Process Performance, <b>Environmental Modelling & Assessment</b>, 2016</a> <br><br>
+                        <a href="https://link.springer.com/article/10.1007/s10666-016-9502-x">Contact Tank Design Impact on Process Performance, <b>Environmental Modelling & Assessment</b>, 2016</a> 
 
            .. container :: leftside
 
@@ -129,7 +129,7 @@ Our research considers the development, validation and application of numerical 
                  
                    .. raw :: html
 
-                        <div> <a https://www.sciencedirect.com/science/article/pii/S1570644314000410">Flow, transport and disinfection performance in small- and full-scale contact tanks, <b>Journal of Hydro-environment Research</b>, 2015</a> </div><br><br>
+                        <div> <a https://www.sciencedirect.com/science/article/pii/S1570644314000410">Flow, transport and disinfection performance in small- and full-scale contact tanks, <b>Journal of Hydro-environment Research</b>, 2015</a> </div>
 
            .. container :: leftside
 
@@ -142,7 +142,7 @@ Our research considers the development, validation and application of numerical 
                  
                    .. raw :: html
 
-                        <a href="https://www.sciencedirect.com/science/article/pii/S0043135414003224">Predicting the disinfection efficiency range in chlorine contact tanks through a CFD-based approach, <b>Water Research</b>, 2014</a> <br>
+                        <a href="https://www.sciencedirect.com/science/article/pii/S0043135414003224">Predicting the disinfection efficiency range in chlorine contact tanks through a CFD-based approach, <b>Water Research</b>, 2014</a> 
 
 
 
