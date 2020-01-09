@@ -31,9 +31,11 @@ div.body{
     max-width: 80vw;
     min-width: 60vw;
 }
+
 div.documentwrapper {
     /*float: right;*/
-    /*width: 100%;*/
+    width: 100%;
+    margin: 0 auto;
 }
 
 div.bodywrapper {
