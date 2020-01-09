@@ -22,7 +22,7 @@ body {
     font-size: 17px; /*11pt*/
     background-color: #ffffff;
     color: #ffffff;
-    margin: 0;
+    margin: 0 auto;
     padding: 0px 20px 0px 20px;
     text-align: justify;
 }
@@ -30,11 +30,12 @@ body {
 div.body{
     max-width: 80vw;
     min-width: 60vw;
+    margin: 0 auto
 }
 
 div.documentwrapper {
     /*float: right;*/
-    width: 100%;
+    /*width: 100%;*/
     margin: 0 auto;
 }
 
