@@ -86,12 +86,6 @@ div.rightside {
   min-height: 8vh;
 }
 
-div.img-fa {
- padding:0px;
- background-color:#fff;
- height:auto
- width:30px;
-}
 
 .filter-pdf{
     filter: invert(7%) sepia(97%) saturate(5749%) hue-rotate(359deg) brightness(94%) contrast(86%);
