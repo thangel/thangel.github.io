@@ -27,6 +27,7 @@ Research
 
 Our research considers the development, validation and application of numerical models for the resolution of marine renewable energy and environmental engineering challenges. The broader theme underpinning the research is environmental fluid mechanics using computational modelling approaches. Details of certain application-related research streams can be expanded below, including selected publications:
 
+|
 
 
 
@@ -182,10 +183,10 @@ Our research considers the development, validation and application of numerical 
                       <div> <a href="https://www.mdpi.com/2311-5521/2/2/17">On the Values for the Turbulent Schmidt Number in Environmental Flows , <b>Fluids</b>, 2017</a> </div><br><br>
 
          .. container :: leftside
-         
+
                .. raw:: html
 
-                  <a href="https://doi.org/10.1063/1.5004028"> <image class="filter-pdf" src="_static/solid/file-pdf.svg"> </a>
+                  <a href="https://www.mdpi.com/2311-5521/2/2/17"> <image class="filter-pdf" src="_static/solid/file-pdf.svg"> </a>
 
          ..  container :: rightside
                

@@ -54,8 +54,8 @@ Welcome! These pages detail information on our activities within the Applied Flu
 Introduction
 ------------
 
-.. figure:: support/profile.jpg
-   :height: 150 px
+.. image:: support/profile.jpg
+   :width: 100 px
    :align: left   
 
 
@@ -66,9 +66,7 @@ I am a *Lecturer* in Environmental Fluid Mechanics at the *University of Edinbur
 .. I have previously worked with the Department of Earth Science and Engineering at **Imperial College London** and the Hydro-environmental Research Centre of **Cardiff University**. 
 .. More details are summarised in my `CV <_static/CV_2.pdf>`_.
 
-
-
-
+|
 
 .. container :: leftside
  
