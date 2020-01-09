@@ -3,6 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+.. |fa-pdf| raw:: html
+
+          <a href="https://www.dropbox.com/s/16uwh3yl06ehjrh/cv.pdf?raw=1"> <image class="filter-pdf" src="_static/solid/file-pdf.svg"> </a>
+ 
+
 .. |twitter| raw:: html
    
    <a class="twitter-timeline" href="https://twitter.com/AAngeloudis" data-tweet-limit="2">Tweets by TwitterDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
@@ -37,7 +42,6 @@
      
           |twitter|
 
-|analytics|
 
 About us
 --------
@@ -67,17 +71,18 @@ I am a *Lecturer* in Environmental Fluid Mechanics at the *University of Edinbur
 
 
 .. container :: leftside
+ 
+       .. container :: img-fa
 
-       .. image:: _static/document.png
-               :width: 30px
-               :align: center
-               :target: https://www.dropbox.com/s/16uwh3yl06ehjrh/cv.pdf?raw=1
+            |fa-pdf|
 
 ..  container :: rightside
      
        .. raw :: html
 
             <a href="https://www.dropbox.com/s/16uwh3yl06ehjrh/cv.pdf?raw=1"> Curriculum Vitae, </b> 01/2020</a> <br><br>
+
+
 
 
 .. .. |UoE| raw:: html

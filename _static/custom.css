@@ -59,7 +59,7 @@ div.toggle .header.open:before {
 img {
     border: 0;
     max-width: 100%;
-    border-radius: 25px;
+    border-radius: 0px;
 }
 
 
@@ -73,15 +73,27 @@ div.note2 {
 }
 
 div.leftside {
-  width: 7%;
-  padding: 10px 10px 20px 10px;
+  width: 50px;
+  padding: 5px 10px 5px 10px;
   float: left;
   height: 50px;
 }
 
 div.rightside {
-  padding: 10px 20px 20px 5px;
+  padding: 5px 20px 5px 5px;
   margin-left: 2%;
   height: 50px;
   min-height: 8vh;
 }
+
+div.img-fa {
+ padding:0px;
+ background-color:#fff;
+ height:auto
+ width:30px;
+}
+
+.filter-pdf{
+    filter: invert(7%) sepia(97%) saturate(5749%) hue-rotate(359deg) brightness(94%) contrast(86%);
+    width:25px;
+  }
