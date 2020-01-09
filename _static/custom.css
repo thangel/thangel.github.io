@@ -76,6 +76,7 @@ div.leftside {
   width: 50px;
   padding: 5px 10px 5px 10px;
   float: left;
+  margin-left: 2%;
   height: 50px;
 }
 
@@ -86,8 +87,9 @@ div.rightside {
   min-height: 8vh;
 }
 
-/*
+
 .filter-pdf{
     filter: invert(7%) sepia(97%) saturate(5749%) hue-rotate(359deg) brightness(94%) contrast(86%);
     width:25px;
-  }*/
+    margin: 0 auto;
+  }
