@@ -54,19 +54,19 @@ Welcome! These pages detail information on our activities within the Applied Flu
 Introduction
 ------------
 
-.. image:: support/profile.jpg
-   :width: 100 px
-   :align: left   
+.. container :: min-section
+
+    .. image:: support/profile_2.jpg
+       :height: 170 px
+       :align: left   
 
 
-I am a *Lecturer* in Environmental Fluid Mechanics at the *University of Edinburgh*, incorporated within the Institute for Infrastructure and the Environment and leading the Applied Fluid Mechanics Group. In addition, as an Industrial Innovation  *Research Fellow* of the UK's Natural Environment Research Council (NERC) I coordinate research activities on computational methods for marine and offshore renewable energy, working closely with industry and other research groups.
+    I am a *Lecturer* in Environmental Fluid Mechanics at the *University of Edinburgh*, incorporated within the Institute for Infrastructure and the Environment and leading the Applied Fluid Mechanics Group. In addition, as an Industrial Innovation  *Research Fellow* of the UK's Natural Environment Research Council (NERC) I coordinate research activities on computational methods for marine and offshore renewable energy, working closely with industry and other research groups.
 
 .. I am a Chartered member of the Technical Chamber of Greece (TEE), a member of the Institution of Civil Engineers (ICE) and have been affiliated with the International Association of Hydro-environment Engineering and Research (IAHR). 
 
 .. I have previously worked with the Department of Earth Science and Engineering at **Imperial College London** and the Hydro-environmental Research Centre of **Cardiff University**. 
 .. More details are summarised in my `CV <_static/CV_2.pdf>`_.
-
-|
 
 .. container :: leftside
  
@@ -78,33 +78,55 @@ I am a *Lecturer* in Environmental Fluid Mechanics at the *University of Edinbur
      
        .. raw :: html
 
-            <a href="https://www.dropbox.com/s/16uwh3yl06ehjrh/cv.pdf?raw=1"> Curriculum Vitae, </b> 01/2020</a> <br><br>
+            <a href="https://www.dropbox.com/s/16uwh3yl06ehjrh/cv.pdf?raw=1"> Curriculum Vitae, </b> 01/2020</a> 
+
+.. container :: leftside
+
+    .. raw:: html
+
+          <a href="https://www.research.ed.ac.uk/portal/en/persons/athanasios-angeloudis(0decfe6e-f7e9-4be5-9e9b-1ea94ff30706).html"> <image class="filter-pdf" alt="|Edinburgh Research  Explorer|" src="_static/solid/university.svg"> </a>
+
+..  container :: rightside
+               
+    .. raw :: html
+
+          <a href="https://www.research.ed.ac.uk/portal/en/persons/athanasios-angeloudis(0decfe6e-f7e9-4be5-9e9b-1ea94ff30706).html">Edinburgh Research Explorer </a> 
+
+.. container :: leftside
+
+    .. raw:: html
+
+          <a href="https://scholar.google.com/citations?user=omIi6Z8AAAAJ&hl=en&authuser=1"> <image class="filter-pdf" src="_static/solid/user-graduate.svg"> </a>
+
+..  container :: rightside
+               
+    .. raw :: html
+
+          <a href="https://scholar.google.com/citations?user=omIi6Z8AAAAJ&hl=en&authuser=1">Google Scholar </a> 
 
 
+.. .. container:: toggle
+
+..     .. container:: header
+
+..         *Other Links*
+
+..     |
+
+..     .. raw:: html
 
 
-.. .. |UoE| raw:: html
-
-..    <style>
-..      img {border-radius: 0%;}
-..    </style>
-..    <img src="_static/uoe.png" style="height:50px">
+..       <a href="https://scholar.google.com/citations?user=omIi6Z8AAAAJ&hl=en&authuser=1"> <image style="height: 50px; filter: invert(7%) sepia(97%) saturate(5749%) hue-rotate(359deg) brightness(94%) contrast(86%)" src="_static/solid/user-graduate.svg"> </a>
 
 
-.. .. |imperial| raw:: html
-   
-..    <img src="_static/logo_imperial_college_london.png" style="height:40px">
+.. .. image:: support/ukri.png
+..    :align: center
+..    :height: 50 px
+.. .. image:: support/uoe.png
+..    :align: center
+..    :height: 50 px
 
 
-.. .. |cardiff| raw:: html
-
-..    <img src="_static/cardiff.jpg" style="height:55px">
-
-..        
-  +------------------+-------------------------------+---------------+
-  |  |UoE|           |                               | |cardiff|     |
-  |                  |  |imperial|                   |               |
-  +------------------+-------------------------------+---------------+
 
 .. toctree::
    :titlesonly:

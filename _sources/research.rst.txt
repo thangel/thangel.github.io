@@ -21,6 +21,7 @@
 
 |temp|
 
+
 Research
 ========
 
@@ -49,7 +50,7 @@ Our research considers the development, validation and application of numerical 
 
                  .. raw:: html
 
-                    <a href="https://www.sciencedirect.com/science/article/pii/S0306261918319093"> <image class="filter-pdf" src="_static/solid/file-pdf.svg"> </a>
+                    <a href="https://www.sciencedirect.com/science/article/pii/S0306261918319093"> <image class="filter-pdf" src="_static/solid/link.svg"> </a>
 
          ..  container :: rightside
                
@@ -61,7 +62,7 @@ Our research considers the development, validation and application of numerical 
                  
                  .. raw:: html
 
-                    <a href="https://www.sciencedirect.com/science/article/pii/S0306261917317671"> <image class="filter-pdf" src="_static/solid/file-pdf.svg"> </a>
+                    <a href="https://www.sciencedirect.com/science/article/pii/S0306261917317671"> <image class="filter-pdf" src="_static/solid/link.svg"> </a>
 
          ..  container :: rightside
                
@@ -74,7 +75,7 @@ Our research considers the development, validation and application of numerical 
 
                  .. raw:: html
 
-                    <a href="https://www.sciencedirect.com/science/article/pii/S0960148118305263"> <image class="filter-pdf" src="_static/solid/file-pdf.svg"> </a>
+                    <a href="https://www.sciencedirect.com/science/article/pii/S0960148118305263"> <image class="filter-pdf" src="_static/solid/link.svg"> </a>
 
          ..  container :: rightside
                
@@ -107,7 +108,7 @@ Our research considers the development, validation and application of numerical 
 
                .. raw:: html
 
-                  <a href="https://link.springer.com/article/10.1007/s10666-016-9502-x"> <image class="filter-pdf" src="_static/solid/file-pdf.svg"> </a>
+                  <a href="https://link.springer.com/article/10.1007/s10666-016-9502-x"> <image class="filter-pdf" src="_static/solid/link.svg"> </a>
 
          ..  container :: rightside
                
@@ -119,7 +120,7 @@ Our research considers the development, validation and application of numerical 
 
                .. raw:: html
 
-                  <a href="https://www.sciencedirect.com/science/article/pii/S1570644314000410"> <image class="filter-pdf" src="_static/solid/file-pdf.svg"> </a>
+                  <a href="https://www.sciencedirect.com/science/article/pii/S1570644314000410"> <image class="filter-pdf" src="_static/solid/link.svg"> </a>
 
 
          ..  container :: rightside
@@ -132,7 +133,7 @@ Our research considers the development, validation and application of numerical 
 
                .. raw:: html
 
-                  <a href="https://www.sciencedirect.com/science/article/pii/S0043135414003224"> <image class="filter-pdf" src="_static/solid/file-pdf.svg"> </a>
+                  <a href="https://www.sciencedirect.com/science/article/pii/S0043135414003224"> <image class="filter-pdf" src="_static/solid/link.svg"> </a>
 
          ..  container :: rightside
                
@@ -162,31 +163,31 @@ Our research considers the development, validation and application of numerical 
 
                .. raw:: html
 
-                  <a href="https://link.springer.com/article/10.1007/s10652-018-9626-4"> <image class="filter-pdf" src="_static/solid/file-pdf.svg"> </a>
+                  <a href="https://link.springer.com/article/10.1007/s10652-018-9626-4"> <image class="filter-pdf" src="_static/solid/link.svg"> </a>
 
          ..  container :: rightside
                
                  .. raw :: html
 
-                      <a href="https://link.springer.com/article/10.1007/s10652-018-9626-4">Fate of large-scale vortices in idealized tidal lagoons, <b>Environmental Fluid Mechanics</b>, 2018</a> <br><br>
+                      <a href="https://link.springer.com/article/10.1007/s10652-018-9626-4">Fate of large-scale vortices in idealized tidal lagoons, <b>Environmental Fluid Mechanics</b>, 2018</a> 
 
          .. container :: leftside
 
                .. raw:: html
 
-                  <a href="https://www.mdpi.com/2311-5521/2/2/17"> <image class="filter-pdf" src="_static/solid/file-pdf.svg"> </a>
+                  <a href="https://www.mdpi.com/2311-5521/2/2/17"> <image class="filter-pdf" src="_static/solid/link.svg"> </a>
 
          ..  container :: rightside
                
                  .. raw :: html
 
-                      <div> <a href="https://www.mdpi.com/2311-5521/2/2/17">On the Values for the Turbulent Schmidt Number in Environmental Flows , <b>Fluids</b>, 2017</a> </div><br><br>
+                      <div> <a href="https://www.mdpi.com/2311-5521/2/2/17">On the Values for the Turbulent Schmidt Number in Environmental Flows , <b>Fluids</b>, 2017</a> </div>
 
          .. container :: leftside
 
                .. raw:: html
 
-                  <a href="https://www.mdpi.com/2311-5521/2/2/17"> <image class="filter-pdf" src="_static/solid/file-pdf.svg"> </a>
+                  <a href="https://www.mdpi.com/2311-5521/2/2/17"> <image class="filter-pdf" src="_static/solid/link.svg"> </a>
 
          ..  container :: rightside
                

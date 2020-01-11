@@ -92,3 +92,7 @@ div.rightside {
     width:25px;
     margin: 0 auto;
   }
+
+.min-section{
+  min-height: 195px;
+}
