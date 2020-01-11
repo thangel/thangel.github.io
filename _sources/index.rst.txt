@@ -68,57 +68,149 @@ Introduction
 .. I have previously worked with the Department of Earth Science and Engineering at **Imperial College London** and the Hydro-environmental Research Centre of **Cardiff University**. 
 .. More details are summarised in my `CV <_static/CV_2.pdf>`_.
 
+Contact
+-------
+
+
 .. container :: leftside
- 
-       .. container :: img-fa
-
-            |fa-pdf|
-
-..  container :: rightside
      
-       .. raw :: html
+   .. raw:: html
 
-            <a href="https://www.dropbox.com/s/16uwh3yl06ehjrh/cv.pdf?raw=1"> Curriculum Vitae, </b> 01/2020</a> 
-
-.. container :: leftside
-
-    .. raw:: html
-
-          <a href="https://www.research.ed.ac.uk/portal/en/persons/athanasios-angeloudis(0decfe6e-f7e9-4be5-9e9b-1ea94ff30706).html"> <image class="filter-pdf" alt="|Edinburgh Research  Explorer|" src="_static/solid/university.svg"> </a>
+      <a href="mailto:a.angeloudis@ed.ac.uk"> <image class="filter-pdf" alt="|E-mail|" src="_static/solid/envelope.svg"> </a>
 
 ..  container :: rightside
-               
+         
     .. raw :: html
 
-          <a href="https://www.research.ed.ac.uk/portal/en/persons/athanasios-angeloudis(0decfe6e-f7e9-4be5-9e9b-1ea94ff30706).html">Edinburgh Research Explorer </a> 
+       <a href="mailto:a.angeloudis@ed.ac.uk">a.angeloudis@ed.ac.uk </a> 
 
 .. container :: leftside
+     
+   .. raw:: html
 
-    .. raw:: html
-
-          <a href="https://scholar.google.com/citations?user=omIi6Z8AAAAJ&hl=en&authuser=1"> <image class="filter-pdf" src="_static/solid/user-graduate.svg"> </a>
+      <a href="https://www.google.com/maps/place/Alexander+Graham+Bell+Building/@55.9223318,-3.1751804,17z/data=!3m1!4b1!4m5!3m4!1s0x4887b89e0e24be8f:0x3406da84c36b301c!8m2!3d55.9223318!4d-3.1729917"> <image class="filter-pdf" alt="|E-mail|" src="_static/solid/map-marked-alt.svg"> </a>
 
 ..  container :: rightside
-               
+         
     .. raw :: html
 
-          <a href="https://scholar.google.com/citations?user=omIi6Z8AAAAJ&hl=en&authuser=1">Google Scholar </a> 
+       <a href="https://www.google.com/maps/place/Alexander+Graham+Bell+Building/@55.9223318,-3.1751804,17z/data=!3m1!4b1!4m5!3m4!1s0x4887b89e0e24be8f:0x3406da84c36b301c!8m2!3d55.9223318!4d-3.1729917">The University of Edinburgh<br>Alexander Graham Bell Building,  EH9 3FG </a> 
+
+.. container :: leftside
+     
+   .. raw:: html
+
+      <a href="https://twitter.com/aangeloudis"> <image class="filter-pdf" alt="|E-mail|" src="_static/solid/twitter.svg"> </a>
+
+..  container :: rightside
+         
+    .. raw :: html
+
+       <a href="https://twitter.com/aangeloudis">@AAngeloudis</a> 
 
 
-.. .. container:: toggle
 
-..     .. container:: header
+.. container:: toggle2
 
-..         *Other Links*
+    .. container:: header
 
-..     |
+        *Further information & links*
 
-..     .. raw:: html
+  
+
+    .. container :: leftside
+     
+           .. container :: img-fa
+
+                |fa-pdf|
+
+    ..  container :: rightside
+         
+           .. raw :: html
+
+                <a href="https://www.dropbox.com/s/16uwh3yl06ehjrh/cv.pdf?raw=1"> Curriculum Vitae </b> </a> 
+
+    .. container :: leftside
+
+        .. raw:: html
+
+              <a href="https://www.research.ed.ac.uk/portal/en/persons/athanasios-angeloudis(0decfe6e-f7e9-4be5-9e9b-1ea94ff30706).html"> <image class="filter-pdf" alt="|Edinburgh Research  Explorer|" src="_static/solid/university.svg"> </a>
+
+    ..  container :: rightside
+                   
+        .. raw :: html
+
+              <a href="https://www.research.ed.ac.uk/portal/en/persons/athanasios-angeloudis(0decfe6e-f7e9-4be5-9e9b-1ea94ff30706).html">Edinburgh Research Explorer </a> 
+
+    .. container :: leftside
+
+        .. raw:: html
+
+              <a href="https://www.researchgate.net/profile/Athanasios_Angeloudis"> <image class="filter-pdf" src="_static/solid/researchgate.svg"> </a>
+
+    ..  container :: rightside
+                   
+        .. raw :: html
+
+              <a href="https://www.researchgate.net/profile/Athanasios_Angeloudis">ResearchGate </a> 
+
+    .. container :: leftside
+
+        .. raw:: html
+
+              <a href="https://scholar.google.com/citations?user=omIi6Z8AAAAJ&hl=en&authuser=1"> <image class="filter-pdf" src="_static/solid/user-graduate.svg"> </a>
+
+    ..  container :: rightside
+                   
+        .. raw :: html
+
+              <a href="https://scholar.google.com/citations?user=omIi6Z8AAAAJ&hl=en&authuser=1">Google Scholar </a> 
+
+    .. container :: leftside
+
+        .. raw:: html
+
+              <a href="https://www.linkedin.com/in/aangeloudis/"> <image class="filter-pdf" src="_static/solid/linkedin.svg"> </a>
+
+    ..  container :: rightside
+                   
+        .. raw :: html
+
+              <a href="https://www.linkedin.com/in/aangeloudis/">Lindedin </a> 
 
 
-..       <a href="https://scholar.google.com/citations?user=omIi6Z8AAAAJ&hl=en&authuser=1"> <image style="height: 50px; filter: invert(7%) sepia(97%) saturate(5749%) hue-rotate(359deg) brightness(94%) contrast(86%)" src="_static/solid/user-graduate.svg"> </a>
+    .. container :: leftside
 
+        .. raw:: html
 
+              <a href="https://github.com/thangel"> <image class="filter-pdf" src="_static/solid/github.svg"> </a>
+
+    ..  container :: rightside
+                   
+        .. raw :: html
+
+              <a href="https://github.com/thangel">Github </a> 
+
+.. container:: toggle2
+
+    .. container:: header
+
+        *Supporters & Partners*
+
+    
+    .. raw:: html
+
+      <center>
+      <a href="https://nerc.ukri.org/"> <image style="height: 60px; padding:10px" src="_static/nerc-logo.jpg"> </a>
+
+      <a href="https://www.ukri.org/"> <image style="height: 60px; padding:10px" src="_static/ukri.png"> </a>  <br>
+
+      <a href="https://www.eng.ed.ac.uk/about/people/dr-athanasios-angeloudis"> <image style="height: 50px; padding:10px" src="_static/uoe.png"> </a>
+
+      <a href="https://www.imperial.ac.uk/"> <image style="height: 50px; padding:10px" src="_static/logo_imperial_college_london.png"> </a>
+      </center>
+
+.. .. <a href="https://scholar.google.com/citations?user=omIi6Z8AAAAJ&hl=en&authuser=1"> <image style="height: 50px; filter: invert(7%) sepia(97%) saturate(5749%) hue-rotate(359deg) brightness(94%) contrast(86%); padding:10px" src="_static/solid/user-graduate.svg"> </a>
 .. .. image:: support/ukri.png
 ..    :align: center
 ..    :height: 50 px
