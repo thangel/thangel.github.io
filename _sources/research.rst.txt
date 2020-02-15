@@ -149,7 +149,7 @@ Our research considers the development, validation and application of numerical 
 
     .. container:: header
 
-        *Environmental Fluid Mechanics*
+        *Environmental fluid mechanics*
 
     The common factor between the application-focused streams outlined above is the application and development of numerical models that can be extended to more fundamental or generalised engineering applications. 
     Recent examples include studies on the formation of depth-averaged vortices in oscillatory flows through inlets, the turbulent flow past bluff bodies and simple geometries. 

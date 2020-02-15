@@ -5,7 +5,7 @@
 
 .. |fa-pdf| raw:: html
 
-          <a href="https://www.dropbox.com/s/16uwh3yl06ehjrh/cv.pdf?raw=1"> <image class="filter-pdf" src="_static/solid/file-pdf.svg"> </a>
+          <a href="https://www.dropbox.com/s/4hrjn2c7h4bpdxi/cv.pdf?raw=1"> <image class="filter-pdf" src="_static/solid/file-pdf.svg"> </a>
  
 
 .. |twitter| raw:: html
@@ -128,7 +128,7 @@ Contact
          
            .. raw :: html
 
-                <a href="https://www.dropbox.com/s/16uwh3yl06ehjrh/cv.pdf?raw=1"> Curriculum Vitae </b> </a> 
+                <a href="https://www.dropbox.com/s/4hrjn2c7h4bpdxi/cv.pdf?raw=1"> Curriculum Vitae </b> </a> 
 
     .. container :: leftside
 

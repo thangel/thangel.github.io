@@ -45,9 +45,33 @@ Opportunities
 
    Additional information on scholarships at the University of Edinburgh can be found below.
 
-   - https://www.eng.ed.ac.uk/studying/postgraduate/research/phd-scholarships
-   
-   - http://www.ed.ac.uk/schools-departments/student-funding/postgraduate/overview
+   .. container :: note2 
+
+
+      .. container :: leftside
+
+         .. raw:: html
+                  
+            <a href="https://www.eng.ed.ac.uk/studying/postgraduate/research/phd-scholarships"> <image class="filter-pdf" src="_static/solid/link.svg"> </a>
+
+      ..  container :: rightside
+               
+          .. raw :: html
+
+             <a href="https://www.eng.ed.ac.uk/studying/postgraduate/research/phd-scholarships">https://www.eng.ed.ac.uk/studying/postgraduate/research/phd-scholarships</a> 
+
+
+      .. container :: leftside
+
+         .. raw:: html
+                  
+            <a href="http://www.ed.ac.uk/schools-departments/student-funding/postgraduate/overview"> <image class="filter-pdf" src="_static/solid/link.svg"> </a>
+
+      ..  container :: rightside
+               
+          .. raw :: html
+
+             <a href="http://www.ed.ac.uk/schools-departments/student-funding/postgraduate/overview">http://www.ed.ac.uk/schools-departments/student-funding/postgraduate/overview</a> 
 
    For any queries on the scholarships and the application process, please contact directly the Postgraduate Office of the School of Engineering: EngGradOffice@ed.ac.uk. 
 
