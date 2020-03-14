@@ -3,7 +3,7 @@ div.toggle .header {
     height: 30px;
     color: #000;
     cursor: pointer;
-    width: 66vw;
+    width: 95%;
     text-align: left;
     padding: 10px;
     border: none;
@@ -24,7 +24,7 @@ div.toggle2 .header {
     height: 30px;
     color: #000;
     cursor: pointer;
-    width: 66vw;
+    width: 95%;
     text-align: left;
     padding: 10px;
     border: none;
@@ -64,7 +64,7 @@ img {
 
 
 div.note2 {
-    width: 66vw;
+    width: 96%;
     border: 2px solid #9b3717;
     border-right-style: none;
     border-left-style: none;
