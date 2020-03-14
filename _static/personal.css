@@ -19,7 +19,7 @@ body {
     /*font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; */
     font-family:Georgia, serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;
     /*font-family:Roboto, serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;*/
-    font-size: 17px; /*11pt*/
+    font-size: 16px; /*11pt*/
     background-color: #ffffff;
     color: #ffffff;
     margin: 0 auto;
@@ -28,8 +28,8 @@ body {
 }
 
 div.body{
-    max-width: 80vw;
-    min-width: 60vw;
+    max-width:70vw;
+    min-width:400px;
     margin: 0 auto;
 }
 
@@ -467,7 +467,7 @@ div.menu li {
     color: #000;
     display: block;
     line-height: 40px;
-    padding: 0 10px;
+    padding: 0 5px;
     text-decoration: none;
 }
 #access ul ul {
@@ -490,7 +490,7 @@ div.menu li {
 #access ul ul a {
     background: #333;
     line-height: 2em;
-    padding: 10px;
+    /*padding: 10px;*/
     width: 150px;
 }
 #access li:hover > a,
@@ -517,7 +517,8 @@ div.menu li {
 
 .wrapper {
     margin: 0 auto;
-    width: 80vw;
+    max-width:70vw;
+    min-width:700px;
 }
 
 /* =Leader and Front Page Styles
