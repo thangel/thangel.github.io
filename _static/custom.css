@@ -38,19 +38,44 @@ div.toggle2 .header p {
 }
 
 div.toggle .header:before {
-    content: ">  ";
+   font-family: "FontAwesome";
+   content: "\f105";
+   display: inline-block;
+   padding-right: 3px;
+   padding-left: 3px;
+   vertical-align: middle;
+   font-weight:900;
 }
+
 
 div.toggle .header.open:before {
-    content: "∨  ";
+   font-family: "FontAwesome";
+   content: "\f107";
+   display: inline-block;
+   padding-right: 3px;
+   padding-left: 3px;
+   vertical-align: middle;
+   font-weight:900;
 }
 
-.toggle2 .header:before {
-    content: "∨  ";
+div.toggle2 .header:before {
+   font-family: "FontAwesome";
+   content: "\f107";
+   display: inline-block;
+   padding-right: 3px;
+   padding-left: 3px;
+   vertical-align: middle;
+   font-weight:900;
 }
 
-.toggle2 .header.open:before {
-    content: ">  ";
+div.toggle2 .header.open:before {
+   font-family: "FontAwesome";
+   content: "\f105";
+   display: inline-block;
+   padding-right: 3px;
+   padding-left: 3px;
+   vertical-align: middle;
+   font-weight:900;
 }
 
 
