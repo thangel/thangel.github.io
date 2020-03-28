@@ -160,7 +160,7 @@ div.topnav {
   margin-right: auto;
   background-color: white;
   overflow: hidden;
-  min-width:68vw;
+  min-width:90vw;
   padding:20px;
   border-bottom: 1.2px solid #000000;
   transition: 0.5s;
@@ -248,7 +248,6 @@ div.topnav label:hover{
     background-color: white;
     text-align: left;
     border-bottom: 1.2px solid #000000;
-    width:100%;
     margin: 0;
   }
 
