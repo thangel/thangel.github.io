@@ -209,7 +209,6 @@ div.topnav label:hover{
 
 #sticky {
   width: -moz-available;
-  margin: 0 auto;
   position: fixed;
   z-index:10;
   /*padding:20px;*/
@@ -218,7 +217,7 @@ div.topnav label:hover{
 }
 
 
-@media screen and (max-width:1200px) {
+@media screen and (max-width:900px) {
 
   div.topnav {
     /*border-bottom:none;*/
