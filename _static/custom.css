@@ -155,7 +155,7 @@ div.rightside {
 /* Add a black background color to the top navigation */
 
 div.topnav {
-  width:  -moz-max-content;
+  width: -moz-available;
   margin-left: auto;
   margin-right: auto;
   background-color: white;
@@ -209,6 +209,7 @@ div.topnav label:hover{
 
 #sticky {
   width: -moz-available;
+  background-color: white;
   position: fixed;
   z-index:10;
   /*padding:20px;*/
