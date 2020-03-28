@@ -59,7 +59,22 @@ gtag('config', 'UA-152683855-1');
 
 
   </head><body>
-<div class="topnav" role="custom-dropdown">
+<div class="topnav" role="custom-dropdown"  id="sticky">
+    <label for="nav_toggle"> 
+    Menu <i class="fas fa-bars"></i></label></i>
+    <input type="checkbox" id="nav_toggle">
+    <div class="menu">
+    <a href="index.html"  title="Introduction">Introduction</a>
+    <a href="research.html"  title="Research">Research</a>
+    <a href="teaching.html" title="Teaching">Teaching</a>
+    <a href="publications.html"title="Publications">Publications</a>
+    <a href="news.html"      title="News">News</a>
+    <a href="team.html" title="Research Collaborators">Team</a>
+    <a href="opportunities.html"   title="Opportunities">Opportunities</a>
+    </div>
+</div><!-- #wrapper -->
+
+<div class="topnav" role="custom-dropdown"  >
     <label for="nav_toggle" style="color: #333; "> 
     Menu <i class="fas fa-bars"></i></label></i>
     <input type="checkbox" id="nav_toggle">
@@ -136,6 +151,21 @@ gtag('config', 'UA-152683855-1');
             $(this).parent().children(".header").toggleClass("open");
         })
     });
+</script>
+
+<script>
+window.onscroll = function() {myFunction()};
+
+var navbar = document.getElementById("sticky");
+var sticky = navbar.offsetTop;
+
+function myFunction() {
+  if (window.pageYOffset >= sticky) {
+    navbar.classList.add("sticky")
+  } else {
+    navbar.classList.remove("sticky");
+  }
+}
 </script>
 
 
