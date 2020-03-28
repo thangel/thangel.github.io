@@ -48,12 +48,11 @@ div.toggle .header:before {
 }
 
 
+
 div.toggle .header.open:before {
    font-family: "FontAwesome";
    content: "\f107";
    display: inline-block;
-   padding-right: 3px;
-   padding-left: 3px;
    vertical-align: middle;
    font-weight:900;
 }
@@ -79,6 +78,22 @@ div.toggle2 .header.open:before {
 }
 
 
+div.copylink{
+  padding: 10px 2px 10px 4em;
+}
+
+div.copylink:before {
+   font-family: "FontAwesome";
+   color: #700827 ;
+   content: "\2003 \f0c1 \2003";
+   display: inline-block;
+   font-size: 1.3em;
+   margin-left: -3.0em; /* same as padding-left set on li */
+   vertical-align: middle;
+   font-weight:10;
+}
+
+
 .center {text-align: center;}
 
 img {
@@ -89,7 +104,7 @@ img {
 
 
 div.note2 {
-    width: 97%;
+    width: 96%;
     border: 2px solid #9b3717;
     border-right-style: none;
     border-left-style: none;
@@ -125,35 +140,161 @@ div.rightside {
 /*Navigation panel*/
 
 /* Add a black background color to the top navigation */
+
 div.topnav {
   width:  -moz-max-content;
   margin-left: auto;
   margin-right: auto;
-  background-color: #fff;
+  background-color: #eee;
   overflow: hidden;
-  max-width:70vw;
-  min-width:400px;}
+  min-width:68vw;
+  text-align: center;
+  padding:20px;
+  border-bottom: 1.2px solid #000000;
+}
 
 /* Style the links inside the navigation bar */
-div.topnav a {
-  float: left;
+
+div.topnav label{
+  margin: 0.2em 0.2em 0.2em 0.2em;
+  font-size: 2.0em;
+  text-align: right;
+  line-height: 2.0em;
+  display: none;
+}
+
+#nav_toggle {display: none;}
+
+.menu{
+    /*max-width:68vw;*/
+/*    margin: 0 auto;*/
+}
+
+.menu a {
+  background-color: #eee;
   color: #333;
   text-align: center;
-  padding: 10px 10px;
   text-decoration: none;
   font-size: 1.0em;
+  padding:1.0em 0em 1em 1em;
   font-weight: bold;
+}
+
+.menu a:hover {
+  background-color: #9b3717;
+  color: white;
+}
+
+
+@media screen and (max-width:1200px) {
+
+  div.topnav {
+    border-bottom:none;
+    padding:none;
+  }
+
+  div.topnav label{
+    margin: 0.2em 0.2em 0.2em 0.2em;
+    float: right;
+    text-align: right;
+    width: 100%;
+
+    display: block;
+    cursor: pointer;
+  }
+
+  .menu{
+    width: 100%;
+    display: none;
+  }
+
+  .menu a{
+    display: block;
+    text-align: left;
+    background-color: #eee;
+    border-bottom: 1.2px solid #000000;
+    width:100%;
+    margin: 0;
+  }
+
+  .menu a:hover {
+  background-color: #9b3717;
+  color: white;
+  }
+
+  #nav_toggle:checked + .menu {
+    display: block;
+  }
+}
+
+
+/*div.topnav li {
+  /*width: 20%;  20 = 100 / item count 
+  float:left;
+  margin:0;
+  padding:0;
+  padding: 2px 2px;
   border-bottom: 1.2px solid #000000; 
 }
+/*
 
-/* Change the color of links on hover */
-div.topnav a:hover {
-  background-color: #ddd;
-  color: black;
-}
 
 /* Add a color to the active/current link */
-div.topnav a.active {
+/*div.topnav a.active {
   background-color: #4CAF50;
   color: white;
 }
+
+div.topnav body {
+  -webkit-animation: bugfix infinite 1s; 
+}
+
+div.topnav @-webkit-keyframes bugfix { 
+  from { padding: 0; } 
+  to { padding: 0; } 
+}
+
+div.topnav input[type=checkbox] {
+  position: absolute;
+  top: -9999px;
+  left: -9999px;
+}
+
+div.topnav label { 
+  cursor: pointer;
+  user-select: none;
+}
+
+div.topnav [role="custom-dropdown"] {
+  label {
+    display: none;
+  }
+}
+
+@media screen and (max-width:700p) {
+  div.topnav[role="custom-dropdown"]{
+      
+      ul {
+       display: none;
+       height: 100%
+      }
+
+      label {
+       position: relative;
+       display: block;
+       width: 100%;
+      }
+
+      label:after {
+        position: absolute;
+        content: "\2261";
+      }
+    
+      input:checked ~ ul {
+        display: block;
+        > li {
+        width: 100%;
+      }        
+    }
+  }
+}*/

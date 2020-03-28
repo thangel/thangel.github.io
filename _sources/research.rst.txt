@@ -45,44 +45,25 @@ Our research considers the development, validation and application of numerical 
 
     .. container :: note2 
 
+         .. container :: copylink
 
-         .. container :: leftside
-
-                 .. raw:: html
-
-                    <a href="https://www.sciencedirect.com/science/article/pii/S0306261918319093"> <image class="filter-pdf" src="_static/solid/link.svg"> </a>
-
-         ..  container :: rightside
-               
-                 .. raw :: html
+            .. raw :: html
 
                       <a href="https://www.sciencedirect.com/science/article/pii/S0306261918319093">Utilising the flexible generation potential of tidal range power plants to optimise economic value, <b>Applied Energy</b>, 2019</a> 
 
-         .. container :: leftside
-                 
-                 .. raw:: html
+         .. container :: copylink
 
-                    <a href="https://www.sciencedirect.com/science/article/pii/S0306261917317671"> <image class="filter-pdf" src="_static/solid/link.svg"> </a>
-
-         ..  container :: rightside
-               
-                 .. raw :: html
+            .. raw :: html
 
                       <a href="https://www.sciencedirect.com/science/article/pii/S0306261917317671">Optimising tidal range power plant operation, <b>Applied Energy</b>, 2018</a> 
 
+         .. container :: copylink
 
-         .. container :: leftside
+            .. raw :: html
 
-                 .. raw:: html
-
-                    <a href="https://www.sciencedirect.com/science/article/pii/S0960148118305263"> <image class="filter-pdf" src="_static/solid/link.svg"> </a>
-
-         ..  container :: rightside
-               
-                 .. raw :: html
-
-                      <div> <a href="https://www.sciencedirect.com/science/article/pii/S0960148118305263">Tidal range energy resource and optimization – Past perspectives and future challenges, <b>Renewable Energy</b>, 2018</a> </div>
-
+                     <a href="https://www.sciencedirect.com/science/article/pii/S0960148118305263">Tidal range energy resource and optimization – Past perspectives and future challenges, <b>Renewable Energy</b>, 2018</a> 
+    
+    
 
 ..
     Commented sections   
@@ -104,44 +85,23 @@ Our research considers the development, validation and application of numerical 
     .. container :: note2 
 
 
-         .. container :: leftside
+         .. container :: copylink
 
-               .. raw:: html
+            .. raw :: html
 
-                  <a href="https://link.springer.com/article/10.1007/s10666-016-9502-x"> <image class="filter-pdf" src="_static/solid/link.svg"> </a>
+                     <a href="https://link.springer.com/article/10.1007/s10666-016-9502-x">Contact Tank Design Impact on Process Performance, <b>Environmental Modelling & Assessment</b>, 2016</a> 
 
-         ..  container :: rightside
-               
-                 .. raw :: html
+         .. container :: copylink
 
-                      <a href="https://link.springer.com/article/10.1007/s10666-016-9502-x">Contact Tank Design Impact on Process Performance, <b>Environmental Modelling & Assessment</b>, 2016</a> 
+            .. raw :: html
 
-         .. container :: leftside
+                     <a https://www.sciencedirect.com/science/article/pii/S1570644314000410">Flow, transport and disinfection performance in small- and full-scale contact tanks, <b>Journal of Hydro-environment Research</b>, 2015</a>
 
-               .. raw:: html
+         .. container :: copylink
 
-                  <a href="https://www.sciencedirect.com/science/article/pii/S1570644314000410"> <image class="filter-pdf" src="_static/solid/link.svg"> </a>
+            .. raw :: html
 
-
-         ..  container :: rightside
-               
-                 .. raw :: html
-
-                      <div> <a https://www.sciencedirect.com/science/article/pii/S1570644314000410">Flow, transport and disinfection performance in small- and full-scale contact tanks, <b>Journal of Hydro-environment Research</b>, 2015</a> </div>
-
-         .. container :: leftside
-
-               .. raw:: html
-
-                  <a href="https://www.sciencedirect.com/science/article/pii/S0043135414003224"> <image class="filter-pdf" src="_static/solid/link.svg"> </a>
-
-         ..  container :: rightside
-               
-                 .. raw :: html
-
-                      <a href="https://www.sciencedirect.com/science/article/pii/S0043135414003224">Predicting the disinfection efficiency range in chlorine contact tanks through a CFD-based approach, <b>Water Research</b>, 2014</a> 
-
-
+                     <a href="https://www.sciencedirect.com/science/article/pii/S0043135414003224">Predicting the disinfection efficiency range in chlorine contact tanks through a CFD-based approach, <b>Water Research</b>, 2014</a> 
 
 
 
@@ -159,41 +119,23 @@ Our research considers the development, validation and application of numerical 
     .. container :: note2 
 
 
-         .. container :: leftside
+         .. container :: copylink
 
-               .. raw:: html
+            .. raw :: html
 
-                  <a href="https://link.springer.com/article/10.1007/s10652-018-9626-4"> <image class="filter-pdf" src="_static/solid/link.svg"> </a>
+                     <a href="https://link.springer.com/article/10.1007/s10652-018-9626-4">Fate of large-scale vortices in idealized tidal lagoons, <b>Environmental Fluid Mechanics</b>, 2018</a> 
 
-         ..  container :: rightside
-               
-                 .. raw :: html
+         .. container :: copylink
 
-                      <a href="https://link.springer.com/article/10.1007/s10652-018-9626-4">Fate of large-scale vortices in idealized tidal lagoons, <b>Environmental Fluid Mechanics</b>, 2018</a> 
+            .. raw :: html
 
-         .. container :: leftside
+                     <a href="https://www.mdpi.com/2311-5521/2/2/17">On the Values for the Turbulent Schmidt Number in Environmental Flows , <b>Fluids</b>, 2017</a>
 
-               .. raw:: html
+         .. container :: copylink
 
-                  <a href="https://www.mdpi.com/2311-5521/2/2/17"> <image class="filter-pdf" src="_static/solid/link.svg"> </a>
+            .. raw :: html
 
-         ..  container :: rightside
-               
-                 .. raw :: html
-
-                      <div> <a href="https://www.mdpi.com/2311-5521/2/2/17">On the Values for the Turbulent Schmidt Number in Environmental Flows , <b>Fluids</b>, 2017</a> </div>
-
-         .. container :: leftside
-
-               .. raw:: html
-
-                  <a href="https://www.mdpi.com/2311-5521/2/2/17"> <image class="filter-pdf" src="_static/solid/link.svg"> </a>
-
-         ..  container :: rightside
-               
-                 .. raw :: html
-
-                      <a href="https://doi.org/10.1063/1.5004028">Large-eddy simulation of shallow turbulent wakes behind a conical island, <b>Physics of Fluids</b>, 2017</a> 
+                     <a href="https://doi.org/10.1063/1.5004028">Large-eddy simulation of shallow turbulent wakes behind a conical island, <b>Physics of Fluids</b>, 2017</a> 
 
 
 
