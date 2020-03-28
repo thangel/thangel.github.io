@@ -155,14 +155,14 @@ div.rightside {
 /* Add a black background color to the top navigation */
 
 div.topnav {
-  width: -moz-available;
   margin-left: auto;
   margin-right: auto;
   background-color: white;
   overflow: hidden;
-  min-width:90vw;
+  min-width:400px;
+  width: 94vw;
   padding:20px;
-  border-bottom: 1.2px solid #000000;
+  /*border-bottom: 1.2px solid #000000;*/
   transition: 0.5s;
 }
 
@@ -212,6 +212,7 @@ div.topnav label:hover{
   background-color: white;
   position: fixed;
   z-index:10;
+  border-bottom: 1.2px solid #000000;
   /*padding:20px;*/
 /*  top: 0;
   left: 12.6vw;*/
@@ -222,7 +223,6 @@ div.topnav label:hover{
 
   div.topnav {
     /*border-bottom:none;*/
-    padding: none;
     width: -moz-available
     border-bottom: 1.2px solid #000000;
   }
@@ -257,6 +257,7 @@ div.topnav label:hover{
   }
 
   #nav_toggle:checked + .menu {
+    transition: 0.5s;
     display: block;
   }
 }
