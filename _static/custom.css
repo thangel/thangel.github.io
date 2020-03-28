@@ -161,7 +161,6 @@ div.topnav {
   background-color: white;
   overflow: hidden;
   min-width:68vw;
-  text-align: center;
   padding:20px;
   border-bottom: 1.2px solid #000000;
   transition: 0.5s;
@@ -189,14 +188,13 @@ div.topnav label:hover{
 #nav_toggle {display: none;}
 
 .menu{
-    /*max-width:68vw;*/
-/*    margin: 0 auto;*/
+  text-align: center;
+  float:none;
 }
 
 .menu a {
   background-color: white;
   color: #333;
-  text-align: center;
   text-decoration: none;
   font-size: 1.0em;
   padding:1.0em 0.5em 1em 0.5em;
@@ -210,13 +208,13 @@ div.topnav label:hover{
 }
 
 #sticky {
-  width: -moz-max-content;
+  width: -moz-available;
   margin: 0 auto;
-  min-width:70vw;
   position: fixed;
+  z-index:10;
   /*padding:20px;*/
-  top: 0;
-  left: 12.6vw;
+/*  top: 0;
+  left: 12.6vw;*/
 }
 
 
@@ -225,6 +223,7 @@ div.topnav label:hover{
   div.topnav {
     /*border-bottom:none;*/
     padding: none;
+    width: -moz-available
     border-bottom: 1.2px solid #000000;
   }
 
@@ -239,11 +238,14 @@ div.topnav label:hover{
 
   .menu{
     width: 100%;
+    background-color: white;
     display: none;
+    text-align: left;
   }
 
   .menu a{
     display: block;
+    background-color: white;
     text-align: left;
     border-bottom: 1.2px solid #000000;
     width:100%;
