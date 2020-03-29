@@ -117,7 +117,7 @@ img {
 
 
 div.note2 {
-    width: 97%;
+    width: 96.4%;
     border: 2px solid #9b3717;
     border-right-style: none;
     border-left-style: none;
@@ -213,13 +213,10 @@ div.topnav label:hover{
   position: fixed;
   z-index:10;
   border-bottom: 1.2px solid #000000;
-  /*padding:20px;*/
-/*  top: 0;
-  left: 12.6vw;*/
 }
 
 
-@media screen and (max-width:900px) {
+@media screen and (max-width:750px) {
 
   div.topnav {
     /*border-bottom:none;*/
@@ -262,3 +259,14 @@ div.topnav label:hover{
   }
 }
 
+.imagerow {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 20vw;
+    min-height: 200px
+}
+
+#images{
+    text-align:center;
+}
