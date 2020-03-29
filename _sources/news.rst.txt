@@ -45,7 +45,7 @@ Latest updates on research and teaching matters are summarised below:
                <a href="https://www.sciencedirect.com/science/article/pii/S0960148120304110">Tidal range energy resource assessment of the Gulf of California, Mexico, <b>Renewable Energy</b>, 2020</a> 
 .. If :math:`\sigma_{1}` equals :math:`\sigma_{2}` then etc, etc.
 
-.. container:: toggle
+.. container:: toggle2
 
     .. container:: header
 
@@ -59,10 +59,10 @@ Latest updates on research and teaching matters are summarised below:
 
 
          <div id="images">
-         <img class="imagerow" border="0"  src="https://www.dropbox.com/s/jk79t7r8a9b5n01/test_swansea0.png?raw=1"/>
+         <img class="imagerow" border="0"  style="max-height:15vw" src="https://www.dropbox.com/s/jk79t7r8a9b5n01/test_swansea0.png?raw=1"/>
 
 
-         <p><i style="font-size: 0.7em"><b>Figure: </b>. Computational meshes applied to assess the potential of the Swansea Bay, Cardiff and Severn Barrage schemes.
+         <p><i style="font-size: 0.7em"><b>Figure: </b> Computational meshes applied to assess the potential of the Swansea Bay, Cardiff and Severn Barrage schemes.
          </i></p>
          </div>
   
@@ -72,16 +72,16 @@ Latest updates on research and teaching matters are summarised below:
 
                <a href="https://www.icevirtuallibrary.com/doi/abs/10.1680/jdare.18.00042?journalCode=jdare">Tidal range structure operation assessment and optimisation. <b>Dams & Reservoirs</b>, 2019</a> 
 
-    - A new paper has been published in *Applied Energy* on the MSc research study of Freddie Harcourt on the flexibility of tidal range power plant operation <https://doi.org/10.1016/j.apenergy.2018.12.091>`_. It presents recent insights on how this inherent flexibility on generation times could be used to negotiate more attractive subsidy deals and complement other sustainable energy options (e.g. onshore and offshore wind energy).
+    - A new paper has been published in *Applied Energy* on the MSc research study of Freddie Harcourt on the flexibility of tidal range power plant operation. It presents recent insights on how this inherent flexibility on generation times could be used to negotiate more attractive subsidy deals and complement other sustainable energy options (e.g. onshore and offshore wind energy).
 
       .. raw:: html
 
 
          <div id="images">
-         <img class="imagerow" border="0"  src="https://www.dropbox.com/s/rwj6ciy8da4kf8a/Image_flexibility.png?raw=1"/>
+         <img class="imagerow" border="0" style="max-height:15vw"  src="https://www.dropbox.com/s/rwj6ciy8da4kf8a/Image_flexibility.png?raw=1"/>
 
 
-         <p><i style="font-size: 0.7em"><b>Figure: </b>. Left axis is the average capacity factor (CF) against the Day Ahead market price for  5 years. The secondary y axis on both plots corresponds to the histogram, counting the frequency of a given price range occurring over the simulation timespan.
+         <p><i style="font-size: 0.7em"><b>Figure: </b> Left axis is the average capacity factor (CF) against the Day Ahead market price over 5 years. The secondary y axis on both plots corresponds to the histogram, counting the frequency of a given price range occurring over the simulation timespan.
          </i></p>
          </div>
   
