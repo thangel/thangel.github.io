@@ -30,7 +30,7 @@ Latest updates on research and teaching matters are summarised below:
 
 
          <div id="images">
-         <img class="imagerow" border="0" style="min-height:36vw"  src="https://www.dropbox.com/s/2m081pezomyxoov/linked_basin.gif?raw=1"/>
+         <img class="imagerow" border="0"  src="https://www.dropbox.com/s/2m081pezomyxoov/linked_basin.gif?raw=1"/>
          <img class="imagerow" border="0" alt="Linked-basin model" src="https://www.dropbox.com/s/47m1p29tvufpg0a/Fig_6-rev_a.png?raw=1"/>
 
 
