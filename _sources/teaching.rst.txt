@@ -13,7 +13,7 @@
 Teaching
 ========
 
-This page summarises teaching responsibilities within the Discipline of Civil & Environmental Engineering.
+This section summarises teaching responsibilities within the Discipline of Civil & Environmental Engineering.
 
 
 .. container:: toggle
@@ -45,6 +45,8 @@ This page summarises teaching responsibilities within the Discipline of Civil & 
 Educational Resources
 =====================
 
+General information  that relate to our research areas. 
+
 .. container:: toggle2
 
     .. container:: header
@@ -55,7 +57,7 @@ Educational Resources
 
         **Role:** Researcher
 
-    The *Tidal Energy Open Educational Resource* (OER)  is intended to provide an overview to initiate students and scholars to the theory and practical aspects  of this form of marine energy, defining certain key concepts and directing the interested reader to the relevant sources. 
+    The *Tidal Energy Open Educational Resource* (OER)  is intended to provide an overview to initiate students and scholars to the theory and practical aspects  of this form of marine energy, defining certain key concepts and directing the interested reader to useful sources for further information. 
 
     The research guide is made as an OER by Athanasios Angeloudis as part of the Digital Education module for the Postgraduate Certificate (PgCert) in Academic Practice at The University of Edinburgh and is motivated by the research activities of the NERC project `NE/R013209/2 <http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/R013209/2>`_ : Tidal energy operational and spatial planning optimisation:
 
