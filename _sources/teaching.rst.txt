@@ -16,7 +16,7 @@ Teaching
 This page summarises teaching responsibilities within the Discipline of Civil & Environmental Engineering.
 
 
-.. container:: toggle2
+.. container:: toggle
 
     .. container:: header
 
@@ -29,7 +29,7 @@ This page summarises teaching responsibilities within the Discipline of Civil & 
     *Hydraulic Engineering IV* is a 4th year undergraduate civil engineering module on unsteady flows. I am responsible for the delivery of material on open channel flows and specifically flood routing, St Venant Equations, Solitary Waves, Surges and Coastal Waves. `Course Website <http://www.drps.ed.ac.uk/18-19/dpt/cxcive10006.htm>`_ 
 
 
-.. container:: toggle2
+.. container:: toggle
 
     .. container:: header
 
