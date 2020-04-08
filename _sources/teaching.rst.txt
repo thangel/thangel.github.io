@@ -42,6 +42,35 @@ This page summarises teaching responsibilities within the Discipline of Civil & 
     *Water  Engineering, Transport & Treatment III* is a  3rd year undergraduate civil engineering module where I cover the fundamentals of hydraulic flows since 2019. I am responsible for the delivery of material on the gradually varied flow equation, the use and rationale of certain flow-control structures, and the application of the momentum and energy principles on open channel flow settings. `Course Website  <http://www.drps.ed.ac.uk/19-20/dpt/cxcive09035.htm>`_ 
 
 
+Educational Resources
+=====================
+
+.. container:: toggle2
+
+    .. container:: header
+
+        *Tidal Energy Open Educational Resource*
+
+    .. container :: note2 
+
+        **Role:** Researcher
+
+    The *Tidal Energy Open Educational Resource* (OER)  is intended to provide an overview to initiate students and scholars to the theory and practical aspects  of this form of marine energy, defining certain key concepts and directing the interested reader to the relevant sources. 
+
+    The research guide is made as an OER by Athanasios Angeloudis as part of the Digital Education module for the Postgraduate Certificate (PgCert) in Academic Practice at The University of Edinburgh and is motivated by the research activities of the NERC project `NE/R013209/2 <http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/R013209/2>`_ : Tidal energy operational and spatial planning optimisation:
+
+
+    .. container :: note2 
+
+        .. container :: copylink
+
+          .. raw :: html
+
+                <a href="tidal_oer.html"> <b>Tidal Energy Open Educational Resource </b> </a>  
+
+
+
+
 ..
 .. |UoE| image:: support/uoe.png
    :height: 70px
