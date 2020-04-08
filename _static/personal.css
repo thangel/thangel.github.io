@@ -21,7 +21,7 @@ body {
     /*font-family:Roboto, serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;*/
     /*font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;*/
     font-family:Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;
-
+    font-weight: lighter;
     font-size: 16px; /*11pt*/
     background-color: #ffffff;
     color: #ffffff;
