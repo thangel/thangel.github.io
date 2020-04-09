@@ -169,7 +169,7 @@ Contact
                    
         .. raw :: html
 
-              <a href="https://www.linkedin.com/in/aangeloudis/">Lindedin </a> 
+              <a href="https://www.linkedin.com/in/aangeloudis/">Linkedin </a> 
 
 
     .. container :: leftside
