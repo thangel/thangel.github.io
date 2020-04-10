@@ -223,4 +223,5 @@ Contact
    news
    team
    opportunities
+   tidal/tidal_oer
 

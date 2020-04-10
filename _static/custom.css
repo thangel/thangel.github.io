@@ -261,15 +261,13 @@ div.topnav label:hover{
   }
 
   div.sidebar {
-    margin: 20px 0px 20px 0px;
+    display: block;
     border: 1px solid #9b3717;
     border-right-style: none;
     border-left-style: none;
     background: #f8e8df;
     width: 99%;
-    padding: 6px 6px 6px 6px;
-    border-radius: 2px;
-}
+  }
 }
 
 .imagerow {

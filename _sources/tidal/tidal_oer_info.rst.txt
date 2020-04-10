@@ -1,0 +1,44 @@
+.. webpage documentation master file, created by
+   sphinx-quickstart on Fri May 18 18:18:29 2018.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+
+
+.. only:: html 
+
+
+.. _email: mailto: a.angeloudis@ed.ac.uk
+
+
+.. sidebar::  Tidal Energy OER
+
+	.. raw:: html
+
+		<p style="padding:5px"><a href="tidal_oer.html" ><i class="fas fa-home"></i> Introduction </a></p>
+
+		<p style="padding:5px"><a href="tidal_oer_tides.html"><i class="fas fa-water"></i> Tides </a></p>
+
+		<p style="padding:5px"><a href="tidal_oer_stream.html"><i class="fas fa-wind"></i> Tidal stream energy </a></p>
+
+		<p style="padding:5px"><a href="tidal_oer_range.html"><i class="fas fa-fan"></i> Tidal range energy </a></p>
+
+		<p style="padding:5px"><a href="tidal_oer_info.html"><i class="fas fa-info-circle"></i> Further information </a></p>
+   
+   
+
+Further Information
+===================
+
+This page provides links for further information regarding various aspects of tidal energy policy, resource, feasibility, optimisation and technology integration assessments.  
+
+.. **References**
+
+.. .. bibliography:: oer_references.bib
+
+|
+|
+
+.. raw:: html
+
+	 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0; height:1.5em" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> <i style="font-size:0.8em">This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a></i>. 
