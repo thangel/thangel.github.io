@@ -104,7 +104,7 @@ Latest updates on research and teaching matters are summarised below:
          <img class="imagerow" border="0" style="max-height:15vw"  src="https://www.dropbox.com/s/rwj6ciy8da4kf8a/Image_flexibility.png?raw=1"/>
 
 
-         <p><i style="font-size: 0.7em"><b>Figure: </b> Left axis is the average capacity factor (CF) against the Day Ahead market price over 5 years. The secondary y axis on both plots corresponds to the histogram, counting the frequency of a given price range occurring over the simulation timespan.
+         <p><i style="font-size: 0.7em"><b>Figure: </b> Left axis is the average capacity factor (CF) against the Day Ahead market price over 5 years. The secondary y axis corresponds to the histogram, counting the frequency of a given price range occurring over the simulation timespan.
          </i></p>
          </div>
   
