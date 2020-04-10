@@ -11,6 +11,7 @@
 .. _email: mailto: a.angeloudis@ed.ac.uk
 
 
+
 News
 ====
 
@@ -22,6 +23,7 @@ Latest updates on research and teaching matters are summarised below:
     .. container:: header
 
         *2020*
+
 
 
     - Our recent work on the operational modelling and the optimisation of linked-basin tidal energy systems has now been published in *Renewable Energy*. The work was a result of a joint effort with researchers of the Department of Earth Science and Engineering at Imperial College London:
@@ -130,7 +132,14 @@ Latest updates on research and teaching matters are summarised below:
 
     - Following two uniquely rewarding years at Imperial College with the Department of Earth Science and Engineering, I have joined the School of Engineering at the University of Edinburgh as a Lecturer in Water Engineering within the `Institute for Infrastructure and Environment <https://www.eng.ed.ac.uk/research/institutes/iie>`_.
 
-    - Exceedingly pleased by the acceptance of our paper on tidal lagoon vortices with `Carolanne Vouriot <https://www.imperial.ac.uk/fluid-mechanics/people/carolanne-vouriot/>`_, `Stephan Kramer <https://www.imperial.ac.uk/people/s.kramer>`_ and `Matt Piggott <https://www.imperial.ac.uk/people/m.d.piggott>`_. The paper is open access funded by NERC and EPSRC and is accessible at `Environmental Fluid Mechanics <https://link.springer.com/article/10.1007/s10652-018-9626-4>`_.
+    - Exceedingly pleased by the acceptance of our paper on tidal lagoon vortices with `Carolanne Vouriot <https://www.imperial.ac.uk/fluid-mechanics/people/carolanne-vouriot/>`_, `Stephan Kramer <https://www.imperial.ac.uk/people/s.kramer>`_ and `Matt Piggott <https://www.imperial.ac.uk/people/m.d.piggott>`_. The paper is open access funded by NERC and EPSRC and is accessible at Environmental Fluid Mechanics.
+
+      .. container :: copylink
+
+        .. raw :: html
+
+          <a href="https://link.springer.com/article/10.1007/s10652-018-9626-4">Fate of large scale vortices in idealised tidal lagoons, <b>Environmental Fluid Mechanics</b>, 2019</a> 
+
 
 ..
 .. |UoE| image:: support/uoe.png
