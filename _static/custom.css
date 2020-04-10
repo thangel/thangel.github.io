@@ -3,9 +3,9 @@ div.toggle .header {
     height: 30px;
     color: #000;
     cursor: pointer;
-    width: 100%;
+    width: 99%;
     text-align: left;
-    padding: 20px 0px 10px 0px;
+    padding: 20px 1px 10px 1px;
     border: none;
     outline: none;
     white-space: nowrap;
@@ -24,9 +24,9 @@ div.toggle2 .header {
     height: 30px;
     color: #000;
     cursor: pointer;
-    width: 100%;
+    width: 99%;
     text-align: left;
-    padding: 20px 0px 10px 0px;
+    padding: 20px 1px 10px 1px;
     border: none;
     outline: none;
     transition: 0.2s;}
@@ -117,11 +117,11 @@ img {
 
 
 div.note2 {
-    width: 100%;
+    width: 99%;
     border: 2px solid #9b3717;
     border-right-style: none;
     border-left-style: none;
-    padding: 5px 0px 5px 0px;
+    padding: 5px 1px 5px 1px;
     background: #f8e8df;
 }
 
@@ -260,6 +260,17 @@ div.topnav label:hover{
     transition: 0.5s;
     display: block;
   }
+
+  div.sidebar {
+    margin: 20px 10px 20px 10px;
+    border: 2px solid #9b3717;
+    border-right-style: none;
+    border-left-style: none;
+    background: #f8e8df;
+    width: 99%;
+    padding: 6px 6px 6px 6px;
+    border-radius: 2px;
+}
 }
 
 .imagerow {

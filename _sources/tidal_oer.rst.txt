@@ -11,21 +11,42 @@
 .. _email: mailto: a.angeloudis@ed.ac.uk
 
 
-.. warning::
+.. .. warning::
 
-    **Warning**:
+..     **Warning**:
 
-    This page is currently under construction. Excuse us if we are not looking our best!
+..     This page is currently under construction. Excuse us if we are not looking our best!
 
+.. sidebar::  Tidal Energy OER
+   
+    .. toctree::
+       :titlesonly:
 
-Tidal Energy
-============
-
+       tidal_oer
 
 
 Introduction
-------------
+============
+Tides are very long-period waves that move through the oceans in response to the forces exerted by the moon and sun (i.e. the *Earth-Moon-Sun system*). These waves are created by centrifugal and gravitational forces exerted 
+
+.. Tidal energy is a renewable energy source that comes with near complete predictability as a result of the tide generating forces attributed to the coupled Earth-Moon-Sun system. can be sources of substantial marine energy :cite:`Borthwick2016`
 
 
-References
-----------
+Due to the movement of the tides, there are certain coastal sites that feature high magnitude velocities or amplified elevation variations. The occurrence of the amplified *streams* (high velocity currents) or *ranges* (large elevation differences) is a result of the interaction amongst localised physical characteristics, e.g. the coastline, the bathymetry and the hydrodynamics induced by the propagation of the tidal waves.  
+
+
+As an example, a first array of tidal stream turbines has been installed in the Pentland Firth, Scotland, UK. The Pentland Firth is a prime example of a site that features amplified tidal currents that justify the deployment of marine hydrokinetic devices. Interest in tidal range structures has also resurfaced following the construction of the Lake Sihwa tidal power station in South Korea, while promising  sites in the Bristol Channel and the Severn Estuary have been identified for their potential :cite:`Hendry2017`.
+
+
+
+
+
+
+
+
+
+**References**
+
+.. bibliography:: tidal/oer_references.bib
+
+
