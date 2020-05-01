@@ -5,8 +5,7 @@
 
 .. |fa-pdf| raw:: html
 
-    <a href="https://www.dropbox.com/s/4hrjn2c7h4bpdxi/cv.pdf?raw=1"><i class="fas file-pdf"></i></a>
-
+          <a href="https://www.dropbox.com/s/4hrjn2c7h4bpdxi/cv.pdf?raw=1"> <image class="filter-pdf" src="_static/solid/file-pdf.svg"> </a>
  
 
 .. |twitter| raw:: html
@@ -49,6 +48,8 @@ About us
 
 Welcome! These pages detail information on our activities within the Applied Fluid Mechanics Group, based at the University of Edinburgh. 
 
+..  This site serves as a medium to summarise our progress and academic opportunities associated with our work on water research and environmental fluid mechanics.
+
 
 Introduction
 ------------
@@ -61,6 +62,11 @@ Introduction
 
 
     I am a *Lecturer* in Environmental Fluid Mechanics at the *University of Edinburgh*, incorporated within the Institute for Infrastructure and the Environment and leading the Applied Fluid Mechanics Group. In addition, as an Industrial Innovation  *Research Fellow* of the UK's Natural Environment Research Council (NERC) I coordinate research activities on computational methods for marine and offshore renewable energy, working closely with industry and other research groups.
+
+.. I am a Chartered member of the Technical Chamber of Greece (TEE), a member of the Institution of Civil Engineers (ICE) and have been affiliated with the International Association of Hydro-environment Engineering and Research (IAHR). 
+
+.. I have previously worked with the Department of Earth Science and Engineering at **Imperial College London** and the Hydro-environmental Research Centre of **Cardiff University**. 
+.. More details are summarised in my `CV <_static/CV_2.pdf>`_.
 
 Contact
 -------
@@ -114,16 +120,15 @@ Contact
 
     .. container :: leftside
      
-           .. raw :: html
+           .. container :: img-fa
 
-         
-                 <a href="https://www.dropbox.com/s/4hrjn2c7h4bpdxi/cv.pdf?raw=1"><i class="fas fa-file-alt" style="font-size: 1.3em"></i></a>
+                |fa-pdf|
 
     ..  container :: rightside
          
            .. raw :: html
 
-                <a href="https://www.dropbox.com/s/9lalixnn8tnjv5i/cv.pdf?raw=1"> Curriculum Vitae </b> </a> 
+                <a href="https://www.dropbox.com/s/4hrjn2c7h4bpdxi/cv.pdf?raw=1"> Curriculum Vitae </b> </a> 
 
     .. container :: leftside
 
@@ -171,7 +176,7 @@ Contact
                    
         .. raw :: html
 
-              <a href="https://www.linkedin.com/in/aangeloudis/">Linkedin </a> 
+              <a href="https://www.linkedin.com/in/aangeloudis/">Lindedin </a> 
 
 
     .. container :: leftside
@@ -225,5 +230,3 @@ Contact
    news
    team
    opportunities
-   tidal/tidal_oer
-
