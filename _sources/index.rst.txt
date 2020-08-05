@@ -62,7 +62,8 @@ Introduction
       .. raw:: html
 
          <div>
-         <img border="0" style="width: 200px; object-fit: contain;" src="_static/profile_2.jpg" class="myimg"/></div>
+         <img border="0" style="width: 200px; object-fit: contain; overflow: hidden; border-radius:50%;" src="_static/profile_2.jpg" />
+         </div>
 
          <div>
          <p style="font-size: 0.8em; font-weight:400;"> Lecturer, School of Engineering,<br>
