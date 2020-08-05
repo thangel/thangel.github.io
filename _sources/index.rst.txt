@@ -81,8 +81,8 @@ Introduction
 
         * Environmental fluid mechanics
         * Offshore renewable energy
-        * Coastal process and related engineering applications
-        * Numerical methods in civil & environmental engineering
+        * Coastal processes 
+        * Numerical methods in engineering
         * Data analytics and optimisation methods
 
 
