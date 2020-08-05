@@ -47,7 +47,7 @@
 About us
 --------
 
-Welcome! These pages detail information on applied fluid mechanics research activities led by Dr Athanasios Angeloudis. Our work is based at the School of Engineering at the University of Edinburgh, within the Institute for Infrastructure and Environment. 
+Welcome! These pages detail information on applied fluid mechanics research activities led by Dr Athanasios Angeloudis. Our work is based at the School of Engineering of the University of Edinburgh. 
 
 
 Introduction
@@ -74,7 +74,7 @@ Introduction
 
     .. container :: profileright
       
-        I am working on engineering fluid mechanics at the *University of Edinburgh*, incorporated within the Institute for Infrastructure and the Environment and leading the Applied Fluid Mechanics Group. Aside from my role of lecturer in Civil Engineering, as an Industrial Innovation  *Research Fellow* of the UK's Natural Environment Research Council (NERC) I coordinate research activities on computational methods for marine and offshore renewable energy, working closely with industry and other research groups.
+        I am working on engineering fluid mechanics, incorporated within the Institute for Infrastructure and the Environment and leading the Applied Fluid Mechanics Group. Aside from my role of lecturer in Civil Engineering hydraulics, as an Industrial Innovation  Research Fellow of the UK's Natural Environment Research Council (NERC) I coordinate research activities on computational methods for marine and offshore renewable energy, working closely with industry and other research groups.
 
         I am Chartered with the Technical Chamber of Greece and a member of the Institution of Civil Engineers. In addition, I am a member of NERC's Peer Review College.
 
