@@ -47,7 +47,7 @@
 About us
 --------
 
-Welcome! These pages detail information on our activities within the Applied Fluid Mechanics Group, based at the University of Edinburgh. 
+These pages detail information on research activities on applied fluid mechanics research led by Dr Athanasios Angeloudis. 
 
 
 Introduction
@@ -55,12 +55,40 @@ Introduction
 
 .. container :: min-section
 
-    .. image:: support/profile_2.jpg
-       :height: 170 px
-       :align: left   
+    .. container :: profileleft
+
+      Athanasios Angeloudis
+
+      .. raw:: html
+
+         <div>
+         <img border="0" style="width: 200px; object-fit: contain;" src="_static/profile_2.jpg" class="myimg"/></div>
+
+         <div>
+         <p style="font-size: 0.8em; font-weight:400;"> Lecturer, School of Engineering,<br>
+         
+         <a style="font-size: 1.0em" href="https://www.eng.ed.ac.uk/about/people/dr-athanasios-angeloudis"> University of Edinburgh </a>
+         </p>
+         </div>
+
+    .. container :: profileright
+      
+        I am working on engineering fluid mechanics at the *University of Edinburgh*, incorporated within the Institute for Infrastructure and the Environment and leading the Applied Fluid Mechanics Group. Aside from my role of lecturer in Civil Engineering, as an Industrial Innovation  *Research Fellow* of the UK's Natural Environment Research Council (NERC) I coordinate research activities on computational methods for marine and offshore renewable energy, working closely with industry and other research groups.
+
+        I am Chartered with the Technical Chamber of Greece and a member of the Institution of Civil Engineers. In addition, I am a member of NERC's Peer Review College.
+
+        My research and expertise spans across
+
+        * Environmental fluid mechanics
+        * Offshore renewable energy
+        * Coastal process and related engineering applications
+        * Numerical methods in civil & environmental engineering
+        * Data analytics and optimisation methods
 
 
-    I am a *Lecturer* in Environmental Fluid Mechanics at the *University of Edinburgh*, incorporated within the Institute for Infrastructure and the Environment and leading the Applied Fluid Mechanics Group. In addition, as an Industrial Innovation  *Research Fellow* of the UK's Natural Environment Research Council (NERC) I coordinate research activities on computational methods for marine and offshore renewable energy, working closely with industry and other research groups.
+
+
+
 
 Contact
 -------
@@ -117,13 +145,13 @@ Contact
            .. raw :: html
 
          
-                 <a href="https://www.dropbox.com/s/4hrjn2c7h4bpdxi/cv.pdf?raw=1"><i class="fas fa-file-alt" style="font-size: 1.3em"></i></a>
+                 <a href="https://www.dropbox.com/s/0pzxboajsuzff9w/cv.pdf?raw=1"><i class="fas fa-file-alt" style="font-size: 1.3em"></i></a>
 
     ..  container :: rightside
          
            .. raw :: html
 
-                <a href="https://www.dropbox.com/s/9lalixnn8tnjv5i/cv.pdf?raw=1"> Curriculum Vitae </b> </a> 
+                <a href="https://www.dropbox.com/s/0pzxboajsuzff9w/cv.pdf?raw=1"> Curriculum Vitae </b> </a> 
 
     .. container :: leftside
 
