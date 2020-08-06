@@ -49,28 +49,32 @@ If we consider :math:`H` to be the tidal range, the above equation can give us a
    <div id="images">
    <img class="imagerow" border="0" 
       alt="Potential Energy" style="min-width: 400px;
-      max-width: 600px;  height: auto; object-fit: contain;" src="https://www.dropbox.com/s/grsm7vepscrhaoo/potential_energy.png?raw=1"/>
+      max-width: 70vw;  height: auto; object-fit: contain;" src="https://www.dropbox.com/s/grsm7vepscrhaoo/potential_energy.png?raw=1"/>
 
 
    <p><i style="font-size: 0.7em"><b> Figure 1:</b>  Calculation of potential energy. 
    <span class="math notranslate nohighlight">\(E_{\text{flood}}\)</span> is the potential energy in the transition during a flood tide from low water, to high water, and
    <span class="math notranslate nohighlight">\(E_{\text{ebb}}\)</span>
-   </i></p> is the potential energy in the transition during an ebb tide from high water, to low water respectively.
-   </div> 
+   is the potential energy in the transition during an ebb tide from high water, to low water respectively.
+   </i></div> 
 
 
 
-The tidal range at a given location does not remain constant. In fact, the tidal elevation at any point is the result of many tidal waves that add up to the overall wave developed :cite:`parker2007tidal`. During spring tides, the principal tide driven by the moon forces (:math:`M_2`)  constructively adds up leading to a greater tidal range, whereas during neap tides the opposite occurs.
+Resource temporal variability
+-----------------------------
 
+The tidal range at a given location does not remain constant. In fact, the tidal elevation at any point is the result of many tidal waves that add up to the overall wave perceived :cite:`parker2007tidal`. During spring tides, the principal tides driven by lunar and solar movements (:math:`M_2` and :math:`S_2`) constructively interfere leading to a greater than average tidal range. Over neap tides the opposite occurs and the overall tidal range notably reduces.
 
-By extending the rationale of Figure 1 and equation :eq:`energy` in a realistic sea elevation signal that considers these variations in time we can proceed and quantify how the tidal range energy varies at any point. The Figure is produced for a location at Swansea Bay, UK.
+By extending the rationale of Figure 1 and equation :eq:`energy` for a realistic sea elevation signal that considers these variations in time we can proceed and quantify how the tidal range energy varies at any point as in Figure 2. The Figure is produced for a location at Swansea Bay, UK.
+
+One can observe significantly more energy during a spring tidal range, and the opposite over neap conditions. An advantage of this form of energy is that these waves can be predicted long in advance, suggesting that we know when to expect this energy to be available. This is the strength that tidal energy possesses over other renewable energy alternatives (e.g. wind or wave). 
 
 .. raw :: html
 
    <div id="images">
    <img class="imagerow" border="0" 
       alt="Potential Energy over time" style="width: 65vw;
-      max-width: 900px;  height: auto; object-fit: contain;" src="https://www.dropbox.com/s/0wrdbpenlg164zo/spring_neap_energy.png?raw=1"/>
+      max-width: 900px; min-width: 400px; height: auto; object-fit: contain;" src="https://www.dropbox.com/s/0wrdbpenlg164zo/spring_neap_energy.png?raw=1"/>
 
 
    <p><i style="font-size: 0.7em"><b> Figure 2:</b>  Evolution of (a) tidal elevations, (b) tidal range and (c) the theoretical tidal range energy (as calculated using Eq. 1 normalised by unit impounded surface area for a site near Swansea Bay in the Bristol Channel, UK. The values <span class="math notranslate nohighlight">\(\eta_{\text{crest}}\)</span>  and 
@@ -86,7 +90,8 @@ By extending the rationale of Figure 1 and equation :eq:`energy` in a realistic 
       <a href="https://www.dropbox.com/s/we0amw4hzv0zce3/potential_energy.zip?raw=1"> Indicative Python scripts and data to calculate potential energy from elevation signal</a>
 
 
-Using this analysis over a year, the available potential energy can be estimated at any point where we might want to exploit this energy source.
+Using this analysis over a year, the available potential energy can be estimated at any point where we might want to exploit this energy source. In estimating the annual energy available, one must simply aggregate the energy encompassed in every elevation transition over the year.
+
 
 
 
@@ -101,8 +106,11 @@ Using this analysis over a year, the available potential energy can be estimated
 
 
 
-Tidal range technologies
-------------------------
+Resource spatial variability
+----------------------------
+
+
+
 
 
 
