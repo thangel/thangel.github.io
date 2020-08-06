@@ -18,8 +18,6 @@
 
 		<p style="padding:5px"><a href="tidal_oer.html" ><i class="fas fa-home"></i> Introduction </a></p>
 
-		<p style="padding:5px"><a href="tidal_oer_tides.html"><i class="fas fa-water"></i> Tides </a></p>
-
 		<p style="padding:5px"><a href="tidal_oer_stream.html"><i class="fas fa-wind"></i> Tidal stream energy </a></p>
 
 		<p style="padding:5px"><a href="tidal_oer_range.html"><i class="fas fa-fan"></i> Tidal range energy </a></p>

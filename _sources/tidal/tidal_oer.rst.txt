@@ -17,21 +17,22 @@
 
 ..     This page is currently under construction. Excuse us if we are not looking our best!
 
-.. sidebar::  Tidal Energy OER
+.. sidebar::  Tidal Range Energy OER
 
    .. raw:: html
 
       <p style="padding:5px"><a href="tidal_oer.html" ><i class="fas fa-home"></i> Introduction </a></p>
 
-      <p style="padding:5px"><a href="tidal_oer_tides.html"><i class="fas fa-water"></i> Tides </a></p>
+      <p style="padding:5px"><a href="tidal_oer_range_resource.html"><i class="fas fa-water"></i> Tidal range resource </a></p>
 
-      <p style="padding:5px"><a href="tidal_oer_stream.html"><i class="fas fa-wind"></i> Tidal stream energy </a></p>
-
-      <p style="padding:5px"><a href="tidal_oer_range.html"><i class="fas fa-fan"></i> Tidal range energy </a></p>
+      <p style="padding:5px"><a href="tidal_oer_range_technologies.html"><i class="fas fa-fan"></i> Tidal range technologies </a></p>
 
       <p style="padding:5px"><a href="tidal_oer_info.html"><i class="fas fa-info-circle"></i> Further information </a></p>
    
    
+..  .. <p style="padding:5px"><a href="tidal_oer_tides.html"><i class="fas fa-water"></i> Tides </a></p>
+
+         <p style="padding:5px"><a href="tidal_oer_stream.html"><i class="fas fa-wind"></i> Tidal stream energy </a></p>
 
 
 
@@ -40,11 +41,33 @@ Introduction
 
 Renewable energy from the oceans can be produced in many ways. Examples include offshore wind, tidal stream, ocean current, tidal range, wave, thermal, salinity gradients, and biomass sources :cite:`Borthwick2016`. There is scope for all of these to play a role in delivering a sustainable, low-carbon future.
 
-In this Open Educational Resource (OER), we focus on the energy contained in the tides. Tides are very long-period waves that move through the oceans in response to the forces exerted by the moon and sun (i.e. the *Earth-Moon-Sun system*). 
+In this Open Educational Resource (OER), we focus on the energy contained in the tides and how can this be extracted. Tides are very long-period waves that move through the oceans in response to the forces exerted by the moon and sun (i.e. the *Earth-Moon-Sun system*). Specific information on the formation and characteristics of the tides are omitted here, and the reader is directed to the online resource of the US National Oceanic and Atmospheric Administration which provides a basic overview:
 
-The propagation of tides near coastal regions often leads to predictable high magnitude velocities and sea level elevation variations. The occurrence of the  **amplified streams** (high velocity currents) or **ranges** (large elevation differences) is a result of the interaction amongst localised coastal characteristics, and the hydrodynamics driven by the tidal waves.  
+.. container :: copylink
+
+   .. raw :: html
+
+      <a href="https://oceanservice.noaa.gov/education/tutorial_tides/tides01_intro.html"> US NOAA tutorial on tides and water levels </a>  
+
+As  tides approach coastal regions they can lead to high magnitude velocities and sea level elevation variations. The occurrence of the  high velocity currents, i.e. **amplified tidal streams**  or large elevation differences, i.e. **amplified tidal ranges** can lead to substantial sources of marine energy that can be extracted through marine energy converters.  
 
 As an example, a first array of tidal stream turbines has been installed in the Pentland Firth, Scotland, UK. The Pentland Firth is a prime example of a site that offers high velocity tidal currents that justify the deployment of marine hydrokinetic devices. 
+
+Large tidal range power plants have a long history  with large-scale schemes in existence since the 1960s, when the La Rance barrage in France was constructed.
+
+
+
+  .. raw:: html
+
+
+      <div id="images">
+      <img class="imagerow" border="0" 
+      alt="La Rance Barrage" src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Barrage_de_la_Rance.jpg"/>
+
+
+      <p><i style="font-size: 0.7em"><b> Figure :</b><a href="https://upload.wikimedia.org/wikipedia/commons/e/eb/Barrage_de_la_Rance.jpg">   "La Rance barrage" </a> (licensed under CC-BY).
+      </i></p>
+      </div>
 
 Interest in tidal range structures has also resurfaced following the construction of the Lake Sihwa tidal power station in South Korea, while promising  sites in the Bristol Channel and the Severn Estuary have been identified for their potential :cite:`Hendry2017`.
 
@@ -69,5 +92,6 @@ Interest in tidal range structures has also resurfaced following the constructio
 
    tidal_oer_tides
    tidal_oer_stream
-   tidal_oer_range
+   tidal_oer_range_resource
+   tidal_oer_range_technologies
    tidal_oer_info

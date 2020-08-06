@@ -38,7 +38,7 @@ gtag('config', 'UA-152683855-1');
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta charset="utf-8" />
-    <title>Tidal range energy &#8212; Applied Fluid Mechanics Group  documentation</title>
+    <title>Tidal range resource &#8212; Applied Fluid Mechanics Group  documentation</title>
     <link rel="stylesheet" href="../_static/personal.css" type="text/css" />
     <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
     <link rel="stylesheet" href="../_static/custom.css" type="text/css" />
@@ -47,10 +47,10 @@ gtag('config', 'UA-152683855-1');
     <script src="../_static/underscore.js"></script>
     <script src="../_static/doctools.js"></script>
     <script src="../_static/language_data.js"></script>
-    <script src="https://platform.twitter.com/widgets.js"></script>
+    <script async="async" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS-MML_HTMLorMML"></script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="Further Information" href="tidal_oer_info.html" />
+    <link rel="next" title="Tidal range technology" href="tidal_oer_range_technologies.html" />
     <link rel="prev" title="Tidal stream energy" href="tidal_oer_stream.html" />
 
 
@@ -92,30 +92,68 @@ gtag('config', 'UA-152683855-1');
 
 
     <div class="document">
-    <div class="tidal/tidal_oer_range">
+    <div class="tidal/tidal_oer_range_resource">
       
       <div class="documentwrapper">
         <div class="bodywrapper">
           <div class="body" role="main">
             
   <div class="sidebar">
-<p class="sidebar-title">Tidal Energy OER</p>
+<p class="sidebar-title">Tidal Range Energy OER</p>
 <p style="padding:5px"><a href="tidal_oer.html" ><i class="fas fa-home"></i> Introduction </a></p>
 
-<p style="padding:5px"><a href="tidal_oer_tides.html"><i class="fas fa-water"></i> Tides </a></p>
+<p style="padding:5px"><a href="tidal_oer_range_resource.html"><i class="fas fa-water"></i> Tidal range resource </a></p>
 
-<p style="padding:5px"><a href="tidal_oer_stream.html"><i class="fas fa-wind"></i> Tidal stream energy </a></p>
-
-<p style="padding:5px"><a href="tidal_oer_range.html"><i class="fas fa-fan"></i> Tidal range energy </a></p>
+<p style="padding:5px"><a href="tidal_oer_range_technologies.html"><i class="fas fa-fan"></i> Tidal range technologies </a></p>
 
 <p style="padding:5px"><a href="tidal_oer_info.html"><i class="fas fa-info-circle"></i> Further information </a></p></div>
-<div class="section" id="tidal-range-energy">
-<h1>Tidal range energy<a class="headerlink" href="#tidal-range-energy" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="tidal-range-resource">
-<h2>Tidal range resource<a class="headerlink" href="#tidal-range-resource" title="Permalink to this headline">¶</a></h2>
-</div>
+<h1>Tidal range resource<a class="headerlink" href="#tidal-range-resource" title="Permalink to this headline">¶</a></h1>
+<p>Let us try to place this energy into context. The maximum theoretical potential energy available from a head difference (or simply, an elevation difference) <span class="math notranslate nohighlight">\(H\)</span> (m) in Joules is given by the classic study of <a class="bibtex reference internal" href="tidal_oer_range_technologies.html#prandle1984" id="id1">[Pra84]</a> as:</p>
+<div class="math notranslate nohighlight" id="equation-energy">
+<span class="eqno">(1)<a class="headerlink" href="#equation-energy" title="Permalink to this equation">¶</a></span>\[E_{max} = \frac{1}{2} \rho g A H^2,\]</div>
+<p>where <span class="math notranslate nohighlight">\(\rho\)</span> is the fluid density (kg/m<sup>3</sup>), <span class="math notranslate nohighlight">\(g\)</span> is the gravitational acceleration (m/s<sup>2</sup>) and <span class="math notranslate nohighlight">\(A\)</span> is the impounded plan surface area (m<sup>2</sup>).</p>
+<p>If we consider <span class="math notranslate nohighlight">\(H\)</span> to be the tidal range, the above equation can give us an indication of how much energy is available for extraction. The resource available increases linearly with the impounded area <span class="math notranslate nohighlight">\(A\)</span>. However the resource is amplified much more when <span class="math notranslate nohighlight">\(H\)</span> increases through a quadratic relationship. Using the above equation, we can calculate how much tidal energy is encompassed in each transition of the tide, as in Figure 1 below.</p>
+<div id="images">
+<img class="imagerow" border="0"
+   alt="Potential Energy" style="min-width: 400px;
+   max-width: 600px;  height: auto; object-fit: contain;" src="https://www.dropbox.com/s/grsm7vepscrhaoo/potential_energy.png?raw=1"/>
+
+
+<p><i style="font-size: 0.7em"><b> Figure 1:</b>  Calculation of potential energy.
+<span class="math notranslate nohighlight">\(E_{\text{flood}}\)</span> is the potential energy in the transition during a flood tide from low water, to high water, and
+<span class="math notranslate nohighlight">\(E_{\text{ebb}}\)</span>
+</i></p> is the potential energy in the transition during an ebb tide from high water, to low water respectively.
+</div><p>The tidal range at a given location does not remain constant. In fact, the tidal elevation at any point is the result of many tidal waves that add up to the overall wave developed <a class="bibtex reference internal" href="tidal_oer_range_technologies.html#parker2007tidal" id="id2">[Par07]</a>. During spring tides, the principal tide driven by the moon forces (<span class="math notranslate nohighlight">\(M_2\)</span>)  constructively adds up leading to a greater tidal range, whereas during neap tides the opposite occurs.</p>
+<p>By extending the rationale of Figure 1 and equation <a class="reference internal" href="#equation-energy">(1)</a> in a realistic sea elevation signal that considers these variations in time we can proceed and quantify how the tidal range energy varies at any point. The Figure is produced for a location at Swansea Bay, UK.</p>
+<div id="images">
+<img class="imagerow" border="0"
+   alt="Potential Energy over time" style="width: 65vw;
+   max-width: 900px;  height: auto; object-fit: contain;" src="https://www.dropbox.com/s/0wrdbpenlg164zo/spring_neap_energy.png?raw=1"/>
+
+
+<p><i style="font-size: 0.7em"><b> Figure 2:</b>  Evolution of (a) tidal elevations, (b) tidal range and (c) the theoretical tidal range energy (as calculated using Eq. 1 normalised by unit impounded surface area for a site near Swansea Bay in the Bristol Channel, UK. The values <span class="math notranslate nohighlight">\(\eta_{\text{crest}}\)</span>  and
+<span class="math notranslate nohighlight">\(\eta_{\text{trough}}\)</span>
+ represent the tidal wave crest (<i>high water</i>) and trough (<i>low water</i>) in each tidal period, while <span class="math notranslate nohighlight">\(H_{\text{max}}\)</span> the maximum head difference that could be exploited in each transition from crest to trough and vice-versa. The tidal signal considered here includes eight tide constituents and begins on 06/05/2003.
+</i></p>
+</div><div class="pythonlink docutils container">
+<a href="https://www.dropbox.com/s/we0amw4hzv0zce3/potential_energy.zip?raw=1"> Indicative Python scripts and data to calculate potential energy from elevation signal</a></div>
+<p>Using this analysis over a year, the available potential energy can be estimated at any point where we might want to exploit this energy source.</p>
+<p><strong>Relevant resources</strong></p>
+<div class="researchgatelink docutils container">
+<a href="https://www.researchgate.net/profile/David_Prandle/publication/245211836_Simple_theory_for_designing_tidal_power_schemes/links/5a6499774585158bca4fb152/Simple-theory-for-designing-tidal-power-schemes.pdf"> Simple theory for designing tidal power schemes </a>  by Prandle, Advances in Water Resources, 1984. <i>(Accessible link through Prandle's ResearchGate profile)</i></div>
 <div class="section" id="tidal-range-technologies">
 <h2>Tidal range technologies<a class="headerlink" href="#tidal-range-technologies" title="Permalink to this headline">¶</a></h2>
+<p><strong>References</strong></p>
+<p id="bibtex-bibliography-tidal/tidal_oer_range_resource-0"><dl class="citation">
+<dt class="bibtex label" id="parker2007tidal"><span class="brackets"><a class="fn-backref" href="#id2">Par07</a></span></dt>
+<dd><p>Bruce B Parker. Tidal analysis and prediction. <em>NOAA, NOS Center for Operational Oceanographic Products and Services</em>, 2007.</p>
+</dd>
+<dt class="bibtex label" id="prandle1984"><span class="brackets"><a class="fn-backref" href="#id1">Pra84</a></span></dt>
+<dd><p>D. Prandle. Simple theory for designing tidal power schemes. <em>Advances in water resources</em>, 7(1):21–27, 1984. URL: <a class="reference external" href="http://www.sciencedirect.com/science/article/pii/0309170884900265">http://www.sciencedirect.com/science/article/pii/0309170884900265</a>, <a class="reference external" href="https://doi.org/10.1016/0309-1708(84)90026-5">doi:10.1016/0309-1708(84)90026-5</a>.</p>
+</dd>
+</dl>
+</p>
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>

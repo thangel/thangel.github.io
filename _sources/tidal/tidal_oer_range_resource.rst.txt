@@ -12,45 +12,26 @@
 
 
 
-.. sidebar::  Tidal Energy OER
+.. sidebar::  Tidal Range Energy OER
 
    .. raw:: html
 
       <p style="padding:5px"><a href="tidal_oer.html" ><i class="fas fa-home"></i> Introduction </a></p>
 
-      <p style="padding:5px"><a href="tidal_oer_range.html"><i class="fas fa-fan"></i> Tidal range energy </a></p>
+      <p style="padding:5px"><a href="tidal_oer_range_resource.html"><i class="fas fa-water"></i> Tidal range resource </a></p>
+
+      <p style="padding:5px"><a href="tidal_oer_range_technologies.html"><i class="fas fa-fan"></i> Tidal range technologies </a></p>
 
       <p style="padding:5px"><a href="tidal_oer_info.html"><i class="fas fa-info-circle"></i> Further information </a></p>
    
 
 
-Tidal range energy
-==================
-
-Tidal range power plants exploit high water elevation differences naturally created in certain sites to drive flows through turbines, generating power in a predictable fashion.  
-In recent years, there have been a number of scoping studies focused on harnessing the energy in areas with a large tidal range, driven in part by international commitments to satisfy energy demand from sustainable sources. 
-Most recently, sites in the UK have been identified for their potential :cite:`Hendry2017b`, with detailed proposals for tidal range power plants in these areas having been put forward a number of times :cite:`neill2018tidal`. 
-
-
-**Relevant resources**
-
-.. container :: copylink
-
-   .. raw :: html
-
-      <a href="https://doi.org/10.1016/j.renene.2018.05.007"> Tidal range energy resource and optimization – Past perspectives and future challenges </a>  by Neill et al., Renewable Energy, 2018
-
-.. container :: copylink
-
-   .. raw :: html
-
-      <a href="https://hendryreview.wordpress.com/"> Hendry review  on tidal lagoons website </a>  
 
 
 Tidal range resource
---------------------
+====================
 
-Now let us try to place this energy into context. The maximum theoretical potential energy available from a head difference :math:`H` (m) in Joules is given by the classic study of :cite:`Prandle1984` as:
+Let us try to place this energy into context. The maximum theoretical potential energy available from a head difference (or simply, an elevation difference) :math:`H` (m) in Joules is given by the classic study of :cite:`Prandle1984` as:
 
 .. math::
    :label: energy

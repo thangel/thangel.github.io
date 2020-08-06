@@ -1,0 +1,72 @@
+.. webpage documentation master file, created by
+   sphinx-quickstart on Fri May 18 18:18:29 2018.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+
+
+.. only:: html 
+
+
+.. _email: mailto: a.angeloudis@ed.ac.uk
+
+
+
+.. sidebar::  Tidal Range Energy OER
+
+   .. raw:: html
+
+      <p style="padding:5px"><a href="tidal_oer.html" ><i class="fas fa-home"></i> Introduction </a></p>
+
+      <p style="padding:5px"><a href="tidal_oer_range_resource.html"><i class="fas fa-water"></i> Tidal range resource </a></p>
+
+      <p style="padding:5px"><a href="tidal_oer_range_technologies.html"><i class="fas fa-fan"></i> Tidal range technologies </a></p>
+
+      <p style="padding:5px"><a href="tidal_oer_info.html"><i class="fas fa-info-circle"></i> Further information </a></p>
+   
+
+
+Tidal range technology
+======================
+
+Tidal range power plants exploit high water elevation differences naturally created in certain sites to drive flows through turbines, generating power in a predictable fashion.  
+In recent years, there have been a number of scoping studies focused on harnessing the energy in areas with a large tidal range, driven in part by international commitments to satisfy energy demand from sustainable sources. 
+Most recently, sites in the UK have been identified for their potential :cite:`Hendry2017b`, with detailed proposals for tidal range power plants in these areas having been put forward a number of times :cite:`neill2018tidal`. 
+
+
+**Relevant resources**
+
+.. container :: copylink
+
+   .. raw :: html
+
+      <a href="https://doi.org/10.1016/j.renene.2018.05.007"> Tidal range energy resource and optimization – Past perspectives and future challenges </a>  by Neill et al., Renewable Energy, 2018
+
+.. container :: copylink
+
+   .. raw :: html
+
+      <a href="https://hendryreview.wordpress.com/"> Hendry review  on tidal lagoons website </a>  
+
+
+Tidal range resource
+--------------------
+
+
+
+
+Tidal range technologies
+------------------------
+
+
+
+**References**
+
+.. bibliography:: oer_range_technologies.bib
+
+|
+|
+
+.. raw:: html
+
+	 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0; height:1.5em" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> <i style="font-size:0.8em">This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a></i>. 

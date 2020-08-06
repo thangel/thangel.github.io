@@ -106,6 +106,35 @@ div.copylink:before {
    font-weight:10;
 }
 
+div.researchgatelink{
+  padding: 10px 2px 10px 4em;
+}
+
+div.researchgatelink:before {
+   font-family: "FontAwesome";
+   color: #700827 ;
+   content: "\2003 \f4f8 \2003";
+   display: inline-block;
+   font-size: 1.3em;
+   margin-left: -3.0em; /* same as padding-left set on li */
+   vertical-align: middle;
+   font-weight:10;
+}
+
+div.pythonlink{
+  padding: 10px 2px 10px 4em;
+}
+
+div.pythonlink:before {
+   font-family: "FontAwesome";
+   color: #700827 ;
+   content: "\2003 \f3e2 \2003";
+   display: inline-block;
+   font-size: 1.3em;
+   margin-left: -3.0em; /* same as padding-left set on li */
+   vertical-align: middle;
+   font-weight:10;
+}
 
 .center {text-align: center;}
 

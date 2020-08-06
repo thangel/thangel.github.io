@@ -66,7 +66,7 @@ General information  on the broader themes that relate to our research activitie
 
           .. raw :: html
 
-                <a href="tidal/tidal_oer.html"> <b>Tidal Energy Open Educational Resource </b> </a>  
+                <a href="tidal/tidal_oer.html"> <b>Tidal Range Energy Open Educational Resource </b> </a>  
 
 
 
