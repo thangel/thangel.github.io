@@ -27,7 +27,7 @@
 
       <p style="padding:5px"><a href="tidal_oer_range_technologies.html"><i class="fas fa-fan"></i> Tidal range technologies </a></p>
 
-      <p style="padding:5px"><a href="tidal_oer_info.html"><i class="fas fa-info-circle"></i> Further information </a></p>
+.. <p style="padding:5px"><a href="tidal_oer_info.html"><i class="fas fa-info-circle"></i> Further information </a></p>
    
    
 ..  .. <p style="padding:5px"><a href="tidal_oer_tides.html"><i class="fas fa-water"></i> Tides </a></p>
