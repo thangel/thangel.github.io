@@ -139,8 +139,9 @@ Their design entails the distribution of turbines and sluice gates along a singl
 
    <p><i style="font-size: 0.7em"><b> Figure 5:</b> Operation of tidal range power plants over a tidal period, illustrating typical modes of operation. (a) Conventional one-way ebb generation, (b) two-way generation and (c) two-way generation with pumping and (d) twin-basin generation. The dark grey sections indicate periods when the head difference drives power generation from the turbines, with a larger area here not necessarily corresponding with a larger overall power generation. </i></p>
 
-In its simplest form, power generation is one-directional, i.e. it is restricted to either the ebb or flood stages of the tide. For example, in a typical ebb-only generation strategy (Figure 5a) the available modes of operation are Holding at High Water, Ebb generation, Ebb generation with sluicing and Flood sluicing. An equivalent approach is used for flood-only generation. Two-way (or bidirectional) generation (Figure 5b) is a more flexible configuration. owever, two-way generation requires hydraulic structures to be designed in a manner that permits power generation on both the ebb and flood tide. 
-Moreover, tidal power plant operation can feature pumping intervals and flexible generation periods (Figure 5c).  
+In its simplest form, power generation is one-directional, i.e. it is restricted to either the ebb or flood stages of the tide. For example, in a typical ebb-only generation strategy (Figure 5a) the available modes of operation are Holding at High Water, Ebb generation, Ebb generation with sluicing and Flood sluicing. An equivalent approach is used for flood-only generation. Two-way (or bidirectional) generation (Figure 5b) is a more flexible configuration. However, two-way generation requires hydraulic structures to be designed in a manner that permits power generation on both the ebb and flood tide. 
+Moreover, tidal power plant operation can feature pumping intervals and flexible generation periods (Figure 5c). 
+
 Linked-basin systems have been proposed to deliver more consistent and/or controlled power contributions to the electricity grid than single-basin systems, with the potential to provide baseload power to a certain degree. In their simplest form, linked-basin systems feature two lagoons/basins that are internally connected, as in Figure 4b.  
 The operation in time is illustrated in Figure 5d demonstrating how a sufficient head difference (:math:`H_{HW,LW}`, Figure 5d) can be theoretically maintained to generate power continuously :cite:`Angeloudis2020`. 
 
@@ -166,7 +167,7 @@ When comparing tidal power designs in terms of their energy output, we can appre
    <p><i style="font-size: 0.7em"><b> Figure 6:</b> Sensitivity of tidal plant normalised annual energy to tidal amplitude. Representative operational strategies for ebb-only, two-way and linked-basin generation are considered. </i></p>
 
 
-We can see that the best performing designs in terms of energy output are of the single-basin type :cite:`Angeloudis2020`, and specifically using a two-way generation approach. Some of the major existing developments (Table 1) have been employing one-way generation due to site specific constraints, but more recent proposals aim for two-way generation supplemented with pumping. If controlled optimally, that configuration provides the flexibility for a plant to adapt its operation to better suit energy demand :cite:`Harcourt2019`.
+We find that the best performing designs in terms of energy output are of the single-basin type :cite:`Angeloudis2020`, and specifically using a two-way generation approach. Some of the major existing developments (Table 1) have been employing one-way generation due to site specific constraints (e.g. the Annapolis Royal tidal power station in Canada, or the Lake Sihwa tidal power station in South Korea), but more recent proposals aim for two-way generation supplemented with pumping. If controlled optimally, that configuration provides the flexibility for a plant to adapt its operation to better suit the energy demand :cite:`Harcourt2019`.
 
 .. raw :: html
 
