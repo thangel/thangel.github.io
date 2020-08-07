@@ -203,6 +203,9 @@ In refining the resource estimates for individual assessments, regional scale co
    tidal range, predicted from the <a href="https://thetisproject.org/">Thetis</a> hydrodynamic model setup using high-resolution bathymetry drawn from the Edina Digimap Service. The indicated locations on the left include observational data monitoring points employed to compare model predictions against. (b) Potential energy available in the Irish sea, the Bristol Channel and the Severn Estuary where numerous schemes have been considered given the amplified tidal range and this potential energy resource. 
    Coordinates plotted in a UTM 30N geospatial projection.</i></p>
 
+
+In Figure 4 results are presented from an unstructured 2-D coastal and estuarine model *Thetis* :cite:`Karna2018`) of the Bristol Channel and the Irish sea. Due to the higher resolution of the model relative to the global model, significantly more resource is predicted within the Severn Estuary and along the Irish Sea. The development and application of these models is crucial in quantifying the value offered by the construction of potential tidal range energy technologies.
+
 **Relevant resources**
 
 .. container :: researchgatelink
