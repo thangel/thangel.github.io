@@ -291,15 +291,23 @@ Once details regarding the operational performance and impacts are better quanti
 
 Simulation software have been developed to quantify the potential and hydro-environmental impacts of prospective proposals. Above you can observe animation segments from models developed to simulate the operation of tidal range energy proposals. While above we concentrate on UK-based schemes, similar designs have been put forward in many countries around the world with equivalent considerations. 
 
-Looking ahead there are incentives to render tidal power  more attractive by working on solutions that exploit the predictability of the tides and seeing how best these sustainable energy options can work for our society, delivering energy when we most need it, reducing reliance to fossil fuel options and complementing other green options such as offshore wind.
+Looking ahead there are incentives to render tidal power  more attractive by working on solutions that exploit the predictability of the tides and seeing how best these sustainable energy options can work for our society, delivering energy when we most need it, reducing reliance to fossil fuel options and complementing other green options such as offshore wind. 
 
 **Relevant resources**
+
 
 .. container :: copylink
 
    .. raw :: html
 
       <a href="https://hendryreview.wordpress.com/"> Hendry review  on tidal lagoons website </a>  
+
+.. container :: copylink
+
+   .. raw :: html
+
+      <a href="https://www.gov.uk/government/collections/severn-tidal-power-feasibility-study-conclusions"> Severn tidal power feasibility study conclusions </a>  
+
 
 .. container :: copylink
 
