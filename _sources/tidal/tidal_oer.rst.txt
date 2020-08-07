@@ -72,6 +72,8 @@ Large tidal range power plants have a long history  with large-scale schemes in 
 Interest in tidal range structures has also resurfaced following the construction of the Lake Sihwa tidal power station in South Korea, while promising  sites in the Bristol Channel and the Severn Estuary have been identified for their potential :cite:`Hendry2017`.
 
 
+
+
 **References**
 
 .. bibliography:: oer_references.bib

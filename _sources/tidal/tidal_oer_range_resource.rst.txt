@@ -31,7 +31,7 @@
 Tidal range resource
 ====================
 
-Let us try to place this energy into context. The maximum theoretical potential energy available from a head difference (or simply, an elevation difference) :math:`H` (m) in Joules is given by the classic study of :cite:`Prandle1984` as:
+Let us try to place this energy form into context. The maximum theoretical potential energy available from a head difference (or simply, an elevation difference) :math:`H` (m) in Joules is given by the classic study of :cite:`Prandle1984` as:
 
 .. math::
    :label: energy
@@ -41,15 +41,15 @@ Let us try to place this energy into context. The maximum theoretical potential 
 
 where :math:`\rho` is the fluid density (kg/m\ :sup:`3`), :math:`g` is the gravitational acceleration (m/s\ :sup:`2`) and :math:`A` is the impounded plan surface area (m\ :sup:`2`). 
 
-If we consider :math:`H` to be the tidal range, the above equation can give us an indication of how much energy is available for extraction. The resource available increases linearly with the impounded area :math:`A`. However the resource is amplified much more when :math:`H` increases through a quadratic relationship. Using the above equation, we can calculate how much tidal energy is encompassed in each transition of the tide, as in Figure 1 below.
+If we consider :math:`H` to be the tidal range, the above equation can give us an indication of how much energy is available for extraction in every tidal cycle. The resource available increases linearly with the impounded area :math:`A`. However the resource is amplified much more when :math:`H` increases through a quadratic relationship. Using the above equation, we can calculate how much tidal energy is encompassed in each transition of the tide, as in Figure 1 below.
 
 
 .. raw :: html
 
    <div id="images">
    <img class="imagerow" border="0" 
-      alt="Potential Energy" style="min-width: 400px;
-      max-width: 70vw;  height: auto; object-fit: contain;" src="https://www.dropbox.com/s/grsm7vepscrhaoo/potential_energy.png?raw=1"/>
+      alt="Potential Energy" style="width: 70vw;;
+      max-width: 900px;  height: auto; object-fit: contain;" src="https://www.dropbox.com/s/grsm7vepscrhaoo/potential_energy.png?raw=1"/>
 
 
    <p><i style="font-size: 0.7em"><b> Figure 1:</b>  Calculation of potential energy. 
