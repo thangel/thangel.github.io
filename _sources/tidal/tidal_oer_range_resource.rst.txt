@@ -41,22 +41,23 @@ Let us try to place this energy form into context. The maximum theoretical poten
 
 where :math:`\rho` is the fluid density (kg/m\ :sup:`3`), :math:`g` is the gravitational acceleration (m/s\ :sup:`2`) and :math:`A` is the impounded plan surface area (m\ :sup:`2`). 
 
-If we consider :math:`H` to be the tidal range, the above equation can give us an indication of how much energy is available for extraction in every tidal cycle. The resource available increases linearly with the impounded area :math:`A`. However the resource is amplified much more when :math:`H` increases through a quadratic relationship. Using the above equation, we can calculate how much tidal energy is encompassed in each transition of the tide, as in Figure 1 below.
+If we consider :math:`H` to be the tidal range, the above equation can give us an indication of how much energy is available for extraction in every tidal cycle. The resource available increases linearly with the impounded area :math:`A`. However the resource is amplified much more when :math:`H` increases, given the quadratic relationship with :math:`E`. Using the above equation, we can calculate how much tidal energy is encompassed in each transition of the tide, as in Figure 1 below.
 
 
 .. raw :: html
 
    <div id="images">
    <img class="imagerow" border="0" 
-      alt="Potential Energy" style="width: 70vw;;
-      max-width: 900px;  height: auto; object-fit: contain;" src="https://www.dropbox.com/s/grsm7vepscrhaoo/potential_energy.png?raw=1"/>
+      alt="Potential Energy" style=
+      "width: 65vw;
+      max-width: 500px; min-width: 400px; height: auto; height: auto; object-fit: contain;" src="https://www.dropbox.com/s/grsm7vepscrhaoo/potential_energy.png?raw=1"/></div> 
 
 
    <p><i style="font-size: 0.7em"><b> Figure 1:</b>  Calculation of potential energy. 
    <span class="math notranslate nohighlight">\(E_{\text{flood}}\)</span> is the potential energy in the transition during a flood tide from low water, to high water, and
    <span class="math notranslate nohighlight">\(E_{\text{ebb}}\)</span>
    is the potential energy in the transition during an ebb tide from high water, to low water respectively.
-   </i></div> 
+   </i>
 
 
 
@@ -74,14 +75,14 @@ One can observe significantly more energy during a spring tidal range, and the o
    <div id="images">
    <img class="imagerow" border="0" 
       alt="Potential Energy over time" style="width: 65vw;
-      max-width: 900px; min-width: 400px; height: auto; object-fit: contain;" src="https://www.dropbox.com/s/0wrdbpenlg164zo/spring_neap_energy.png?raw=1"/>
+      max-width: 900px; min-width: 400px; height: auto; object-fit: contain;" src="https://www.dropbox.com/s/0wrdbpenlg164zo/spring_neap_energy.png?raw=1"/></img></div>
 
 
    <p><i style="font-size: 0.7em"><b> Figure 2:</b>  Evolution of (a) tidal elevations, (b) tidal range and (c) the theoretical tidal range energy (as calculated using Eq. 1 normalised by unit impounded surface area for a site near Swansea Bay in the Bristol Channel, UK. The values <span class="math notranslate nohighlight">\(\eta_{\text{crest}}\)</span>  and 
    <span class="math notranslate nohighlight">\(\eta_{\text{trough}}\)</span>
     represent the tidal wave crest (<i>high water</i>) and trough (<i>low water</i>) in each tidal period, while <span class="math notranslate nohighlight">\(H_{\text{max}}\)</span> the maximum head difference that could be exploited in each transition from crest to trough and vice-versa. The tidal signal considered here includes eight tide constituents and begins on 06/05/2003. 
    </i></p>
-   </div> 
+
 
 .. container :: pythonlink
 
@@ -93,8 +94,114 @@ One can observe significantly more energy during a spring tidal range, and the o
 Using this analysis over a year, the available potential energy can be estimated at any point where we might want to exploit this energy source. In estimating the annual energy available, one must simply aggregate the energy encompassed in every elevation transition over the year.
 
 
+Resource spatial variability
+----------------------------
+
+The tidal range resource is not distributed evenly around the world.
+Tides are by definition ocean surface waves of (very long) wavelength :math:`\lambda` and period :math:`T`. 
+They are subject to the **wave transformation** processes of regular waves, including shoaling and reflection. 
+
+.. container :: notegrey 
+
+   .. raw :: html
+
+      <i style="color: #700827;" class="fas fa-info-circle">  </i> <b>  A note on wave transformation processes ... </b>
+
+   *Shoaling* causes the wave height to increase as the wave speed reduces in progressively shallow waters. 
+
+   *Reflection* occurs when waves collide with a barrier, depending on its permeability. At a rubble-mound breakwater, the wave amplitude is partly reflected, transmitted and absorbed.
+
+   .. container :: copylink
+
+      .. raw :: html
+
+         <a href="http://www.coastalwiki.org/wiki/Wave_transformation"> Coastal wiki page on wave transformation</a>  
+
+   .. container :: copylink
+
+      .. raw :: html
+
+         <a href="https://www.dropbox.com/s/u2ya1qoznxqgc87/Lecture_7.pdf?raw=1">Introduction to coastal waves, Lecture 7, Hydraulic Engineering IV, University of Edinburgh</a>  
+
+As a wave propagates from deep water to shallower regions (e.g. in the transition from oceanic depths to a continental shelf), the wave celerity :math:`c` (:math:`\approx \sqrt{gd}`, where :math:`d` is the water depth) decelerates, reducing :math:`\lambda` and leading to an amplification of the wave height :math:`H`. 
+In combining such changes in depth with further interactions with coastal features, reflected and incident tidal waves combine to form a total wave :cite:`pugh2014sea`. 
+In certain cases, conditions enable constructive interference, notably increasing :math:`H`.  
 
 
+For example, if we consider a tidal wave propagating along a channel of length :math:`l` closed at one end, this can reflect and then constructively interfere with the incident tidal wave to form an amplified standing wave.
+
+
+.. container :: notegrey 
+
+   .. raw :: html
+
+      <i style="color: #700827;" class="fas fa-info-circle">  </i> <b>  A note on the mechanics of resonance ... </b>
+
+   Resonance in a tidal basin occurs when the wave period of the tide :math:`T` is close to the natural period of the basin, as given by Merian's formula. 
+   For a basin that is open at one end \cite{pugh2014sea}, the formula reads:
+
+   .. math::
+      :label: resonance
+
+      T_b = \frac{4 l}{(2N-1)\sqrt{gd}}
+
+
+   where :math:`T_b` (s) is the natural period of the basin, and :math:`N` the number of nodes of the resulting standing wave. 
+   For :math:`N=1`, :math:`T_b = \frac{4l}{\sqrt{gd}}`, amplification of the incoming wave will thus be maximised if the basin :math:`l` converges to :math:`\lambda/4`. 
+   Equation :eq:`resonance` applies in idealised scenarios with a uniform bathymetry :math:`d`, but its integral form can be used for more realistic basins and estuaries. 
+   For example, in a simplified analytical model of the Severn Estuary, UK, let the basin :math:`l= 200` km, and the average depth be :math:`d=30` m. 
+   From Equation :eq:`resonance`, the natural frequency :math:`T_b \approx 12.95` h. 
+   This natural frequency is close to the periods of both :math:`M_2` (:math:`\approx 12.42` h) and :math:`S_2` (:math:`\approx 12.00` h) tidal constituents and thus it is expected that the amplitude of both will be increased substantially due to resonance.
+   Such resonance effects famously occur in several sites across the globe. 
+   In particular, the highest tidal range has been observed in the Bay of Fundy, Canada where the natural frequency has been calculated to be :math:`T_b \approx 13.3` h leading to similar tidal amplifications :cite:`garrett1972tidal`. 
+
+
+Given the increased wave height due to tidal resonance in certain locations, a more pronounced source of potential energy is available rendering the need of smaller tidal energy concepts to extract substantial sources of energy.
+
+
+Global tidal energy resource
+----------------------------
+
+Using our capability to predict tides days, months and even years in advance, in combination with our growing knowledge of the coastlines,  sea depth and morphology at a global scale, we can use models to predict the tide evolution across the sea.
+
+As such we can also see how the tidal range energy resource varies, by applying the same principles introduced above. Figure 3 is based on the analysis of :cite:`Neill2019` illustrating how the annual energy varies.
+
+.. raw :: html
+
+   <div id="images">
+   <img class="imagerow" border="0" 
+      alt="Potential Energy over time" style="width: 65vw;
+      max-width: 500px; min-width: 400px; height: auto; object-fit: contain;" src="https://www.dropbox.com/s/28pdkyavdme2gxm/global_range_energy.png?raw=1"/>
+   </img>
+   </div>
+
+   <p><i style="font-size: 0.7em"><b> Figure 3:</b>  Global tidal range resource without bathymetric constraints based on the <a href="https://datastore.cls.fr/catalogues/fes2014-tide-model/">FES2014</a> tidal dataset. Adapted from 
+   <a class="bibtex reference internal" href="tidal_oer_range_resource.html#Neill2019" id="id5">[NR19]</a> under a CC-BY license.</i></p>
+
+
+In considering some basic technical constraints in the analysis of Figure 3, the annual potential energy available globally amounts to about 14075 TWh. This value omits the potential energy in specific parts of Canada that are close to the Hudson Bay and/or are covered by extensive sea ice. 
+The latter renders tidal energy exploitation impractical, aside from the remoteness of the region from significant population centres. 
+Excluding these, 90\% of the estimated available potential energy is distributed across the following countries: Australia (30.3%), Canada (23.4%), UK (12.6%), France (12.6%) and the USA (10.6%). 
+It must be noted, however, that areas deemed appropriate within the above constraints will be subject to additional limitations of an environmental, electrical, population and marine spatial planning nature. Some of these details are described in more detail by :cite:`neill2018tidal`, a review article that is provided below.
+
+
+Global ocean models can be a useful tool for providing a high level insight into the distribution of potential energy. 
+However, these models typically lack appropriately high levels of resolution in the coastal zone and exclude critical processes such as intertidal effects in estuaries. 
+Therefore, global approaches may not capture localised coastal details that can be vital to reproduce the resonance effects accurately. 
+In refining the resource estimates for individual assessments, regional scale coastal ocean models (typically informed by the larger scale global models) are applied to quantify with more confidence the regional conditions. 
+
+.. raw :: html
+
+   <div id="images">
+   <img class="imagerow" border="0" 
+      alt="Coastal Ocean model resource" style="width: 65vw;
+      max-width: 900px; min-width: 400px; height: auto; object-fit: contain;" src="https://www.dropbox.com/s/fsai9bzhhfmg2jb/coastal_model_resource.png?raw=1"/>
+   </img>
+   </div>
+
+   <p><i style="font-size: 0.7em"><b> Figure 4:</b>  (a) Extrapolated annual mean 
+   tidal range, predicted from the <a href="https://thetisproject.org/">Thetis</a> hydrodynamic model setup using high-resolution bathymetry drawn from the Edina Digimap Service. The indicated locations on the left include observational data monitoring points employed to compare model predictions against. (b) Potential energy available in the Irish sea, the Bristol Channel and the Severn Estuary where numerous schemes have been considered given the amplified tidal range and this potential energy resource. 
+   Coordinates plotted in a UTM 30N geospatial projection.</i></p>
 
 **Relevant resources**
 
@@ -104,14 +211,11 @@ Using this analysis over a year, the available potential energy can be estimated
 
       <a href="https://www.researchgate.net/profile/David_Prandle/publication/245211836_Simple_theory_for_designing_tidal_power_schemes/links/5a6499774585158bca4fb152/Simple-theory-for-designing-tidal-power-schemes.pdf"> Simple theory for designing tidal power schemes </a>  by Prandle, Advances in Water Resources, 1984. <i>(Accessible link through Prandle's ResearchGate profile)</i>
 
+.. container :: copylink
 
+   .. raw :: html
 
-Resource spatial variability
-----------------------------
-
-
-
-
+      <a href="https://doi.org/10.1016/j.renene.2018.05.007"> Tidal range energy resource and optimization – Past perspectives and future challenges </a>  by Neill et al., Renewable Energy, 2018
 
 
 **References**

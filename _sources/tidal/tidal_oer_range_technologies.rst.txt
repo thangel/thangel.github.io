@@ -31,16 +31,10 @@ Tidal range technology
 
 Tidal range power plants exploit high water elevation differences naturally created in certain sites to drive flows through turbines, generating power in a predictable fashion.  
 In recent years, there have been a number of scoping studies focused on harnessing the energy in areas with a large tidal range, driven in part by international commitments to satisfy energy demand from sustainable sources. 
-Most recently, sites in the UK have been identified for their potential :cite:`Hendry2017b`, with detailed proposals for tidal range power plants in these areas having been put forward a number of times :cite:`neill2018tidal`. 
+Most recently, sites in the UK have been identified for their potential :cite:`Hendry2017b`, with detailed proposals for tidal range power plants in these areas having been put forward a number of times. 
 
 
 **Relevant resources**
-
-.. container :: copylink
-
-   .. raw :: html
-
-      <a href="https://doi.org/10.1016/j.renene.2018.05.007"> Tidal range energy resource and optimization – Past perspectives and future challenges </a>  by Neill et al., Renewable Energy, 2018
 
 .. container :: copylink
 
