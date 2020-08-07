@@ -31,7 +31,159 @@ Tidal range technology
 
 Tidal range power plants exploit high water elevation differences naturally created in certain sites to drive flows through turbines, generating power in a predictable fashion.  
 In recent years, there have been a number of scoping studies focused on harnessing the energy in areas with a large tidal range, driven in part by international commitments to satisfy energy demand from sustainable sources. 
-Most recently, sites in the UK have been identified for their potential :cite:`Hendry2017b`, with detailed proposals for tidal range power plants in these areas having been put forward a number of times. 
+
+Tidal range power plants effectively behave as dams, constructed in areas exhibiting sufficient tidal range as long as it is economically, environmentally and logistically sensible to house turbines for power generation. Plant operation is based on the principle of creating an artificial tidal phase difference, by impounding water over a surface area :math:`A`\. This facilitates a head difference :math:`H` which when released drives flow through turbines, tapping into the potential energy that has the maximum described `previously <tidal_oer_range_resource.html>`_ in :eq:`energy`.
+
+A tidal range power plant consists of four main components :cite:`BAKER1991`:
+
+* *Embankment*: this forms the artificial outline of the impoundment. The design and layout typically looks to balance the minimisation of construction costs with the maximisation of the enclosed plan surface area.
+
+* *Turbines*: these are integrated into the embankment and are driven by the artificial head differences :math:`H` to generate electricity. Turbine sections are usually positioned in the deeper parts of the structure due to turbine size, subject to geotechnical constraints for turbine housings and caissons.
+
+* *Sluice gates*: these are hydraulic structures fitted in concrete caissons that facilitate the transfer of water volumes with minimal obstruction during the operation of the power plant.
+
+* *Locks*: these are commonly proposed in barrages downstream of ports, marinas or harbours to enable vessels to cross through the impoundment, ensuring the continuation of shipping activities when appropriate.
+
+
+.. raw :: html
+
+   <div id="images">
+   <img class="imagerow" border="0" 
+      alt="Lagoon outline" style="width: 65vw;
+      max-width: 500px; min-width: 400px; height: auto; object-fit: contain;" src="https://www.dropbox.com/s/j7yzf461a0oeotm/Lagoon_outline.png?raw=1"/>
+   </img>
+   </div>
+
+   <p><i style="font-size: 0.7em"><b> Figure 1:</b> Outline and configuration of a tidal lagoon proposal in the Swansea Bay area within the Bristol Channel, UK.</i></p>
+
+
+Tidal range power plants can be either coastally-attached (such as a barrage or a coastal lagoon) or located entirely offshore (as with offshore lagoons). 
+Barrage and lagoon are terms used to refer to tidal range power plants differentiated by the make-up of the impoundment perimeter. 
+If the  majority of the perimeter is artificial, then the term lagoon is appropriate, whilst barrage is suitable otherwise. 
+In the case of lagoons, the additional cost for longer embankments relative to the impounded area typically restricts smaller developments that are not perceived as pilot (or "pathfinder") projects.  
+However, the longer embankments enable the development of lagoons along the coast, offsetting some of the environmental impacts associated with barrages, which typically span the entire width of an estuary.
+
+
+Tidal range turbines
+--------------------
+Tidal range power generation is an application of low-head hydropower engineering. 
+In the UK, low-head hydropower was initially considered in 1927 when the Severn Barrage Committee identified the Kaplan turbine, an invention originally developed in 1913, as appropriate for low-head applications.
+A variant of the Kaplan turbine called the bulb turbine, was then identified as preferable for tidal range schemes.
+Bulb turbines are designed to be entirely contained within the water delivery tube. 
+A large bulb is centred in the water pipe which contains the generator, the runner and the wicket gates :cite:`Waters2016`.
+
+.. raw :: html
+
+   <div id="images">
+   <img class="imagerow" border="0" 
+      alt="Turbine sketch" style="width: 65vw;
+      max-width: 500px; min-width: 400px; height: auto; object-fit: contain;" src="https://www.dropbox.com/s/q2e8sijstzcz3e9/turbine.jpg?raw=1"/>
+   </img>
+   </div>
+
+   <p><i style="font-size: 0.7em"><b> Figure 2:</b> Sketch of a typical bulb turbine arrangement in a tidal barrage.</i></p>
+
+.. container :: notegrey
+
+   .. raw :: html
+
+      <i style="color: #700827;" class="fas fa-info-circle">  </i> <b>  A note on the turbine performance ... </b> 
+
+   The performance of turbines is typically defined using hill charts, applying non-dimensional formulae called affinity laws. 
+   Hill charts are used to extrapolate how turbines of specific characteristics but varying dimensions would operate under a range of conditions. 
+   The methodology to represent a double-regulated turbine has been expanded in :cite:`Aggidis2012` with an example of a simplified hill chart illustrated in Figure 3. A sequence to predict the hill chart is available in :cite:`Angeloudis2018`.
+
+   .. raw :: html
+
+      <div id="images">
+      <img class="imagerow" border="0" 
+         alt="Turbine chart" style="width: 65vw;
+         max-width: 500px; min-width: 400px; height: auto; object-fit: contain;" src="https://www.dropbox.com/s/y8bxvs0p05vj96x/turbine_chart.png?raw=1"/>
+      </img>
+      </div>
+
+      <p><i style="font-size: 0.7em"><b> Figure 3:</b> Simplified turbine performance. The idealised curves represent the performance of a turbine in the absence of efficiency losses</i></p>
+
+
+
+
+.. raw :: html
+
+   <hr>
+   <div id="tbl:existing_plants">
+   <p><span id="tbl:existing_plants" label="tbl:existing_plants"></span></p>
+   <table style="margin-left:auto;margin-right:auto;font-size:0.8em">
+   <caption>Characteristics of five of the most significant tidal range power plant developments. </caption>
+   <thead>
+   <tr class="header" style="border-bottom: 2px solid black;" >
+   <th style="text-align: left;"><strong></strong></th>
+   <th style="text-align: left;"><strong>Tidal Power Plant</strong></th>
+   <th style="text-align: left;"><strong>Country</strong></th>
+   <th style="text-align: left;"><strong>Year</strong></th>
+   <th style="text-align: left;"><strong>Capacity (MW)</strong></th>
+   <th style="text-align: left;"><strong>Area (km<span class="math inline"><em></em><sup>2</sup></span>)</strong><span class="math inline"><em></em><sup>*</sup></span></th>
+   <th style="text-align: left;"><strong>Operation</strong></th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr class="odd">
+   <td style="text-align: left;">1</td>
+   <td style="text-align: left;">La Rance Barrage</td>
+   <td style="text-align: left;">France</td>
+   <td style="text-align: left;">1966</td>
+   <td style="text-align: left;">240</td>
+   <td style="text-align: left;">22</td>
+   <td style="text-align: left;">Flexible<span class="math inline"><em></em><sup>‡</sup></span></td>
+   </tr>
+   <tr class="even">
+   <td style="text-align: left;">2</td>
+   <td style="text-align: left;">Kislaya Guba</td>
+   <td style="text-align: left;">Russia</td>
+   <td style="text-align: left;">1968</td>
+   <td style="text-align: left;">1.7</td>
+   <td style="text-align: left;">2</td>
+   <td style="text-align: left;">Two-way</td>
+   </tr>
+   <tr class="odd">
+   <td style="text-align: left;">3</td>
+   <td style="text-align: left;">Annapolis Royal</td>
+   <td style="text-align: left;">Canada</td>
+   <td style="text-align: left;">1984</td>
+   <td style="text-align: left;">20</td>
+   <td style="text-align: left;">6</td>
+   <td style="text-align: left;">Ebb-only</td>
+   </tr>
+   <tr class="even">
+   <td style="text-align: left;">4</td>
+   <td style="text-align: left;">Jiangxia</td>
+   <td style="text-align: left;">China</td>
+   <td style="text-align: left;">1985</td>
+   <td style="text-align: left;">3.9</td>
+   <td style="text-align: left;">2</td>
+   <td style="text-align: left;">Two-way</td>
+   </tr>
+   <tr class="odd">
+   <td style="text-align: left;">5</td>
+   <td style="text-align: left;">Lake Sihwa</td>
+   <td style="text-align: left;">Korea</td>
+   <td style="text-align: left;">2011</td>
+   <td style="text-align: left;">254</td>
+   <td style="text-align: left;">30</td>
+   <td style="text-align: left;">Flood-only</td>
+   </tr>
+   <tr>
+    <td colspan="7" style="font-size: 0.8em"><span class="math inline"><em></em><sup>*</sup></span> The area refers to the maximum impounded surface area recorded during spring high water conditions.
+   </td>
+   </tr>
+   <tr>
+    <td colspan="7" style="font-size: 0.8em"><span class="math inline"><em></em><sup>‡</sup></span> Flexible operation refers to the capability of the power plant to switch strategy from ebb-only, two-way, ebb-only with pumping and two-way with pumping strategies.
+   </td>
+   </tr>
+   </tbody>
+   </table>
+   </div>
+   <hr>
+
 
 
 **Relevant resources**
@@ -42,16 +194,11 @@ Most recently, sites in the UK have been identified for their potential :cite:`H
 
       <a href="https://hendryreview.wordpress.com/"> Hendry review  on tidal lagoons website </a>  
 
+.. container :: copylink
 
-Tidal range resource
---------------------
+   .. raw :: html
 
-
-
-
-Tidal range technologies
-------------------------
-
+      <a href="https://doi.org/10.1016/j.apenergy.2017.12.052"> Optimising tidal range power plant operation </a> by Angeloudis et al, Applied Energy, 2018  
 
 
 **References**

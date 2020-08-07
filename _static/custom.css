@@ -142,7 +142,8 @@ div.pythonlink:before {
 div.notegrey {
     font-weight:0.7em;
     width: 99%;
-    border: 1.5px solid #9b3717;
+    border: 1.5px solid #737373;
+
     border-right-style: none;
     border-left-style: none;
     padding: 2px 2px 2px 5px;
@@ -151,7 +152,7 @@ div.notegrey {
 
 div.note2 {
     width: 99%;
-    border: 1.5px solid #737373;
+    border: 1.5px solid #9b3717;
     border-right-style: none;
     border-left-style: none;
     padding: 2px 2px 2px 5px;

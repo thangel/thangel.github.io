@@ -41,7 +41,7 @@ Introduction
 
 Renewable energy from the oceans can be produced in many ways. Examples include offshore wind, tidal stream, ocean current, tidal range, wave, thermal, salinity gradients, and biomass sources :cite:`Borthwick2016`. There is scope for all of these to play a role in delivering a sustainable, low-carbon future.
 
-In this Open Educational Resource (OER), we focus on the tidal range energy resource and how this can be extracted. Tides are very long-period waves that move through the oceans in response to the forces exerted by the moon and sun (i.e. the *Earth-Moon-Sun system*). Specific information on the formation and characteristics of the tides are omitted here, and the reader is directed to the online resource of the US National Oceanic and Atmospheric Administration which provides a basic overview:
+In this Open Educational Resource (OER), we focus on the `tidal range energy resource <tidal_oer_range_resource.html>`_ and  `how this can be extracted <tidal_oer_range_technologies.html>`_. Tides are very long-period waves that move through the oceans in response to the forces exerted by the moon and sun (i.e. the *Earth-Moon-Sun system*). Specific information on the formation and characteristics of the tides are omitted here, and the reader is directed to the online resource of the US National Oceanic and Atmospheric Administration which provides a basic overview:
 
 .. container :: copylink
 

@@ -204,7 +204,7 @@ In refining the resource estimates for individual assessments, regional scale co
    Coordinates plotted in a UTM 30N geospatial projection.</i></p>
 
 
-In Figure 4 results are presented from an unstructured 2-D coastal and estuarine model *Thetis* :cite:`Karna2018`) of the Bristol Channel and the Irish sea. Due to the higher resolution of the model relative to the global model, significantly more resource is predicted within the Severn Estuary and along the Irish Sea. The development and application of these models is crucial in quantifying the value offered by the construction of potential tidal range energy technologies.
+In Figure 4 we see predictions from a 2-D coastal and estuarine model *Thetis* :cite:`Karna2018`) of the Bristol Channel and the Irish sea. Due to the higher model resolution relative to the global model in this region, significantly more energy resource is predicted within the Severn Estuary and along the Irish Sea by simulating the resonance effects more clearly. The development and application of these models is crucial in quantifying the value offered by the construction of potential `tidal range energy technologies <tidal_oer_range_technologies.html>`_.
 
 **Relevant resources**
 
