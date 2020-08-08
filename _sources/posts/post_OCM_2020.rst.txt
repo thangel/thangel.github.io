@@ -4,6 +4,11 @@ Modelling the impact of tidal range energy on species communities
 
 A  study published in *Ocean & Coastal Management* expands on our recent ecohydraulics applications. The work was conducted jointly  with researchers led by Dr Jon Hill from the University of York. The study employs our estuarine modelling to extract information that can be correlated with the behavior of sensitive marine species. A machine learning technique (MaxEnt) is in turn applied to predict changes in their habitat distribution.
 
+
+**Abstract**
+
+Tidal energy has the potential to form a key component of the energy production in a number of countries, including the UK. Nonetheless, the deployment of tidal energy systems is associated with potential environmental impacts as prime resource sites often coincide with unique ecosystems inhabited by sensitive organisms. Previous studies have generally focused on the hydrodynamic impact of tidal energy schemes, i.e. how schemes alter the flow dynamics and sedimentary transport processes. Whilst these efforts are key in understanding environmental impacts, there is no straightforward step for translating sediment to faunal changes. Species distribution models offer methods to quantitatively predict certain possible impacts of tidal energy extraction. The River Severn is a distinguished candidate region for tidal energy in the UK featuring sites under stringent ecological protection regulations. We examine the impact of a proposed Severn tidal barrage on 14 species via the linking of hydrodynamic modelling to species distribution models. Through a selection of species that are linked via a simple food web system we extrapolate changes in prey species to the respective predator species. We show that species at lower trophic levels would be adversely affected by the barrage, but higher trophic level organisms increase in possible habitable area. Once food web relationships are acknowledged this increase in habitat area decreases, but is still net positive. Overall, all 14 species were affected, with most gaining in distribution area, and only four losing distribution area within the Severn Estuary. We conclude that a large-scale tidal barrage may have detrimental and complex impacts on species distribution, altering food web dynamics and altering food availability in the Severn Estuary. The methodology outlined herein can be transferred to the assessment and optimisation of prospective projects globally to aide in the sustainable introduction of the technology.
+
 .. raw:: html
 
 
@@ -23,7 +28,7 @@ A  study published in *Ocean & Coastal Management* expands on our recent ecohydr
 
 
 .. post:: May 12, 2020
-   :tags: tidal, ocean, environmental
+   :tags: tidal, ocean, environmental, article
    :category: article
    :author: Athanasios Angeloudis
    :location: Edinburgh

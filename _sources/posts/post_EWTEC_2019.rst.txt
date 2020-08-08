@@ -1,6 +1,6 @@
 
-Tidal range energy research conference contributions
-----------------------------------------------------
+Tidal energy research conference contributions at EWTEC 2019
+------------------------------------------------------------
 
 Recent progress on tidal range energy income optimisation was presented by `Lucas Mackie <https://www.imperial.ac.uk/people/l.mackie18>`_ at EWTEC 2019, demonstrating interesting interactions amongst  tidal power plants, as detailed in the `conference paper <https://www.dropbox.com/s/1za84hyg2cp2tir/EWTEC2019.pdf?dl=0>`_. Lucas also presented a `poster <https://uc054bba4e3ee56cf40c96bd1c83.dl.dropboxusercontent.com/cd/0/get/AfZmJosRG3uXM4-OFeFwJwKe_smGWvFha_fFhUY_r_-HYgHXXLto8y47yJ2F95QIzlIdo1sxKbVMEDeBojJWD7-0xsaeopFhMSsMRuA1f7ev9WuuTsozGoFnxdbMVTAyh1M/file?raw=1>`_ on his research regarding  the optimisation of  tidal range power plant operation. It was presented at the University of Oxford's `Tidal Energy Workshop <https://www.eng.ox.ac.uk/events/7th-oxford-tidal-energy-workshop/>`_.
 

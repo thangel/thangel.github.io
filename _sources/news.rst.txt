@@ -16,23 +16,40 @@ News
 ====
 
 
-Latest updates on research and teaching matters are summarised below. All posts  can be found `here <blog.html>`_.
+News on research and teaching matters.  Most recent posts are listed below:
 
-
-.. postlist:: 6
+.. postlist:: 3
    :date:  %d %B, %Y
-   :list-style: disk
-   :tags: tips
-   :format: {title} on {date}
+   :list-style: disk 
+   :format: {title}, posted on {date}
    :author: Athanasios Angeloudis
    :excerpts:
 
 
+All posts with links to more information can be accessed below.
 
-..
-.. |UoE| image:: support/uoe.png
-   :height: 70px
-..
-  .. |UoE| 
+.. container :: copylink
+
+  .. raw :: html
+
+      <a href="blog.html"> All posts</a> 
 
 
+.. container:: toggle
+
+    .. container:: header
+
+       *Archive*
+
+    .. raw :: html
+
+       <div style="font-size: 0.8em">
+
+    .. postlist:: 
+       :date:  %d %B, %Y
+       :list-style: circle 
+       :author: Athanasios Angeloudis
+
+    .. raw :: html
+
+       </div>

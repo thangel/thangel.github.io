@@ -11,7 +11,7 @@ Our paper on tidal lagoon vortices with `Carolanne Vouriot <https://www.imperial
           <a href="https://link.springer.com/article/10.1007/s10652-018-9626-4">Fate of large scale vortices in idealised tidal lagoons, <b>Environmental Fluid Mechanics</b>, 2019</a> 
 
 .. post:: September 5, 2018
-   :tags: tidal, ocean, environmental
+   :tags: environmental, vortices, article
    :category: article
    :author: Athanasios Angeloudis
    :location: London

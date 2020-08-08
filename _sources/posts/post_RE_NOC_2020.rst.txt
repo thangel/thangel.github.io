@@ -4,6 +4,9 @@ Tidal range energy resource assessment of the Gulf of California, Mexico
 
 Our tidal range energy modelling has been applied to assess the available tidal range energy resource in the Gulf of California. The study, published in *Renewable Energy*, was conducted in collaboration with the National Oceanographic Centre, and the Bangor School of Ocean Sciences.
 
+**Abstract**
+
+There is growing interest in harnessing renewable energy resources in Latin America. Converting the energy of the tides into electricity has the distinct advantage of being predictable, yet the tidal range resource of Latin America is largely unquantified. The northern part of the Gulf of California (GC) in Mexico has a relatively large mean tidal range (4m–5m), and so could be a potential site for tidal range energy exploitation. A detailed quantification of the theoretical tidal range energy resource was performed using tidal level predictions from a depth-averaged barotropic hydrodynamic model. In addition, a 0-D operation modelling approach was applied to determine the power that can be technically extracted at four key sites. The results show that the annual energy yield ranges from 20 to 50 kWh/m\ :sup:`2`, while the maximum values are between 45 and 50 kWh/m\ :sup:`2` in the vicinity of the Gulf of Santa Clara. Within the region, the Gulf of Santa Clara is one of the most promising, delivering a technical annual energy output of 125 GWh (ebb-only generation), 159 GWh (two-way) and 174 GWh (two-way with pumping) within an impoundment area of 10 km\ :sup:`2`. This equates to 50%, 40% and 33% of the absolute energy conversion relative to a much-studied reference site (Swansea Bay, UK) that has been under consideration as the world’s first tidal lagoon power plant. This study provides the basis for more detailed analysis of the GC to guide selection of suitable sites for tidal range energy exploitation in the region.
 
 .. raw:: html
 
