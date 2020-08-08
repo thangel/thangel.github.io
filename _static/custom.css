@@ -193,8 +193,8 @@ div.topnav {
   margin-right: auto;
   background-color: white;
   overflow: hidden;
-  min-width:400px;
-  width: 94vw;
+  min-width:300px;
+  width: 100%;
   padding:20px 0px 20px 0px;
   /*border-bottom: 1.2px solid #000000;*/
   transition: 0.5s;
@@ -263,7 +263,7 @@ div.topnav label:hover{
   div.topnav label{
     margin: 0.2em 0.0em 0.2em 0em;
     text-align: right;
-    width: 90%;
+    width: 97%;
     display: block;
     cursor: pointer;
   }
@@ -277,7 +277,7 @@ div.topnav label:hover{
 
   .menu a{
     display: block;
-    width: 80%;
+    width:95%;
     background-color: white;
     text-align: left;
     border-bottom: 0.3px solid #000000;
