@@ -49,13 +49,13 @@ General information  on the broader themes that relate to our research activitie
 
     .. container:: header
 
-        *Tidal Energy Open Educational Resource*
+        *Tidal Range Energy Open Educational Resource*
 
     .. container :: note2 
 
         **Role:** Researcher
 
-    The *Tidal Energy Open Educational Resource* (OER)  is intended to provide an overview to initiate students and scholars to the theory and practical aspects  of this form of marine energy, defining certain key concepts and directing the interested reader to useful sources for further information. 
+    The *Tidal Range Energy Open Educational Resource* (OER)  is intended to provide an overview to initiate students and scholars to the theory and practical aspects  of this form of marine energy, defining certain key concepts and directing the interested reader to useful sources for further information. 
 
     The research guide is made as an OER by Athanasios Angeloudis as part of the Digital Education module for the Postgraduate Certificate (PgCert) in Academic Practice at The University of Edinburgh and is motivated by the research activities of the NERC project `NE/R013209/2 <http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/R013209/2>`_ : Tidal energy operational and spatial planning optimisation:
 
