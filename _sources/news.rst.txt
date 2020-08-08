@@ -15,6 +15,7 @@
 News
 ====
 
+
 Latest updates on research and teaching matters are summarised below: 
 
 
@@ -164,6 +165,5 @@ Latest updates on research and teaching matters are summarised below:
    :height: 70px
 ..
   .. |UoE| 
-
 
 

@@ -1,0 +1,32 @@
+
+Modelling the impact of tidal range energy on species communities
+-----------------------------------------------------------------
+
+A  study published in *Ocean & Coastal Management* expands on our recent ecohydraulics applications. The work was conducted jointly  with researchers led by Dr Jon Hill from the University of York. The study employs our estuarine modelling to extract information that can be correlated with the behavior of sensitive marine species. A machine learning technique (MaxEnt) is in turn applied to predict changes in their habitat distribution.
+
+.. raw:: html
+
+
+   <div id="images">
+   <img class="imagerow" border="0" style="max-width:100%; object-fit: contain;" src="https://www.dropbox.com/s/qdi3i749ap16640/Figure_12.png?raw=1"/> 
+
+
+   <p><i style="font-size: 0.7em"><b> Figure :</b>  Ecological impact of a Severn Barrage on S.Solea as per Species Distribution Modelling using a MaxEnt method.
+   </i></p>
+   </div>
+
+.. container :: copylink
+
+   .. raw :: html
+
+      <a href="https://doi.org/10.1016/j.ocecoaman.2020.105221">Modelling the impact of tidal range energy on species communities, <b>Ocean & Coastal Management</b>, 2020</a> 
+
+
+.. post:: Apr 15, 2014
+   :tags: tidal, ocean, environmental
+   :category: article
+   :author: me
+   :location: Edinburgh
+   :language: en
+
+

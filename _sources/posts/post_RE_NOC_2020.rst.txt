@@ -1,0 +1,35 @@
+
+Tidal range energy resource assessment of the Gulf of California, Mexico
+------------------------------------------------------------------------
+
+Our tidal range energy modelling has been applied to assess the available tidal range energy resource in the Gulf of California. The study, published in *Renewable Energy*, was conducted in collaboration with the National Oceanographic Centre, and the Bangor School of Ocean Sciences.
+
+
+.. raw:: html
+
+
+   <div id="images">
+   <img class="imagerow" border="0"  src="https://www.dropbox.com/s/j6lwe1unzm0ja6u/Energy_figure.jpg?raw=1"/>
+
+   <img class="imagerow" border="0" alt="0-D model" src="https://www.dropbox.com/s/albm2vyiu5t7c61/0-D_output.jpg?raw=1"/>
+
+
+   <p><i style="font-size: 0.7em"><b>Figure 1: </b> Theoretical annual energy yield using 8 dominant tidal constituents. <b> Figure 2:</b> Water elevations and power produced for the three operational strategies for point D (Gulf of Santa Clara). EBB = Ebb-only generation, TW = Two-way generation, TWP = Two-way generation with pumping. 
+   </i></p>
+   </div>
+
+.. container :: copylink
+
+   .. raw :: html
+
+         <a href="https://www.sciencedirect.com/science/article/pii/S0960148120304110">Tidal range energy resource assessment of the Gulf of California, Mexico, <b>Renewable Energy</b>, 2020</a> 
+
+
+.. post:: March 19, 2020
+   :tags: tidal, ocean, environmental
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en
+
+

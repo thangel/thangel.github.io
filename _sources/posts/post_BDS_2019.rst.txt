@@ -1,0 +1,31 @@
+
+Tidal range structure operation assessment and optimisation
+-----------------------------------------------------------
+
+A publication is now available on the assessment of tidal range structure operations at *Dams and Reservoirs*. It highlights that operation optimisation using simplified models is mostly accurate for small schemes, as the larger impact on tidal dynamics invalidates simplified model assumptions. 
+
+.. raw:: html
+
+
+   <div id="images">
+   <img class="imagerow" border="0"  style="max-width:100%; object-fit: contain" src="https://www.dropbox.com/s/jk79t7r8a9b5n01/test_swansea0.png?raw=1"/>
+
+
+   <p><i style="font-size: 0.7em"><b>Figure: </b> Computational meshes applied to assess the potential of the Swansea Bay, Cardiff and Severn Barrage schemes.
+   </i></p>
+   </div>
+
+.. container :: copylink
+
+   .. raw :: html
+
+         <a href="https://www.icevirtuallibrary.com/doi/abs/10.1680/jdare.18.00042?journalCode=jdare">Tidal range structure operation assessment and optimisation. <b>Dams & Reservoirs</b>, 2019</a> 
+
+.. post:: June 6, 2019
+   :tags: tidal, ocean, environmental
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en
+
+
