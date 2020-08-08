@@ -1,0 +1,36 @@
+
+Optimising tidal range power plant operation
+--------------------------------------------
+
+In a study published in *Applied Energy*, we document a method to optimise the operation of tidal range structures. Our model uses gradient-based optimisation algorithms to deliver a superior operation strategy for tidal range structures. The optimisation demonstrates significant opportunities to extract more energy from individual tidal cycles.
+
+
+**Abstract**
+
+Tidal range power plants represent an attractive approach for the large-scale generation of electricity from the marine environment. Even though the tides and by extension the available energy resource are predictable, they are also variable in time. This variability poses a challenge regarding the optimal transient control of power plants. We consider simulation methods which include the main modes of operation of tidal power plants, along with algorithms to regulate the timing of these. This paper proposes a framework where simplified power plant operation models are coupled with gradient-based optimisation techniques to determine the optimal control strategy over multiple tidal cycles. The optimisation results inform coastal ocean simulations that include tidal power plants to gauge whether the benefits of an adaptive operation are preserved once their hydrodynamic impacts are also taken into consideration. The combined operation of two prospective tidal lagoon projects within the Bristol Channel and the Severn Estuary is used as an example to demonstrate the potential benefits of an energy maximisation optimisation approach. For the case studies considered, the inclusion of pumping and an adaptive operation is shown to deliver an overall increase in energy output of 20–40% compared to a conventional two-way uniform operation. The findings also demonstrate that smaller schemes stand to gain more from operational optimisation compared to designs of a larger scale.
+
+.. raw:: html
+
+
+   <div id="images">
+   <img class="imagerow" border="0" style="width:90vw; height:auto"  src="https://www.dropbox.com/s/018ul3pygoo00bs/Energy_peaks_SB.png?raw=1"/>
+
+
+   <p><i style="font-size: 0.7em"><b>Figure: </b> Overview of energy output from Swansea Bay tidal lagoon using optimised and standard operation strategies for simplified (0-D) and more involved hydrodynamic (2-D) models. Results suggest a notable improvement on the energy extracted through optimisation.
+   </i></p>
+   </div>
+
+
+.. container :: copylink
+
+   .. raw :: html
+
+         <a href="https://doi.org/10.1016/j.apenergy.2017.12.052">Optimising tidal range power plant operation <b>Applied Energy</b>, 2018</a> 
+
+
+.. post:: January 1, 2018
+   :tags: tidal, energy
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: London
+   :language: en
