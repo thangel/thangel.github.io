@@ -16,148 +16,17 @@ News
 ====
 
 
-Latest updates on research and teaching matters are summarised below: 
+Latest updates on research and teaching matters are summarised below. All posts  can be found `here <blog.html>`_.
 
 
-.. container:: toggle2
+.. postlist:: 6
+   :date:  %d %B, %Y
+   :list-style: disk
+   :tags: tips
+   :format: {title} on {date}
+   :author: Athanasios Angeloudis
+   :excerpts:
 
-    .. container:: header
-
-        *2020*
-
-    - A  study published in *Ocean & Coastal Management* expands on our recent ecohydraulics applications. The work was conducted jointly  with researchers led by Dr Jon Hill from the University of York. The study employs our estuarine modelling to extract information that can be correlated with the behavior of sensitive marine species. A machine learning technique (MaxEnt) is in turn applied to predict changes in their habitat distribution.
-
-      .. raw:: html
-
-
-         <div id="images">
-         <img class="imagerow" border="0" style="max-width:100%; object-fit: contain;" src="https://www.dropbox.com/s/qdi3i749ap16640/Figure_12.png?raw=1"/> 
-
-
-         <p><i style="font-size: 0.7em"><b> Figure :</b>  Ecological impact of a Severn Barrage on S.Solea as per Species Distribution Modelling using a MaxEnt method.
-         </i></p>
-         </div>
-
-      .. container :: copylink
-
-         .. raw :: html
-
-               <a href="https://doi.org/10.1016/j.ocecoaman.2020.105221">Modelling the impact of tidal range energy on species communities, <b>Ocean & Coastal Management</b>, 2020</a> 
-
-
-    - Our recent work on the operational modelling and the optimisation of linked-basin tidal energy systems has now been published in *Renewable Energy*. The work was a result of a joint effort with researchers of the Department of Earth Science and Engineering at Imperial College London:
-
-      .. raw:: html
-
-
-         <div id="images">
-         <img class="imagerow" border="0"  src="https://www.dropbox.com/s/2m081pezomyxoov/linked_basin.gif?raw=1"/>
-         <img class="imagerow" border="0" alt="Linked-basin model" src="https://www.dropbox.com/s/dnj5y1tpaaqwicz/Fig_6-rev_a.png?raw=1"/>
-
-
-         <p><i style="font-size: 0.7em"><b>Animation: </b> Linked-basin lagoon operation in time for continuous power generation<b> Figure :</b>  Sensitivity of tidal power plant performance subject to operational strategy and tidal amplitude.
-         </i></p>
-         </div>
-
-      .. container :: copylink
-
-         .. raw :: html
-
-               <a href="https://doi.org/10.1016/j.renene.2020.03.167">On the potential of linked-basin tidal power plants: An operational and coastal modelling assessment, <b>Renewable Energy</b>, 2020</a> 
-     
-    - Our tidal range energy modelling has been applied to assess the available tidal range energy resource in the Gulf of California. The study, published in *Renewable Energy*, was conducted in collaboration with the National Oceanographic Centre, and the Bangor School of Ocean Sciences:
-
-      .. raw:: html
-
-
-         <div id="images">
-         <img class="imagerow" border="0"  src="https://www.dropbox.com/s/j6lwe1unzm0ja6u/Energy_figure.jpg?raw=1"/>
-
-         <img class="imagerow" border="0" alt="0-D model" src="https://www.dropbox.com/s/albm2vyiu5t7c61/0-D_output.jpg?raw=1"/>
-
-
-         <p><i style="font-size: 0.7em"><b>Figure 1: </b> Theoretical annual energy yield using 8 dominant tidal constituents. <b> Figure 2:</b> Water elevations and power produced for the three operational strategies for point D (Gulf of Santa Clara). EBB = Ebb-only generation, TW = Two-way generation, TWP = Two-way generation with pumping. 
-         </i></p>
-         </div>
-
-      .. container :: copylink
-
-         .. raw :: html
-
-               <a href="https://www.sciencedirect.com/science/article/pii/S0960148120304110">Tidal range energy resource assessment of the Gulf of California, Mexico, <b>Renewable Energy</b>, 2020</a> 
-
-
-.. If :math:`\sigma_{1}` equals :math:`\sigma_{2}` then etc, etc.
-
-.. container:: toggle2
-
-    .. container:: header
-
-        *2019*
-
-    - Recent progress on tidal range energy income optimisation was presented by `Lucas Mackie <https://www.imperial.ac.uk/people/l.mackie18>`_ at EWTEC 2019, demonstrating interesting interactions amongst  tidal power plants, as detailed in the `conference paper <https://www.dropbox.com/s/1za84hyg2cp2tir/EWTEC2019.pdf?dl=0>`_. Lucas also presented a `poster <https://uc054bba4e3ee56cf40c96bd1c83.dl.dropboxusercontent.com/cd/0/get/AfZmJosRG3uXM4-OFeFwJwKe_smGWvFha_fFhUY_r_-HYgHXXLto8y47yJ2F95QIzlIdo1sxKbVMEDeBojJWD7-0xsaeopFhMSsMRuA1f7ev9WuuTsozGoFnxdbMVTAyh1M/file?raw=1>`_ on his research regarding  the optimisation of  tidal range power plant operation. It was presented at the University of Oxford's `Tidal Energy Workshop <https://www.eng.ox.ac.uk/events/7th-oxford-tidal-energy-workshop/>`_.
-
-    - A publication is now available on the assessment of tidal range structure operations at *Dams and Reservoirs*. It highlights that operation optimisation using simplified models is mostly accurate for small schemes, as the larger impact on tidal dynamics invalidates simplified model assumptions. 
-
-      .. raw:: html
-
-
-         <div id="images">
-         <img class="imagerow" border="0"  style="max-width:100%; object-fit: contain" src="https://www.dropbox.com/s/jk79t7r8a9b5n01/test_swansea0.png?raw=1"/>
-
-
-         <p><i style="font-size: 0.7em"><b>Figure: </b> Computational meshes applied to assess the potential of the Swansea Bay, Cardiff and Severn Barrage schemes.
-         </i></p>
-         </div>
-  
-      .. container :: copylink
-
-         .. raw :: html
-
-               <a href="https://www.icevirtuallibrary.com/doi/abs/10.1680/jdare.18.00042?journalCode=jdare">Tidal range structure operation assessment and optimisation. <b>Dams & Reservoirs</b>, 2019</a> 
-
-    - A new paper has been published in *Applied Energy* on the MSc research study of Freddie Harcourt on the flexibility of tidal range power plant operation. It presents recent insights on how this inherent flexibility on generation times could be used to negotiate more attractive subsidy deals and complement other sustainable energy options (e.g. onshore and offshore wind energy).
-
-      .. raw:: html
-
-
-         <div id="images">
-         <img class="imagerow" border="0" style="max-height:15vw"  src="https://www.dropbox.com/s/rwj6ciy8da4kf8a/Image_flexibility.png?raw=1"/>
-
-
-         <p><i style="font-size: 0.7em"><b>Figure: </b> Left axis is the average capacity factor (CF) against the Day Ahead market price over 5 years. The secondary y axis corresponds to the histogram, counting the frequency of a given price range occurring over the simulation timespan.
-         </i></p>
-         </div>
-  
-
-
-      .. container :: copylink
-
-        .. raw :: html
-
-              <a href="https://www.sciencedirect.com/science/article/pii/S0306261918319093">Utilising the flexible generation potential of tidal range power plants to optimise economic value, <b>Applied Energy</b>, 2019</a> 
-
-
-.. container:: toggle
-
-    .. container:: header
-
-        *2018*
-
-
-    - I presented research `updates <http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/R013209/1&cookieConsent=A>`_ and an overview of tidal engineering research challenges at the `Energy Futures Lab <http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/administration/energyfutureslab/eventssummary/event_7-9-2018-10-21-39>`_ . A blog post regarding the theme of the talk can be found `here <https://energyfutureslab.wordpress.com/2018/11/15/tidal-lagoon-barrage-power-plants-in-the-uk-operation-assessment-and-optimisation/>`_.
-
-    - Research together with colleagues from Imperial College was presented at the biennial Conference on Renewable Energies Offshore in Lisbon (RENEW 2018). `Zoe Goss <https://www.imperial.ac.uk/people/z.goss15>`_ presented her `progress <http://books.google.com/books?hl=en&lr=&id=BjhyDwAAQBAJ&oi=fnd&pg=PA255&dq=info:8FNPRGtYPSkJ:scholar.google.com&ots=a7_8_hMhBw&sig=uBDRPNE1Rq8Gj2VZHTQBYygOB90>`_ on tidal stream energy in Alderney race and I gave a talk on the feasibility and characteristics of `twin-basin lagoons <http://books.google.com/books?hl=en&lr=&id=BjhyDwAAQBAJ&oi=fnd&pg=PA159&dq=info:IuP6Re4rgQUJ:scholar.google.com&ots=a7_8_hMiyu&sig=Myj9sPWKoXrArxcjPTXqmkyw8AU>`_.
-
-    - Following two uniquely rewarding years at Imperial College with the Department of Earth Science and Engineering, I have joined the School of Engineering at the University of Edinburgh as a Lecturer in Water Engineering within the `Institute for Infrastructure and Environment <https://www.eng.ed.ac.uk/research/institutes/iie>`_.
-
-    - Exceedingly pleased by the acceptance of our paper on tidal lagoon vortices with `Carolanne Vouriot <https://www.imperial.ac.uk/fluid-mechanics/people/carolanne-vouriot/>`_, `Stephan Kramer <https://www.imperial.ac.uk/people/s.kramer>`_ and `Matt Piggott <https://www.imperial.ac.uk/people/m.d.piggott>`_. The paper is open access funded by NERC and EPSRC and is accessible at Environmental Fluid Mechanics.
-
-      .. container :: copylink
-
-        .. raw :: html
-
-          <a href="https://link.springer.com/article/10.1007/s10652-018-9626-4">Fate of large scale vortices in idealised tidal lagoons, <b>Environmental Fluid Mechanics</b>, 2019</a> 
 
 
 ..

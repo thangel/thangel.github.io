@@ -1,0 +1,20 @@
+
+Fate of large scale vortices in idealised tidal lagoons
+-------------------------------------------------------
+
+Our paper on tidal lagoon vortices with `Carolanne Vouriot <https://www.imperial.ac.uk/fluid-mechanics/people/carolanne-vouriot/>`_, `Stephan Kramer <https://www.imperial.ac.uk/people/s.kramer>`_ and `Matt Piggott <https://www.imperial.ac.uk/people/m.d.piggott>`_ reports on some insights about the evolution of shallow water vortices  and how these are affected by friction, bathymetry  and coastal  bathymetry. The paper is open access funded by NERC and EPSRC and is accessible at Environmental Fluid Mechanics.
+
+      .. container :: copylink
+
+        .. raw :: html
+
+          <a href="https://link.springer.com/article/10.1007/s10652-018-9626-4">Fate of large scale vortices in idealised tidal lagoons, <b>Environmental Fluid Mechanics</b>, 2019</a> 
+
+.. post:: September 5, 2018
+   :tags: tidal, ocean, environmental
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: London
+   :language: en
+
+

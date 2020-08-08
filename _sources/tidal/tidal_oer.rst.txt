@@ -92,8 +92,6 @@ Interest in tidal range structures has also resurfaced following the constructio
    :titlesonly:
    :hidden:
 
-   tidal_oer_tides
-   tidal_oer_stream
    tidal_oer_range_resource
    tidal_oer_range_technologies
    tidal_oer_info
