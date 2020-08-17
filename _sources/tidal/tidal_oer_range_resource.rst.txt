@@ -171,7 +171,7 @@ As such we can also see how the tidal range energy resource varies, by applying 
    <div id="images">
    <img class="imagerow" border="0" 
       alt="Potential Energy over time" style="width: 65vw;
-      max-width: 500px; min-width: 400px; height: auto; object-fit: contain;" src="https://www.dropbox.com/s/28pdkyavdme2gxm/global_range_energy.png?raw=1"/>
+      max-width: 500px; min-width: 350px; height: auto; object-fit: contain;" src="https://www.dropbox.com/s/28pdkyavdme2gxm/global_range_energy.png?raw=1"/>
    </img>
    </div>
 
@@ -195,7 +195,7 @@ In refining the resource estimates for individual assessments, regional scale co
    <div id="images">
    <img class="imagerow" border="0" 
       alt="Coastal Ocean model resource" style="width: 65vw;
-      max-width: 900px; min-width: 400px; height: auto; object-fit: contain;" src="https://www.dropbox.com/s/fsai9bzhhfmg2jb/coastal_model_resource.png?raw=1"/>
+      max-width: 900px; min-width: 350px; height: auto; object-fit: contain;" src="https://www.dropbox.com/s/fsai9bzhhfmg2jb/coastal_model_resource.png?raw=1"/>
    </img>
    </div>
 

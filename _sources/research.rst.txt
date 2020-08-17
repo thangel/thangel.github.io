@@ -89,6 +89,18 @@ Research
     -   Identification of detrimental hydrodynamic structures and flow patterns and the interpretation of how these affect kinetic processes.
     -   A methodology that employs CFD model insight to diagnose the performance of water treatment tanks, departing from “black box” practices.
 
+
+    .. raw:: html
+
+
+       <div id="images">
+       <img class="imagerow" border="0" style="width:100%; max-width:600px; object-fit: contain;" src="https://www.dropbox.com/s/903tfaf88mvevk3/contact_tank_streamlines.png?raw=1"/> 
+
+
+       <p><i style="font-size: 0.7em"><b> Figure :</b>  Streamlines of flow hydrodynamics within a Chlorine disinfection contact tank.
+       </i></p>
+       </div>
+
     .. container :: note2 
 
 
@@ -121,6 +133,17 @@ Research
     The common factor between the application-focused streams outlined above is the application and development of numerical models that can be extended to more fundamental or generalised engineering applications. 
     Recent examples include studies on the formation of depth-averaged vortices in oscillatory flows through inlets, the turbulent flow past bluff bodies and simple geometries. 
     In terms of environmental fluid mechanics we are interested in mixing processes and the characterisation of anthropogenic effects on coastal, estuarine and fluvial processes.
+
+    .. raw:: html
+
+
+       <div id="images">
+       <img class="imagerow" border="0" style="width:100%; max-width:600px;  object-fit: contain;" src="https://www.dropbox.com/s/qk0x7berepcnwjz/tracer_inlet.gif?raw=1"/> 
+
+
+       <p><i style="font-size: 0.7em"><b> Figure :</b>  Mixing of a passive tracer in a tidal inlet with a passive tracer. Simulation through the solution through the conservative form of the advection-diffusion equation in Thetis
+       </i></p>
+       </div>
 
 
     .. container :: note2 
