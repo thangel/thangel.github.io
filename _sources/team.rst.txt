@@ -18,9 +18,11 @@ Research Team
         
        *Research Group*
 
-    - **Lucas Mackie** - PhD research student, Department of Earth Science and Engineering, Imperial College London - Co-Supervised with `Prof Matthew Piggott <https://www.imperial.ac.uk/people/m.d.piggott>`_.
+    - **Lucas Mackie** - PhD research student, Department of Earth Science and Engineering, Imperial College London - Co-Supervised with `Prof Matthew Piggott (Co-I) <https://www.imperial.ac.uk/people/m.d.piggott>`_.
 
-    - **Anastasia Fragkou** - PhD research student, Institute for Infrastructure & Environment, University of Edinburgh - Co-Supervised with `Prof Vengatesan Venugopal <https://www.eng.ed.ac.uk/about/people/dr-vengatesan-venugopal>`_.
+    - **Anastasia Fragkou** - PhD research student, Institute for Infrastructure & Environment, University of Edinburgh - Co-Supervised with `Prof Vengatesan Venugopal (Co-I) <https://www.eng.ed.ac.uk/about/people/dr-vengatesan-venugopal>`_.
+
+    - **Tooba Aslam** - PhD research student, Institute for Infrastructure & Environment, University of Edinburgh - Co-Supervised with `Dr Efthalia Chatzisymeon (PI) <https://www.eng.ed.ac.uk/about/people/dr-efthalia-chatzisymeon>`_.
 
 .. container:: toggle
 
