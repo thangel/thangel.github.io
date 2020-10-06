@@ -33,6 +33,7 @@ Research Team
     - `Prof Matthew Piggott <https://www.imperial.ac.uk/people/m.d.piggott>`_, Professor of Computational Geoscience and Engineering, Department of Earth Science & Engineering, Imperial College London.
     - `Prof Thorsten Stoesser <https://iris.ucl.ac.uk/iris/browse/profile?upi=TSTOE28>`_, Professor of Civil Engineering Fluids, Department of Civil & Environmental Engineering, University College London.
     - `Prof Roger A. Falconer <https://www.cardiff.ac.uk/people/view/364367-falconer-roger>`_, Emeritus Professor of Water Management, Hydro-environmental Research Centre, Cardiff University.
+    - `Dr Efthalia Chatzisymeon <https://www.eng.ed.ac.uk/about/people/dr-efthalia-chatzisymeon>`_, Senior  Lecturer in Environmental  Engineering, School of  Engineering, University of  Edinburgh
     - `Dr Carlo Gualtieri <http://www.dicea.unina.it/docente.php?id=37>`_, Associate Professor of Environmental Hydraulics, Department of Civil Engineering, University of Napoli Federico II.
     - `Stephan Kramer <https://www.imperial.ac.uk/people/s.kramer>`_, Research Associate in Ocean Modelling and Numerical Methods, Department of Earth Science & Engineering, Imperial College London.
     - `Dr Alexandros Avdis <https://www.imperial.ac.uk/people/a.avdis>`_, Research Associate in Coastal & Ocean Modelling, Department of Earth Science & Engineering, Imperial College London.  
