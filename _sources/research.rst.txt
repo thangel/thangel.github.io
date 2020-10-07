@@ -54,9 +54,15 @@ Research
 
          .. container :: copylink
 
+           .. raw :: html
+
+              <a href="https://www.mdpi.com/2077-1312/8/10/780">The potential for tidal range energy systems to provide continuous power: a UK case study, <b>Journal of Marine Science & Engineering</b>, 2020</a> 
+
+         .. container :: copylink
+
             .. raw :: html
 
-                      <a href="https://www.sciencedirect.com/science/article/pii/S0306261918319093">Utilising the flexible generation potential of tidal range power plants to optimise economic value, <b>Applied Energy</b>, 2019</a> 
+                <a href="https://www.sciencedirect.com/science/article/pii/S0306261918319093">Utilising the flexible generation potential of tidal range power plants to optimise economic value, <b>Applied Energy</b>, 2019</a> 
 
          .. container :: copylink
 
@@ -64,11 +70,6 @@ Research
 
                       <a href="https://www.sciencedirect.com/science/article/pii/S0306261917317671">Optimising tidal range power plant operation, <b>Applied Energy</b>, 2018</a> 
 
-         .. container :: copylink
-
-            .. raw :: html
-
-                     <a href="https://www.sciencedirect.com/science/article/pii/S0960148118305263">Tidal range energy resource and optimization – Past perspectives and future challenges, <b>Renewable Energy</b>, 2018</a> 
     
     
 

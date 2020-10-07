@@ -1,5 +1,5 @@
 
-The potential for tidal range energy systems to Provide continuous power: a UK case study 
+The potential for tidal range energy systems to rovide continuous power: a UK case study 
 -----------------------------------------------------------------------------------------
 
 A  study published in the *Journal of Marine Science and Engineering* on our recent work on the operation capabilities of tidal range energy systems. The work was led by Lucas Mackie, in collaboration with Daniel Coles for Plymouth University and Matthew Piggott from Imperial College London. The study refines our tidal power plant optimisation framework to consider multiple schemes cooperating to maximise the value of the overall tidal range system. The study highlights the potential but also the limitations of the technology due to the nature of the resource
@@ -16,7 +16,7 @@ The extraction of tidal energy from head differences represents a predictable an
    <img class="imagerow" border="0" style="width:80%; max-width:600px; object-fit: contain; height:auto;" src="https://www.dropbox.com/s/a8l0fcju9texlhx/operation_figure.png?raw=1"/> 
 
 
-   <p><i style="font-size: 0.7em"><b> Figure :</b>  ower outputP(MW) and basin elevationsηi(m) of the tidal power plants.Example 1indicates a scenario where the holding periods are equal to 2 h for each scheme.  Examples 2–4 display continuous generation optimised schedules, applying different examples of default alternative operation, defined as the operation schedule reverted to when the cut-off power cannot be achieved in the continuous generation case. Daily minimum power  sold on the idealised Baseload Market (BM) is indicated in red.
+   <p><i style="font-size: 0.7em"><b> Figure :</b>  Power output P(MW) and basin elevations η(m) of the tidal power plants.Example 1indicates a scenario where the holding periods are equal to 2 h for each scheme.  Examples 2–4 display continuous generation optimised schedules, applying different examples of default alternative operation, defined as the operation schedule reverted to when the cut-off power cannot be achieved in the continuous generation case. Daily minimum power  sold on the idealised Baseload Market (BM) is indicated in red.
    </i></p>
    </div>
 
