@@ -1,0 +1,35 @@
+
+Hydro-morphodynamics 2D modelling using a discontinuous Galerkin discretisation
+-------------------------------------------------------------------------------
+
+In a recent article appearing in the January 2021 issue of *Computers & Geosciences*, we document recent developments on an unstructured DG Finite Element Model implemented within the `Firedrake <https://www.firedrakeproject.org/>`_ code generation framework. This work stems from the MRes and PhD of `Mariana Clare <https://www.imperial.ac.uk/people/m.clare17>`_ who is working on hydro-sediment-morphodynamics applications supported by the Mathematics of Planet Earth CDT
+
+**Abstract**
+
+The development of morphodynamic models to simulate sediment transport accurately is a challenging process that is becoming ever more important because of our increasing exploitation of the coastal zone, as well as sea-level rise and the potential increase in strength and frequency of storms due to a changing climate. Morphodynamic models are highly complex given the non-linear and coupled nature of the sediment transport problem. Here we implement a new depth-averaged coupled hydrodynamic and sediment transport model within the coastal ocean model Thetis, built using the code generating framework Firedrake which facilitates code flexibility and optimisation benefits. To the best of our knowledge, this represents the first full morphodynamic model including both bedload and suspended sediment transport which uses a discontinuous Galerkin based finite element discretisation. We implement new functionalities within Thetis extending its existing capacity to model scalar transport to modelling suspended sediment transport, incorporating within Thetis options to model bedload transport and bedlevel changes. We apply our model to problems with non-cohesive sediment and account for effects of gravity and helical flow by adding slope gradient terms and parametrising secondary currents. For validation purposes and in demonstrating model capability, we present results from test cases of a migrating trench and a meandering channel comparing against experimental data and the widely-used model Telemac-Mascaret.
+
+.. raw:: html
+
+
+    <div align="center"><iframe style="max-width:100%; object-fit: contain; width: 70%; height: 350px; margin: 0 auto;" src="https://www.dropbox.com/s/z6ipdcijr5re76k/trenchwithsisyphe.mp4?raw=1" title="Comparison of Thetis vs Telemac's Sisyphe"></iframe></div>
+
+
+   <p><i style="font-size: 0.7em"><b>Animation: </b> Comparison between Thetis and TELEMAC's Sisyphe on the standard migrating trench case contemplated within the paper 
+   </i></p>
+   </div>
+
+.. container :: copylink
+
+   .. raw :: html
+
+         <a href="https://www.sciencedirect.com/science/article/pii/S0098300420306324?dgcid=coauthor">Hydro-morphodynamics 2D modelling using a discontinuous Galerkin discretisation, <b>Computers & Geosciences</b>, 2021</a> 
+
+
+.. post:: November 12, 2020
+   :tags: sediment, coastal, environmental
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en
+
+
