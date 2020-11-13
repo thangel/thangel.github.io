@@ -23,12 +23,16 @@ An example of the migrating trench case is directly accessible as an example of 
 .. raw:: html
 
 
-    <div align="center"><iframe style="max-width:100%; object-fit: contain; width: 70%; height: 350px; margin: 0 auto;" src="https://www.dropbox.com/s/z6ipdcijr5re76k/trenchwithsisyphe.mp4?raw=1" title="Comparison of Thetis vs Telemac's Sisyphe"></iframe></div>
+    <div align="center">
+    <video style="object-fit: contain; width: 80%; max-height: 350px; margin: 0 auto;" controls> 
+    <source src="https://www.dropbox.com/s/z6ipdcijr5re76k/trenchwithsisyphe.mp4?raw=1" title="Comparison of Thetis vs Telemac's Sisyphe" type="video/mp4">
+    </video>
+    </div>
 
 
    <p><i style="font-size: 0.7em"><b>Animation: </b> Comparison between Thetis and TELEMAC's Sisyphe on the standard migrating trench case contemplated within the paper.
    </i></p>
-   </div>
+ 
 
 .. container :: copylink
 
