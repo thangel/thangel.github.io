@@ -34,7 +34,7 @@ Research
          <img border="0" style="width: 280px; object-fit: contain;" src="https://www.dropbox.com/s/r96rdwovoqgjnlm/ramsey_gif_2a.gif?raw=1" style="width:260px" /></div>
 
          <div>
-         <p style="font-size:0.8em; font-weight:400; ">Flow through a tidal strait; Ramsey Sound, UK. Mackie et al. 2019</p>
+         <p style="font-size:0.7em; font-weight:400; ">Flow through a tidal strait; Ramsey Sound, UK. Mackie et al. 2019</p>
          </div>
 
     
@@ -45,10 +45,25 @@ Research
 
        *Marine renewable energy*
 
- 
-    An attractive route towards decarbonising infrastructure is the strategic deployment of tidal energy technologies. Our work has so far focused on the development of state-of-the-art software, towards  addressing engineering challenges  associated with the energy output and environmental impacts. 
+    \
 
-    The research stream on marine energy is currently funded by the NERC fellowship grant `NE/R013209/1 <http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/R013209/1>`_ and `NE/R013209/2 <http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/R013209/2>`_ : Tidal energy operational and spatial planning optimisation. 
+    .. container :: profileright
+
+        An attractive route towards decarbonising infrastructure is the strategic deployment of tidal energy technologies. Our work has so far focused on the development of state-of-the-art software, towards  addressing engineering challenges  associated with the energy output and environmental impacts. 
+
+        The research stream on marine energy is currently funded by the NERC fellowship grant `NE/R013209/1 <http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/R013209/1>`_ and `NE/R013209/2 <http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/R013209/2>`_ : Tidal energy operational and spatial planning optimisation. 
+
+    .. container :: profileleft
+
+      .. raw:: html
+
+         <div>
+         <img border="0" padding="10px" style="width: 280px; object-fit: contain;" src="https://www.dropbox.com/s/ui16kyhzffqh3rj/BDS_presentation_photo.jpg?raw=1" style="width:260px" /></div>
+
+         <div>
+         <p style="font-size:0.7em; font-weight:400; ">Presentation of tidal range energy research at the Institution of Civil Engineers, London, 12/2017</p>
+         </div>
+
 
     .. container :: note2 
 
@@ -84,23 +99,26 @@ Research
 
         *Water treatment hydrodynamics*
 
+    \
+    
+    .. container :: profileright
 
-    We  are interested in the effects of discharge outfalls and the implications of hydrodynamic-driven alterations on meeting water quality standards and directives. Outputs related to this stream include findings on water treatment process hydrodynamics, such as:
+      We  are interested in the effects of discharge outfalls and the implications of hydrodynamic-driven alterations on meeting water quality standards and directives. Outputs related to this stream include findings on water treatment process hydrodynamics, such as:
 
-    -   Identification of detrimental hydrodynamic structures and flow patterns and the interpretation of how these affect kinetic processes.
-    -   A methodology that employs CFD model insight to diagnose the performance of water treatment tanks, departing from “black box” practices.
+      -   Identification of detrimental hydrodynamic structures and flow patterns and the interpretation of how these affect kinetic processes.
+      -   A methodology that employs CFD model insight to diagnose the performance of water treatment tanks, departing from “black box” practices.
 
-
-    .. raw:: html
-
-
-       <div id="images">
-       <img class="imagerow" border="0" style="width:100%; max-width:600px; object-fit: contain;" src="https://www.dropbox.com/s/903tfaf88mvevk3/contact_tank_streamlines.png?raw=1"/> 
+    .. container :: profileleft
 
 
-       <p><i style="font-size: 0.7em"><b> Figure :</b>  Streamlines of flow hydrodynamics within a Chlorine disinfection contact tank.
-       </i></p>
-       </div>
+      .. raw:: html
+
+         <div>
+         <img border="0" padding="10px" style="width: 280px; object-fit: contain;" src="https://www.dropbox.com/s/903tfaf88mvevk3/contact_tank_streamlines.png?raw=1" style="width:260px" /></div>
+
+         <div>
+         <p style="font-size:0.7em; font-weight:400; ">Streamlines of flow hydrodynamics within a Chlorine disinfection contact tank.</p>
+         </div>
 
     .. container :: note2 
 
