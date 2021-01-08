@@ -16,7 +16,7 @@ Representation of the marine environment is key for reliable coastal hydrodynami
    <img class="imagerow" border="0" style="width:80%; max-width:600px; object-fit: contain; height:auto;" src="https://www.dropbox.com/s/m02ftr420otimc0/APOR_validation.jpg?raw=1"/> 
 
 
-   <p><i style="font-size: 0.7em"><b> Figure :</b>  Fig. 6. Seabed-mounted ADCP measurements of a) elevation and b), c), d) depth-averaged velocity magnitude and equivalent <i>Thetis</i> model outputs. Survey conducted during a spring tide over four tidal cycles and displayed as a, b), d) time-series and c) a polar plot. Subplots a), b) and c) display a sub-sampling of every six values.
+   <p><i style="font-size: 0.7em"><b> Figure :</b>  Seabed-mounted ADCP measurements of a) elevation and b), c), d) depth-averaged velocity magnitude and equivalent <i>Thetis</i> model outputs. Survey conducted during a spring tide over four tidal cycles and displayed as a, b), d) time-series and c) a polar plot. Subplots a), b) and c) display a sub-sampling of every six values.
    </i></p>
    </div>
 
