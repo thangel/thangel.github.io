@@ -24,9 +24,10 @@ Research Team
 
     - **Tooba Aslam** - PhD research student (2019 - Present, Institute for Infrastructure & Environment, University of Edinburgh - Co-Supervised with `Dr Efthalia Chatzisymeon (PI) <https://www.eng.ed.ac.uk/about/people/dr-efthalia-chatzisymeon>`_.
 
-    - **Konstantinos Pappas** - PhD research student (2021 - Present), Institute for Infrastructure & Environment, University of Edinburgh - Co-Supervised with Dr Harry van der Weijde, Dr Ilias Zilakos (Tidetec), and Prof Athanasios Kolios (University of Strathclyde).
+    - **Phoebe Hudson** - PhD research student (2020 - Present), Institute for Infrastructure & Environment, University of Edinburgh - Co-supervised with `Dr Adrien Martin <https://www.researchgate.net/profile/Adrien_Martin2>`_ and Prof Simon A Josey (NOC Southampton).
 
-    - **Phoebe Hudson** - PhD research student (2020 - Present), Institute for Infrastructure & Environment, University of Edinburgh - Co-supervised with Dr Adrien Martin and Prof Simon A Josey (NOC Southampton).
+    - **Konstantinos Pappas** - PhD research student (2021 - Present), Institute for Infrastructure & Environment, University of Edinburgh - Co-Supervised with Dr Harry van der Weijde, Dr Ilias Zilakos (Tidetec), and Prof `Athanasios Kolios <https://www.strath.ac.uk/staff/koliosathanasiosprofessor/>`_ (University of Strathclyde).
+
 
 
 .. container:: toggle
