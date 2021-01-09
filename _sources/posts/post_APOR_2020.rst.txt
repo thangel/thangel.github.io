@@ -2,7 +2,7 @@
 Modelling an energetic tidal strait: investigating implications of common numerical configuration choices
 ---------------------------------------------------------------------------------------------------------
 
-Our latest study for 2021 published in the *Applied Ocean Research* journal documents our recent work on the calibration of coastal ocean models for tidal energy cites. The work was led by Lucas Mackie, in collaboration with  Prof Matthew Piggott from *Imperial College London*, Dr Paul Evans from *Intertek Energy & Water*, Dr Magnus Harrold from the *ORE Catapult* and Prof Tim O'Doherty from *Cardiff University*. The study uses observed data from the Ramsey Sound in Wales.
+Our latest study for 2021 published in the *Applied Ocean Research* journal documents our recent work on the calibration of coastal ocean models for tidal energy sites. The work was led by Lucas Mackie, in collaboration with  Prof Matthew Piggott from *Imperial College London*, Dr Paul Evans from *Intertek Energy & Water*, Dr Magnus Harrold from the *ORE Catapult* and Prof Tim O'Doherty from *Cardiff University*. The study uses observed data from the Ramsey Sound in Wales and we are examining how well a depth-averaged model can reproduce the conditions, before dismissing results on the grounds of 3-D limitations.
 
 
 **Abstract**

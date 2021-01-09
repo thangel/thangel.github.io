@@ -231,7 +231,10 @@ Contact
 
       <a href="https://www.eng.ed.ac.uk/about/people/dr-athanasios-angeloudis"> <image style="height: 50px; padding:10px" src="_static/uoe.png"> </a>
 
-      <a href="https://www.imperial.ac.uk/"> <image style="height: 50px; padding:10px" src="_static/logo_imperial_college_london.png"> </a>
+      <a href="https://www.imperial.ac.uk/"> <image style="height: 50px; padding:10px" src="_static/logo_imperial_college_london.png"> </a> <br>
+
+      <a href="https://tidetec.com/"> <image style="height: 50px; padding:10px" src="https://www.dropbox.com/s/xl1yv9yucmmb94b/tidetec.png?raw=1"> </a>
+
       </center>
 
 .. .. <a href="https://scholar.google.com/citations?user=omIi6Z8AAAAJ&hl=en&authuser=1"> <image style="height: 50px; filter: invert(7%) sepia(97%) saturate(5749%) hue-rotate(359deg) brightness(94%) contrast(86%); padding:10px" src="_static/solid/user-graduate.svg"> </a>
