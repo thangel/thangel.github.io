@@ -18,11 +18,16 @@ Research Team
         
        *Research Group*
 
-    - **Lucas Mackie** - PhD research student, Department of Earth Science and Engineering, Imperial College London - Co-Supervised with `Prof Matthew Piggott (Co-I) <https://www.imperial.ac.uk/people/m.d.piggott>`_.
+    - **Lucas Mackie** - PhD research student (2018 - Present), Department of Earth Science and Engineering, Imperial College London - Co-Supervised with `Prof Matthew Piggott (Co-I) <https://www.imperial.ac.uk/people/m.d.piggott>`_.
 
-    - **Anastasia Fragkou** - PhD research student, Institute for Infrastructure & Environment, University of Edinburgh - Co-Supervised with `Prof Vengatesan Venugopal (Co-I) <https://www.eng.ed.ac.uk/about/people/dr-vengatesan-venugopal>`_.
+    - **Anastasia Fragkou** - PhD research student (2019 - Present), Institute for Infrastructure & Environment, University of Edinburgh - Co-Supervised with `Prof Vengatesan Venugopal (Co-I) <https://www.eng.ed.ac.uk/about/people/dr-vengatesan-venugopal>`_.
 
-    - **Tooba Aslam** - PhD research student, Institute for Infrastructure & Environment, University of Edinburgh - Co-Supervised with `Dr Efthalia Chatzisymeon (PI) <https://www.eng.ed.ac.uk/about/people/dr-efthalia-chatzisymeon>`_.
+    - **Tooba Aslam** - PhD research student (2019 - Present, Institute for Infrastructure & Environment, University of Edinburgh - Co-Supervised with `Dr Efthalia Chatzisymeon (PI) <https://www.eng.ed.ac.uk/about/people/dr-efthalia-chatzisymeon>`_.
+
+    - **Konstantinos Pappas** - PhD research student (2021 - Present), Institute for Infrastructure & Environment, University of Edinburgh - Co-Supervised with Dr Harry van der Weijde, Dr Ilias Zilakos (Tidetec), and Prof Athanasios Kolios (University of Strathclyde).
+
+    - **Phoebe Hudson** - PhD research student (2020 - Present), Institute for Infrastructure & Environment, University of Edinburgh - Co-supervised with Dr Adrien Martin and Prof Simon A Josey (NOC Southampton).
+
 
 .. container:: toggle
 
