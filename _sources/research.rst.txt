@@ -8,13 +8,6 @@
 
 
 
-
-
-        
-
-
-
-
 Research
 ========
 
@@ -31,7 +24,7 @@ Research
       .. raw:: html
 
          <div>
-         <img border="0" style="width: 280px; object-fit: contain;" src="https://www.dropbox.com/s/r96rdwovoqgjnlm/ramsey_gif_2a.gif?raw=1" style="width:260px" /></div>
+         <img border="0" style="width: 280px; object-fit: contain;" src="https://www.dropbox.com/s/a32lr3bnogby2ne/ramsey_uv_gif.gif?raw=1" style="width:260px" /></div>
 
          <div>
          <p style="font-size:0.7em; font-weight:400; ">Flow through a tidal strait; Ramsey Sound, UK. Mackie et al. 2019</p>
