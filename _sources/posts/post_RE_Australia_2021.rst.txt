@@ -1,0 +1,38 @@
+
+Tidal range resource of Australia
+---------------------------------
+
+Our tidal range energy operational modelling has been applied to assess the available tidal range energy resource around Australia. The study, led by Prof Simon Neill and published in *Renewable Energy*, was conducted in collaboration with the Bangor School of Ocean Sciences, and the Oceans and Atmpsphere Commonwealth Scientific and Industrial Research Organisation at Hobart in Australia.
+
+**Abstract**
+
+In some shelf sea regions of the world, the tidal range is sufficient to convert the potential energy of the tides into electricity via tidal range power plants. As an island continent, Australia is one such region – a previous study estimated that Australia hosts up to 30% of the world’s resource. Here, we make use of a gridded tidal dataset (TPXO9) to characterize the tidal range resource of Australia. We examine the theoretical resource, and we also investigate the technical resource through 0D modelling with tidal range power plant operation. We find that the tidal range resource of Australia is 2004 TWh/yr, or about 22% of the global resource. This exceeds Australia’s total energy consumption for 2018/2019 (1721 TWh/yr), suggesting tidal range energy has the potential to make a substantial contribution to Australia’s electricity generation (265 TWh/yr in 2018/2019). Due to local resonance, the resource is concentrated in the sparsely populated Kimberley region of Western Australia. However, the tidal range resource in this region presents a renewable energy export opportunity, connecting to markets in southeast Asia. Combining the electricity from two complementary sites, with some degree of optimization tidal range schemes in this region can produce electricity for 45% of the year.
+
+
+.. raw:: html
+
+
+   <div id="images">
+   <img class="imagerow" border="0" style="width:80%; max-width:600px; object-fit: contain; height:auto;" src="https://www.dropbox.com/s/ik7si2vdm4ranac/australia_sites.jpg?raw=1"/> 
+
+
+   <p><i style="font-size: 0.7em"><b> Figure :</b>  Theoretical tidal range resource for Australian waters where depth < 30 m and the annual energy density exceeds 50 kWh/m&#178;
+   </i></p>
+   </div>
+
+
+.. container :: copylink
+
+   .. raw :: html
+
+         <a href="https://www.sciencedirect.com/science/article/pii/S0960148121002020">Tidal range resource of Australia, <b>Renewable Energy</b>, 2021</a> 
+
+
+.. post:: February 15, 2021
+   :tags: tidal, ocean, resource
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en
+
+
