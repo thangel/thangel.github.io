@@ -1,0 +1,38 @@
+Tidal Stream vs. Wind Energy: The Value of Cyclic Power when Combined with Short-Term Storage in Hybrid Systems
+---------------------------------------------------------------------------------------------------------------
+
+A new study in *Energies* led by `Dr Danny Coles <https://www.plymouth.ac.uk/staff/danny-coles>`_ (University of Plymouth) demonstrates attributes of tidal energy that are attractive when combined with battery storage. The predictability of tidal energy is shown to deliver remarkable advantages towards efforts to reduce reliance to fossil fuel alternatives. This work has been an outcome of a collaboration including `Zoe Goss <https://www.imperial.ac.uk/people/z.goss15>`_ of Imperial College London and `Dr Jon Miles <https://www.plymouth.ac.uk/staff/jon-miles>`_ of the University of Plymouth
+
+**Abstract**
+
+This study quantifies the technical, economic and environmental performance of hybrid systems that use either a tidal stream or wind turbine, alongside short-term battery storage and back-up oil generators. The systems are designed to partially displace oil generators on the island of Alderney, located in the British Channel Islands. The tidal stream turbine provides four power generation periods per day, every day. This relatively high frequency power cycling limits the use of the oil generators to 1.6 GWh/year. In contrast, low wind resource periods can last for days, forcing the wind hybrid system to rely on the back-up oil generators over long periods, totalling 2.4 GWh/year (50% higher). For this reason the tidal hybrid system spends £0.25 million/year less on fuel by displacing a greater volume of oil, or £6.4 million over a 25 year operating life, assuming a flat cost of oil over this period. The tidal and wind hybrid systems achieve an oil displacement of 78% and 67% respectively (the same as the reduction in carbon emissions). For the wind hybrid system to displace the same amount of oil as the tidal hybrid system, two additional wind turbines are needed. The ability of the battery to store excess turbine energy during high tidal/wind resource periods relies on opportunities to regularly discharge stored energy. The tidal hybrid system achieves this during slack tides. Periods of high wind resource outlast those of high tidal resource, causing the battery to often remain fully charged and excess wind power to be curtailed. Consequently the wind hybrid system curtails 1.9 GWh/year, whilst the tidal turbine curtails 0.2 GWh/year. The ability of the tidal stream turbines to reduce curtailment, fuel costs and carbon emissions may provide a case for implementing them in hybrid systems, if these benefits outweigh their relatively high capital and operating expenditure. 
+
+
+.. raw:: html
+
+
+   <div id="images">
+   <img class="imagerow" border="0" style="width:80%; max-width:800px; object-fit: contain; height:auto;" src="https://www.dropbox.com/s/xj9i1q9mlley587/system_behaviour.2021-02-21%2021_32_31.gif?raw=1"/> 
+
+
+   <p><i style="font-size: 0.7em"><b> Animation :</b>  System behaviour comparison for a hybrid tidal and hybrid wind systems combined with battery storage and a diesel generator. The modelling is a case study for Alderney, Channel Islands.
+   </i></p>
+   </div>
+
+
+
+.. container :: copylink
+
+   .. raw :: html
+
+      <a href="https://www.mdpi.com/1996-1073/14/4/1106">Tidal Stream vs. Wind Energy: The Value of Cyclic Power when Combined with Short-Term Storage in Hybrid Systems, <b>Energies</b>, 2021</a> 
+
+
+.. post:: February 21, 2021
+   :tags: tidal, wind, battery, article
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en
+
+
