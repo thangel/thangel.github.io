@@ -146,13 +146,13 @@ Contact
            .. raw :: html
 
          
-                 <a href="https://www.dropbox.com/s/6cxe188s8qwvajb/cv.pdf?raw=1"><i class="fas fa-file-alt" style="font-size: 1.3em"></i></a>
+                 <a href="https://www.dropbox.com/s/kkvrjq74qbhxotj/cv.pdf?raw=1"><i class="fas fa-file-alt" style="font-size: 1.3em"></i></a>
 
     ..  container :: rightside
          
            .. raw :: html
 
-                <a href="https://www.dropbox.com/s/6cxe188s8qwvajb/cv.pdf?raw=1"> Curriculum Vitae </b> </a> 
+                <a href="https://www.dropbox.com/s/kkvrjq74qbhxotj/cv.pdf?raw=1"> Curriculum Vitae </b> </a> 
 
     .. container :: leftside
 
