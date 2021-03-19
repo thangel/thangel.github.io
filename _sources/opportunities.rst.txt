@@ -16,7 +16,6 @@
 Opportunities
 -------------
 
-
 .. container:: toggle2
 
     .. container:: header
@@ -60,8 +59,6 @@ Opportunities
             .. raw :: html
 
                       <a href="http://www.ed.ac.uk/schools-departments/student-funding/postgraduate/overview">http://www.ed.ac.uk/schools-departments/student-funding/postgraduate/overview</a> 
-
-
 
    For any queries on the scholarships and the application process, please contact directly the Postgraduate Office of the School of Engineering: EngGradOffice@ed.ac.uk. 
 
