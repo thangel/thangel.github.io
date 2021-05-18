@@ -78,7 +78,7 @@ Introduction
 
         I am Chartered with the Technical Chamber of Greece and a member of the Institution of Civil Engineers. In addition, I am part of NERC's Peer Review College and serve as  the  Coordinator of  the `Edinburgh Fluid  Dynamics  Group <https://www.efdg.ed.ac.uk/>`_.
 
-        My research and expertise spans across
+        Our research and expertise spans across the following
 
         * Environmental fluid mechanics
         * Offshore renewable energy
