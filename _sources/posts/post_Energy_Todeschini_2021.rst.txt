@@ -1,0 +1,25 @@
+Medium-term variability of the UK's combined tidal energy resource for a net-zero carbon grid
+---------------------------------------------------------------------------------------------
+
+Our operational modelling for tidal range schemes was applied in a recent review towards understanding the value of tidal energy developments towards a net-zero carbon grid. The study, led by Dr Grazia Todeschini published in *Energy*, was conducted in collaboration with Swansea, Plymouth and Bangor universities.
+
+**Abstract**
+
+The small area of the United Kingdom relative to weather systems makes renewable energy sources variable on short time scales. Short term variability is therefore a growing concern with increasing amounts of renewable energy integration. In this work, we address how tidal energy can contribute to reducing medium-term variability in the future UK energy mix. Two tidal integration scenarios are defined for 2050: for each scenario, a 5-min interval generation profile is calculated using an oceanographic model of UK tides, and the medium-term variability is assessed. Here we show that tidal power shows a lower level of variability compared to other resources. During spring tides, a national network of tidal power stations can produce continuous, although variable, electricity. It is then shown that tidal energy and storage can provide year-round continuous and constant power output, i.e. baseload generation. Therefore, we conclude that tidal energy can provide positive contributions and complement other renewable energy sources.
+
+
+.. container :: copylink
+
+   .. raw :: html
+
+         <a href="https://www.sciencedirect.com/science/article/pii/S0360544221022386?via%3Dihub">Medium-term variability of the UK's combined tidal energy resource for a net-zero carbon grid, <b>Energy</b>, 2022</a> 
+
+
+.. post:: September 10, 2021
+   :tags: tidal, energy, resource
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en
+
+

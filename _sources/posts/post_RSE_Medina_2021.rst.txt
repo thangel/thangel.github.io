@@ -2,7 +2,7 @@
 Satellite data for the offshore renewable energy sector: Synergies and innovation opportunities
 -----------------------------------------------------------------------------------------------
 
-Our input regarding the use of satellite data for marine energy schemes has been used in a recent review on the use of satellite data for offshore renewavle energy. The study, led by Dr Encarni Medina-Lopez and published in *Remote Sensing of the Environment*, was conducted in collaboration with the University of Strathclyde and other institutions as part of the ORE Supergen Flexi-fund project SCORE..
+Our input regarding the use of satellite data for marine energy schemes has been used in a recent review on the use of satellite data for offshore renewable energy. The study, led by Dr Encarni Medina-Lopez and published in *Remote Sensing of the Environment*, was conducted in collaboration with the University of Strathclyde and other institutions as part of the ORE Supergen Flexi-fund project SCORE.
 
 **Abstract**
 
