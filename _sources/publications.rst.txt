@@ -14,5 +14,5 @@ The following list contains research contributions comprising journal papers, co
 
 .. raw:: html
 
- <script src="https://bibbase.org/show?bib=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fpz32p2say90l29s%2FPublications_normal.bib%3Fraw%3D1&jsonp=1"></script>
+ <script src="https://bibbase.org/show?bib=https%3A%2F%2Fwww.dropbox.com%2Fs%2F285doxugtlmrm9f%2FPublications.bib%3Fraw%3D1&commas=true&jsonp=1"></script> 
 
