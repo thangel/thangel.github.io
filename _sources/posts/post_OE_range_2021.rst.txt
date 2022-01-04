@@ -1,0 +1,25 @@
+Assessing impacts of tidal power lagoons of a consistent design
+---------------------------------------------------------------
+
+A recent study based on the PhD research of *Lucas Mackie* has been published in Elsevier's *Ocean Engineering* journal. The study highlights the need for consistency in the assessment of tidal range structures in order to provide a comparative insight for prospective developments. Schemes should be assessed in terms of their localised effect, as the regional morphology will play a varying role. For example, designs in the Irish Sea are less disruptive to the regional dynamics compared to the more constrained Severn Estuary.
+
+**Abstract**
+
+Tidal power lagoons have the potential to provide a reliable and long-term source of renewable power. The implementation of tidal lagoons will impact the tidal conditions and hydrodynamics of the surrounding coastal system. Impact assessments in the academic literature have generally investigated working proposals from industry of various shapes and sizes. As such, differences between the impacts arising from considered power plants in varying sites are in part influenced by the individual scheme characteristics, potentially masking the influence of site-specific factors. In this study, scheme design consistency is maintained, providing a basis to focus solely on the merits of the selected locations with regards to any associated impacts. The simulated tidal power lagoons are located in the Bristol Channel and Irish Sea, two distinct but tidally connected regions on the British coastline with contrasting marine environment characteristics. Results indicate that the more constrained geometry of the Bristol Channel contributes to higher individual and cumulative impacts than potential developments in the Irish Sea. This is in part facilitated by the higher degree of blockage introduced by tidal lagoon developments in the Bristol Channel. Furthermore, far-field impacts are found to be less pronounced compared to predictions reported in tidal barrage modelling studies.
+
+
+.. container :: copylink
+
+   .. raw :: html
+
+         <a href="https://www.sciencedirect.com/science/article/abs/pii/S0029801821012282">Assessing impacts of tidal power lagoons of a consistent design, <b>Ocean Engineering</b>, 2021</a> 
+
+
+.. post:: November 15, 2021
+   :tags: tidal, impact, resource
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en
+
+
