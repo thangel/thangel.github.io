@@ -148,7 +148,7 @@ Contact
            .. raw :: html
 
          
-                 <a href="https://www.dropbox.com/s/onydzwjo95fhr4u/cv.pdf?raw=1"><i class="fas fa-file-alt" style="font-size: 1.3em"></i></a>
+                 <a href="hhttps://www.dropbox.com/s/9szj8xq35dkb28k/cv.pdf?raw=1"><i class="fas fa-file-alt" style="font-size: 1.3em"></i></a>
 
     ..  container :: rightside
          

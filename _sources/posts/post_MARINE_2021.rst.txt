@@ -15,8 +15,7 @@ Recent progress on our research was presented by `Lucas Mackie <https://www.impe
 
    .. raw :: html
 
-         <a href="https://congresos-cimne.cimne.upc.edu/cimne/custom/Congresos/Congreso_ID_12/Abstract/A_IDC12_225.pdf">, Mackie et al.,  Assessing the Hydrodynamic Impact of Idealised Tidal Power Lagoons at 
-Sites Along the UK West Coast , <b>MARINE 2021</b>, Edinburgh, 2021</a> 
+         <a href="https://congresos-cimne.cimne.upc.edu/cimne/custom/Congresos/Congreso_ID_12/Abstract/A_IDC12_225.pdf">, Mackie et al.,  Assessing the Hydrodynamic Impact of Idealised Tidal Power Lagoons at Sites Along the UK West Coast , <b>MARINE 2021</b>, Edinburgh, 2021</a> 
 
 
 
