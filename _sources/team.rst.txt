@@ -18,11 +18,13 @@ Research Team
         
        *Research Group*
 
+    - **Dr Chris Old** - Senior Research Associate in Marine Renewable Energy (2022 - Present), School of Engineering, University of Edinburgh - Co-supervised with `Dr Brian Sellar <https://www.eng.ed.ac.uk/about/people/dr-brian-sellar>`_.
+
     - **Lucas Mackie** - PhD research student (2018 - Present), Department of Earth Science and Engineering, Imperial College London - Co-Supervised with `Prof Matthew Piggott (Co-I) <https://www.imperial.ac.uk/people/m.d.piggott>`_.
 
     - **Anastasia Fragkou** - PhD research student (2019 - Present), Institute for Infrastructure & Environment, University of Edinburgh - Co-Supervised with `Prof Vengatesan Venugopal (Co-I) <https://www.eng.ed.ac.uk/about/people/dr-vengatesan-venugopal>`_.
 
-    - **Tooba Aslam** - PhD research student (2019 - Present, Institute for Infrastructure & Environment, University of Edinburgh - Co-Supervised with `Dr Efthalia Chatzisymeon (PI) <https://www.eng.ed.ac.uk/about/people/dr-efthalia-chatzisymeon>`_.
+    .. - **Tooba Aslam** - PhD research student (2019 - Present, Institute for Infrastructure & Environment, University of Edinburgh - Co-Supervised with `Dr Efthalia Chatzisymeon (PI) <https://www.eng.ed.ac.uk/about/people/dr-efthalia-chatzisymeon>`_.
 
     - **Phoebe Hudson** - PhD research student (2020 - Present), Institute for Infrastructure & Environment, University of Edinburgh - Co-supervised with `Dr Adrien Martin (PI) <https://www.researchgate.net/profile/Adrien_Martin2>`_ and Prof Simon A Josey (NOC Southampton).
 

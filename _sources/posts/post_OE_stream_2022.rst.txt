@@ -1,0 +1,25 @@
+Interactions between tidal stream turbine arrays and their hydrodynamic impact around Zhoushan Island, China
+------------------------------------------------------------------------------------------------------------
+
+A new study based on the PhD research of *Can Zhang* on tidal stream turbines is now available in Elsevier's *Ocean Engineering* journal. The study investigates the cumulative impacts of tidal stream turbine arrays that are located in relatively close proximity, whilst showcasing the adjoint optimisation capability that has been developed at the Department of Earth Science and Engineering of Imperial College London.
+
+**Abstract**
+
+Tidal currents represent an attractive renewable energy source particularly because of their predictability. Prospective tidal stream development sites are often co-located in close proximity. Under such circumstances, in order to maximise the exploitation of the resource, multiple tidal stream turbine arrays working in tandem would be needed. In this paper, a continuous array optimisation approach based on the open source coastal ocean modelling framework Thetis is applied to derive optimal configurations for four turbine arrays around Zhoushan Islands, Zhejiang Province, China. Alternative optimisation scenarios are tested to investigate interactions between the turbine arrays and their hydrodynamic footprint. Results show that there are no obvious competition effects between these four arrays around Hulu and Taohua Island. However, significant interactions could arise among the three turbine arrays situated around Hulu Island, with a maximum decrease in average power of 42.2%. By optimising all turbine arrays simultaneously, the competition effects can be minimised and the cost of energy reduced as less turbines are required to deliver an equivalent energy output. As for the potential environmental impact, it is found that the turbine array around Taohua Island would affect a larger area than turbine arrays around Hulu Island.
+
+
+.. container :: copylink
+
+   .. raw :: html
+
+         <a href="https://www.sciencedirect.com/science/article/pii/S0029801821017170">Interactions between tidal stream turbine arrays and their hydrodynamic impact around Zhoushan Island, China, <b>Ocean Engineering</b>, 2022</a> 
+
+
+.. post:: February 15, 2022
+   :tags: tidal, optimisation, resource
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en
+
+

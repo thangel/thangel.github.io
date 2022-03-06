@@ -19,9 +19,23 @@ A summary of our key projects is included below.
 
     \
 
-    *The project spans 2022-2025 and was funded by the European Commission through the H2020 framework*
+    .. container :: min-section
+    
+        .. container :: profileright
 
-    The EC H2020 ILIAD (Integrated Digital Twins for Marine and Maritime Data and Information Services) project seeks to deliver Digital Twins of the Ocean space around Europe using a suite of pilot test cases relating to a range of marine spatial planning purposes. The EU has awarded €17 million to ILIAD. This international project will create a European Digital Twin of the Ocean (DTO) that will combine high-resolution modelling with real-time sensing of ocean parameters. The role of Edinburgh is supporting the hydroenvironmental modelling at different pilots, with a focus on ocean energy and ocean data management.
+            *The project spans 2022-2025 and was funded by the European Commission through the H2020 framework*
+
+            The EC H2020 ILIAD (Integrated Digital Twins for Marine and Maritime Data and Information Services) project seeks to deliver Digital Twins of the Ocean space around Europe using a suite of pilot test cases relating to a range of marine spatial planning purposes. The EU has awarded €17 million to ILIAD. This international project will create a European Digital Twin of the Ocean (DTO) that will combine high-resolution modelling with real-time sensing of ocean parameters. The role of Edinburgh is supporting the hydroenvironmental modelling at different pilots, with a focus on ocean energy and ocean data management.
+
+        .. container :: profileleft
+
+                .. raw:: html
+
+                      <center>
+                      <a href="https://www.ocean-twin.eu/"> <image style="height: 80px; padding:10px" src="_static/ILIAD-logo.png"> </a>
+
+                      <a href="https://www.ocean-twin.eu/"> <image style="height: 120px; padding:10px" src="_static/Horizon-2020.jpg"> </a>
+                      </center>
 
 
 .. container:: toggle
@@ -32,9 +46,21 @@ A summary of our key projects is included below.
 
     \
     
-    *The project spans 2021-2022 as part of the ORE Supegen Flexifund competition of 2021*
+    .. container :: min-section
+    
+        .. container :: profileright
 
-    The FASTWATER project couples recent research findings, including datasets and open-source models, with robust calibration methodologies informed by best practice across multiple sectors. The project is an inter-disciplinary collaboration between Engineering and Mathematics, supported and demand-driven by Industrial partners. The research will develop and demonstrate universal methodologies trialled in Scottish waters, where extensive datasets and open-source 3D model elements are available within the team. FASTWATER will deliver three key project outputs. The first is a new fully open-source framework, data and methods (the FASTWATER Platform), needed to operate and increase adoption of numerical simulations of dynamic coastal regions through ease-of-use, reliability and transparency. 
+            *The project spans 2021-2022 as part of the ORE Supegen Flexifund competition of 2021*
+
+            The FASTWATER project couples recent research findings, including datasets and open-source models, with robust calibration methodologies informed by best practice across multiple sectors. The project is an inter-disciplinary collaboration between Engineering and Mathematics, supported and demand-driven by Industrial partners. The research will develop and demonstrate universal methodologies trialled in Scottish waters, where extensive datasets and open-source 3D model elements are available within the team. FASTWATER will deliver three key project outputs. The first is a new fully open-source framework, data and methods (the FASTWATER Platform), needed to operate and increase adoption of numerical simulations of dynamic coastal regions through ease-of-use, reliability and transparency. 
+
+        .. container :: profileleft
+
+                .. raw:: html
+
+                      <center>
+                      <a href="https://www.supergen-ore.net/"> <image style="height: 120px; padding:10px" src="_static/Supergen-Full-Logo-01.png"> </a>
+                      </center>
 
 
 .. container:: toggle
@@ -45,11 +71,23 @@ A summary of our key projects is included below.
 
     \
 
-    *This project was run between 2018-2021 at Imperial College London and the University of Edinburgh*
+    .. container :: min-section
+    
+        .. container :: profileright
 
-    For tidal range-based technologies, the UK Government's "Hendry review", released on the 10th of Feb 2017, recommended that tidal lagoons (tidal range structures) can play an important role in the UK's energy mix. This provides a roadmap towards the development of lagoons, with several industrial projects under consideration.This project seeks  built on this strong position by providing timely research on the environmental and ecological impacts of new, larger tidal developments in a manner that supports decision making by stakeholders, including coastal engineers, financiers, and primarily those concerned with environmental impacts. Research focused on the optimal spatial planning and operational control of prospective tidal range projects. Recent computational modelling findings suggest that up-scaling the development of marine energy infrastructure beyond the pilot scale poses a formidable challenge. Industrial proposals need to comprehensively evaluate and compensate for impacts on environmental processes that relate to water quality for sensitive species and tidal dynamics alterations. A quantification of environmental impacts (e.g. tidal flushing, Dissolved Oxygen) via simulation software can become computationally demanding when multiple processes are modelled at a large scale. Opportunities to reduce the computational load could stem from the fact that many of the environmental constraints can be described as objective functions. The optimisation strategy presented is fully coupled to the underlying tidal dynamics, so that changes to tidal range structure design and control can feed back to the hydro-environmental processes and vice-versa. The research was conducted at the interface of academia and industry, and has been informed by marine energy developers, technical consultants and experts in environmental and coastal processes. The overarching motivation of the research will be to inform environmental impact assessment practices and the sustainable development of upcoming clean energy technologies that will be developed by the UK's industry. 
+            *This project was run between 2018-2021 at Imperial College London and the University of Edinburgh*
 
-    More information on project outputs can be found `here <https://gtr.ukri.org/projects?ref=NE%2FR013209%2F2>`_.
+            For tidal range-based technologies, the UK Government's "Hendry review", released on the 10th of Feb 2017, recommended that tidal lagoons (tidal range structures) can play an important role in the UK's energy mix. This provides a roadmap towards the development of lagoons, with several industrial projects under consideration.This project seeks  built on this strong position by providing timely research on the environmental and ecological impacts of new, larger tidal developments in a manner that supports decision making by stakeholders, including coastal engineers, financiers, and primarily those concerned with environmental impacts. Research focused on the optimal spatial planning and operational control of prospective tidal range projects. Recent computational modelling findings suggest that up-scaling the development of marine energy infrastructure beyond the pilot scale poses a formidable challenge. Industrial proposals need to comprehensively evaluate and compensate for impacts on environmental processes that relate to water quality for sensitive species and tidal dynamics alterations. A quantification of environmental impacts (e.g. tidal flushing, Dissolved Oxygen) via simulation software can become computationally demanding when multiple processes are modelled at a large scale. Opportunities to reduce the computational load could stem from the fact that many of the environmental constraints can be described as objective functions. The optimisation strategy presented is fully coupled to the underlying tidal dynamics, so that changes to tidal range structure design and control can feed back to the hydro-environmental processes and vice-versa. The research was conducted at the interface of academia and industry, and has been informed by marine energy developers, technical consultants and experts in environmental and coastal processes. The overarching motivation of the research will be to inform environmental impact assessment practices and the sustainable development of upcoming clean energy technologies that will be developed by the UK's industry. 
+
+            More information on project outputs can be found `here <https://gtr.ukri.org/projects?ref=NE%2FR013209%2F2>`_.
+
+        .. container :: profileleft
+
+                .. raw:: html
+
+                      <center>
+                      <a href="https://nerc.ukri.org/"> <image style="height: 120px; padding:10px" src="_static/nerc-logo.jpg"> </a>
+                      </center>
 
 Research
 ========
