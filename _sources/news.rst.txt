@@ -18,7 +18,7 @@ News
 
 News on research and teaching matters.  Most recent posts are listed below:
 
-.. postlist:: 5
+.. postlist:: 10
    :date:  %d %B, %Y
    :list-style: disk 
    :format: {title}, posted on {date}
