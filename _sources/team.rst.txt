@@ -35,7 +35,8 @@ Research Team
         
        *Alumni*
 
-    - **Dr Lucas Mackie** - Modelling the Interaction of Tidal Range Power Systems for Renewable Energy Generation.  *Wind Energy Analyst for Orsted*
+    - **Dr Lucas Mackie** - Modelling the Interaction of Tidal Range Power Systems for Renewable Energy Generation, Imperial College London. 
+
 
 .. container:: toggle
 
