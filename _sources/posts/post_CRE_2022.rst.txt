@@ -1,0 +1,22 @@
+Tidal Range Energy
+------------------
+
+A chapter summarising the opportunities and challenges of tidal range energy is presented within the Second Edition of   *Comprehensive Renewable Energy*.
+
+**Abstract**
+
+Tides present enormous opportunities to serve as a source of marine renewable energy. This chapter outlines resource and exploitation considerations associated with the marine energy available in areas exhibiting a high tidal range. Initially, a brief introduction to this particular form of tidal power is presented, highlighting the characteristics of the resource and its global distribution. In turn, key elements of the technology required to harness this resource are described, demonstrating both progress made to-date and drivers towards the development of tidal range projects. An overview of existing tidal range power plants is provided as well as a summary of recent proposals for locations where the technology can be deployed. The focus then shifts towards technical constraints and feasibility challenges that must be considered, followed by the methods currently used to address these. Finally, further aspects of tidal range energy assessment are discussed by means of practical case studies.
+
+.. container :: copylink
+
+   .. raw :: html
+
+         <a href="https://www.sciencedirect.com/science/article/pii/B9780128197271000935?via%3Dihub">Tidal Range Energy, <b>Comprehensive Renewable Energy</b>, 2022</a> 
+
+
+.. post:: April 2, 2022
+   :tags: tidal, range, energy
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en

@@ -1,0 +1,21 @@
+Temporal complementarity of marine renewables with wind and solar generation: Implications for GB system benefits
+-----------------------------------------------------------------------------------------------------------------
+
+Recent work on complementarity of marine renewables with other renewables published in  *Applied Energy*. The study, led by Dr Shona Pennock of Edinburgh's Policy and Innovation Group made use our regional hydrodynamic modelling around UK Waters, in collaboration with Danny Coles of the University of Plymouth and US's PNNL.
+
+**Abstract**
+
+Wave and tidal energy have the potential to provide benefits to power systems with high proportions of stochastic renewable generation. This is particularly applicable in combination with wind and solar photovoltaics, as the offsetting of these renewable resources results in more reliable renewable generation. This study utilises ten metrics to quantify the temporal complementarity and supply-demand balancing requirements of the energy mix in Great Britain, to investigate the potential magnitude of these system benefits. Wave and tidal generation profiles are created using historical resource data and hydrodynamic models. The results show that the inclusion of wave and tidal generation creates a renewable energy mix which is more available under multiple conditions: throughout a year of operation; at times of peak demand; for multiple consecutive hourly time periods; and at times when wind and solar generation are not available. Three regional case studies also show that the inclusion of marine energy allows for improved regional supply-demand matching, reducing instances of energy shortage and excess and potentially relieving transmission congestion at particularly constrained locations within GB. Finally, the implications of these findings are discussed in terms of GB wholesale market operation, system balancing and system security.
+
+.. container :: copylink
+
+   .. raw :: html
+
+         <a href="https://www.sciencedirect.com/science/article/pii/S030626192200633X">Temporal complementarity of marine renewables with wind and solar generation: Implications for GB system benefits, <b>Applied Energy</b>, 2022</a> 
+
+.. post:: August 01, 2022
+   :tags: tidal, wave, marine, energy
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en

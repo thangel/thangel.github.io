@@ -1,0 +1,21 @@
+Sedimentological data-driven bottom friction parameter estimation in modelling Bristol Channel tidal dynamics
+-------------------------------------------------------------------------------------------------------------
+
+Recent work on parameter estimation for the calibration of estuarine models on macro-tidal environments has been published in  *Ocean Dynamics*. The study, led by Dr Simon Warder of Imperial College London outlines the approach we followed for a set of parameter estimation experiments.
+
+**Abstract**
+
+Accurately representing the bottom friction effect is a significant challenge in numerical tidal models. Bottom friction effects are commonly defined via parameter estimation techniques. However, the bottom friction coefficient (BFC) can be related to the roughness of the sea bed. Therefore, sedimentological data can be beneficial in estimating BFCs. Taking the Bristol Channel and Severn Estuary as a case study, we perform a number of BFC parameter estimation experiments, utilising sedimentological data in a variety of ways. Model performance is explored through the results of each parameter estimation experiment, including applications to tidal range and tidal stream resource assessment. We find that theoretically derived sediment-based BFCs are in most cases detrimental to model performance. However, good performance is obtained by retaining the spatial information provided by the sedimentological data in the formulation of the parameter estimation experiment; the spatially varying BFC can be represented as a piecewise-constant field following the spatial distribution of the observed sediment types. By solving the resulting low-dimensional parameter estimation problem, we obtain good model performance as measured against tide gauge data. This approach appears well suited to modelling tidal range energy resource, which is of particular interest in the case study region. However, the applicability of this approach for tidal stream resource assessment is limited, since modelled tidal currents exhibit a strong localised response to the BFC; the use of piecewise-constant (and therefore discontinuous) BFCs is found to be detrimental to model performance for tidal currents.
+
+.. container :: copylink
+
+   .. raw :: html
+
+         <a href="https://link.springer.com/article/10.1007/s10236-022-01507-x">Sedimentological data-driven bottom friction parameter estimation in modelling Bristol Channel tidal dynamics, <b>Ocean Dynamics</b>, 2022</a> 
+
+.. post:: April 27, 2022
+   :tags: tidal, severn, friction
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en
