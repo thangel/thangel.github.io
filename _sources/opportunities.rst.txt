@@ -23,8 +23,8 @@ Opportunities
         *Current Opportunities*
 
         
-    - **I welcome applications for PhD applicants at The University of Edinburgh for research on Water & Environmental engineering**.
-      I am looking for highly motivated candidates that are keen to conduct computational research that is aligned with the fields of *coastal engineering*, *environmental fluid mechanics* or CFD for *water engineering* applications. A strong foundation in civil engineering hydraulics and an interest in modern programming techniques (using Python, Matlab, C and FORTRAN) and High-Performance Computing are desirable. For funding options and enquiries please feel free to get in touch by `e-mail <mailto: a.angeloudis@ed.ac.uk>`_.
+    - **I welcome applications for PhD applicants at The University of Edinburgh for research on Offshore, Coastal and Estuarine engineering**.
+      I am looking for highly motivated candidates that are keen to conduct computational research that is aligned with the fields of *coastal engineering*, *environmental fluid mechanics* or CFD for *ocean energy* applications. A strong foundation in civil engineering hydraulics and an interest in modern programming techniques (using Python, Matlab, C and FORTRAN) and High-Performance Computing are desirable. For funding options and enquiries please feel free to get in touch by `e-mail <mailto: a.angeloudis@ed.ac.uk>`_.
 
     
 ..    - **I am currently offering an opportunity for a PhD studentship at The University of Edinburgh for research on Water & Environmental engineering**.

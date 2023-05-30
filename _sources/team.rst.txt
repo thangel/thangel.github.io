@@ -20,14 +20,17 @@ Research Team
 
     - **Dr Chris Old** - Senior Research Associate in Marine Renewable Energy (2022 - Present), School of Engineering, University of Edinburgh - Co-supervised with `Dr Brian Sellar <https://www.eng.ed.ac.uk/about/people/dr-brian-sellar>`_.
 
+    - **Dr Nguyen Chien** - Research Associate in Coastal Ocean Digital Twins (2023 - Present), School of Engineering, University of Edinburgh - Co-supervised with `Dr Brian Sellar <https://www.eng.ed.ac.uk/about/people/dr-brian-sellar>`_.
+
     - **Anastasia Fragkou** - PhD researcher (2019 - Present), Institute for Infrastructure & Environment, University of Edinburgh - Co-Supervised with `Prof Vengatesan Venugopal (Co-I) <https://www.eng.ed.ac.uk/about/people/dr-vengatesan-venugopal>`_.
 
     - **Phoebe Hudson** - PhD researcher (2020 - Present), Institute for Infrastructure & Environment, University of Edinburgh - Co-supervised with `Dr Adrien Martin (PI) <https://www.researchgate.net/profile/Adrien_Martin2>`_ and Prof Simon A Josey (NOC Southampton).
 
-    - **Konstantinos Pappas** - PhD researcher (2021 - Present), Institute for Infrastructure & Environment, University of Edinburgh - Co-Supervised with Dr Harry van der Weijde, Dr Ilias Zilakos (Tidetec), and Prof Lindsay Beevers.
+    - **Konstantinos Pappas** - PhD researcher (2021 - Present), Institute for Infrastructure & Environment, University of Edinburgh - Co-Supervised with Dr Harry van der Weijde, Dr Ilias Zilakos (Tidetec), and `Prof Lindsay Beevers <https://www.eng.ed.ac.uk/about/people/prof-lindsay-beevers>`_.
 
-    - **Connor Jordan** - PhD researcher (2022 - Present), Institute for Infrastructure & Environment, University of Edinburgh - Co-Supervised with Prof Sotirios Tsaftaris.
+    - **Connor Jordan** - PhD researcher (2022 - Present), Institute for Infrastructure & Environment, University of Edinburgh - Co-Supervised with `Prof Sotirios Tsaftaris <https://www.eng.ed.ac.uk/about/people/dr-sotirios-tsaftaris>`_.
 
+    - **Bryn Townley** - EngD researcher (2022 - Present), Institute for Infrastructure & Environment, University of Edinburgh - Co-Supervised with `Professor Qing Xiao <https://www.strath.ac.uk/staff/xiaoqingdr/>`_ (University of Strathclyde) and `Dr Ian Ashton <https://renewable.exeter.ac.uk/staff/iga202>`_ (University of Exeter).
 
 .. container:: toggle2
 
@@ -47,7 +50,7 @@ Research Team
     - `Prof Matthew Piggott <https://www.imperial.ac.uk/people/m.d.piggott>`_, Professor of Computational Geoscience and Engineering, Department of Earth Science & Engineering, Imperial College London.
     - `Prof Thorsten Stoesser <https://iris.ucl.ac.uk/iris/browse/profile?upi=TSTOE28>`_, Professor of Civil Engineering Fluids, Department of Civil & Environmental Engineering, University College London.
     - `Prof Roger A. Falconer <https://www.cardiff.ac.uk/people/view/364367-falconer-roger>`_, Emeritus Professor of Water Management, Hydro-environmental Research Centre, Cardiff University.
-    - `Dr Danny Coles <https://www.plymouth.ac.uk/staff/danny-coles>`_, Research Fellow of INTERREG V A France (Channel) TIGER Project, School of Engineering, Computing and Mathematics, University of Plymoyth. 
+    - `Dr Danny Coles <https://www.plymouth.ac.uk/staff/danny-coles>`_, Research Fellow of INTERREG V A France (Channel) TIGER Project, School of Engineering, Computing and Mathematics, University of Plymouth. 
     - `Dr Efthalia Chatzisymeon <https://www.eng.ed.ac.uk/about/people/dr-efthalia-chatzisymeon>`_, Senior  Lecturer in Environmental  Engineering, School of  Engineering, University of  Edinburgh
     - `Dr Carlo Gualtieri <http://www.dicea.unina.it/docente.php?id=37>`_, Associate Professor of Environmental Hydraulics, Department of Civil Engineering, University of Napoli Federico II.
     - `Stephan Kramer <https://www.imperial.ac.uk/people/s.kramer>`_, Research Associate in Ocean Modelling and Numerical Methods, Department of Earth Science & Engineering, Imperial College London.

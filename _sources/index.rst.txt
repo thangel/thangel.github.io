@@ -66,7 +66,7 @@ Introduction
          </div>
 
          <div>
-         <p style="font-size: 0.8em; font-weight:400;"> Lecturer, School of Engineering,<br>
+         <p style="font-size: 0.8em; font-weight:400;"> Reader, School of Engineering,<br>
          
          <a style="font-size: 1.0em" href="https://www.eng.ed.ac.uk/about/people/dr-athanasios-angeloudis"> University of Edinburgh </a>
          </p>
@@ -74,9 +74,9 @@ Introduction
 
     .. container :: profileright
       
-        I am working on engineering fluid mechanics, incorporated within the Institute for Infrastructure and the Environment and leading research on hydro-environmental engineering applications. Aside from my role of lecturer in Civil Engineering hydraulics where I am also a Fellow of the Higher Education Academy (FHEA), I have been an Industrial Innovation  Research Fellow of the UK's Natural Environment Research Council (NERC). Accordingly, my team coordinates research activities on computational methods for marine and offshore renewable energy, working closely with industry and other research groups. 
+        I am working as a Reader (Associate Professor) on engineering fluid mechanics, incorporated within the Institute for Infrastructure and the Environment and leading research on hydro-environmental engineering applications. I am a Fellow of the Higher Education Academy (FHEA) and have previously led an Industrial Innovation  Research Fellowship by the UK's Natural Environment Research Council (NERC). Accordingly, my team coordinates research activities on computational methods for marine and offshore renewable energy, working closely with industry and other research groups. 
 
-        I am Chartered with the Technical Chamber of Greece and a member of the Institution of Civil Engineers. In addition, I am part of NERC's Peer Review College and serve as  the  Coordinator of  the `Edinburgh Fluid  Dynamics  Group <https://www.efdg.ed.ac.uk/>`_.
+        I am Chartered member (CEng) with the Institution of Civil Engineers and with the Technical Chamber of Greece.
 
         Our research and expertise spans across the following
 

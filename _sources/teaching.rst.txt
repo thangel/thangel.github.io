@@ -37,7 +37,7 @@ This section summarises teaching responsibilities within the Discipline of Civil
 
         **Role:** Lecturer
 
-    *Water  Engineering, Transport & Treatment III* is a  3rd year undergraduate civil engineering module where I cover the fundamentals of hydraulic flows since 2019. I am responsible for the delivery of material on the gradually varied flow equation, the use and rationale of certain flow-control structures, and the application of the momentum and energy principles on open channel flow settings. `Course Website  <http://www.drps.ed.ac.uk/19-20/dpt/cxcive09035.htm>`_ 
+    *Water  Engineering, Transport & Treatment III* is a  3rd year undergraduate civil engineering module where I cover the fundamentals of hydraulic flows since 2019. I am responsible for the delivery of material across pipe flow and open channel flow the gradually varied flow equation, the use and rationale of certain flow-control structures, and the application of the momentum and energy principles on open channel flow settings. `Course Website  <http://www.drps.ed.ac.uk/19-20/dpt/cxcive09035.htm>`_ 
 
 
 Educational Resources
