@@ -24,7 +24,7 @@ This section summarises teaching responsibilities within the Discipline of Civil
 
         **Role:** Course Organiser
 
-    *Hydraulic Engineering IV* is a 4th year undergraduate civil engineering module on unsteady flows. I am responsible for the delivery of material on open channel flows and specifically flood routing, St Venant Equations, Solitary Waves, Surges and Coastal Waves. `Course Website <http://www.drps.ed.ac.uk/18-19/dpt/cxcive10006.htm>`_ 
+    *Hydraulic Engineering IV* is a 4th year undergraduate civil engineering module on unsteady flows. I deliver material on open channel flows and hydraulic transients in pipe systems. Specifically, the content covers specifically flood routing, St Venant Equations, Solitary Waves, Surges and Coastal Waves and the Water Hammer phenomenon. `Course Website <http://www.drps.ed.ac.uk/18-19/dpt/cxcive10006.htm>`_ 
 
 
 .. container:: toggle

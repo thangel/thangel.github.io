@@ -9,9 +9,10 @@
 Projects
 ========
 
-A summary of our key projects is included below.
+**Active projects**
 
-.. container:: toggle
+
+.. container:: toggle2
 
     .. container:: header
 
@@ -38,36 +39,39 @@ A summary of our key projects is included below.
                       </center>
 
 
+**Completed projects**
+
+
+A list of completed projects is outlined below
+
 .. container:: toggle
 
     .. container:: header
 
-       *EPSRC FlexiFund FASTWATER*
+        *EPSRC FlexiFund FASTWATER* (2021-2022)
 
-    \
-    
+        \
+
     .. container :: min-section
-    
+
         .. container :: profileright
 
-            *The project spans 2021-2022 as part of the ORE Supegen Flexifund competition of 2021*
-
-            The FASTWATER project couples recent research findings, including datasets and open-source models, with robust calibration methodologies informed by best practice across multiple sectors. The project is an inter-disciplinary collaboration between Engineering and Mathematics, supported and demand-driven by Industrial partners. The research will develop and demonstrate universal methodologies trialled in Scottish waters, where extensive datasets and open-source 3D model elements are available within the team. FASTWATER will deliver three key project outputs. The first is a new fully open-source framework, data and methods (the FASTWATER Platform), needed to operate and increase adoption of numerical simulations of dynamic coastal regions through ease-of-use, reliability and transparency. 
+          The FASTWATER project couples recent research findings, including datasets and open-source models, with robust calibration methodologies informed by best practice across multiple sectors. The project is an inter-disciplinary collaboration between Engineering and Mathematics, supported and demand-driven by Industrial partners. The research will develop and demonstrate universal methodologies trialled in Scottish waters, where extensive datasets and open-source 3D model elements are available within the team. FASTWATER will deliver three key project outputs. The first is a new fully open-source framework, data and methods (the FASTWATER Platform), needed to operate and increase adoption of numerical simulations of dynamic coastal regions through ease-of-use, reliability and transparency. 
 
         .. container :: profileleft
 
-                .. raw:: html
+            .. raw:: html
 
-                      <center>
-                      <a href="https://www.supergen-ore.net/"> <image style="height: 120px; padding:10px" src="_static/Supergen-Full-Logo-01.png"> </a>
-                      </center>
+                  <center>
+                  <a href="https://www.supergen-ore.net/"> <image style="height: 120px; padding:10px" src="_static/Supergen-Full-Logo-01.png"> </a>
+                  </center>
 
 
 .. container:: toggle
 
     .. container:: header
 
-       *UKRI/NERC Industrial Innovation Fellowship on tidal energy*
+       *UKRI/NERC Industrial Innovation Fellowship on tidal energy* (2018-2021)
 
     \
 

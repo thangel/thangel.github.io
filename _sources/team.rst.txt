@@ -18,9 +18,14 @@ Research Team
         
        *Research Group*
 
-    - **Dr Chris Old** - Senior Research Associate in Marine Renewable Energy (2022 - Present), School of Engineering, University of Edinburgh - Co-supervised with `Dr Brian Sellar <https://www.eng.ed.ac.uk/about/people/dr-brian-sellar>`_.
 
-    - **Dr Nguyen Chien** - Research Associate in Coastal Ocean Digital Twins (2023 - Present), School of Engineering, University of Edinburgh - Co-supervised with `Dr Brian Sellar <https://www.eng.ed.ac.uk/about/people/dr-brian-sellar>`_.
+    **Postdoctoral Researchers**
+
+    - **Dr Chris Old** - Senior Research Associate in Marine Renewable Energy (2022 - Present), School of Engineering, University of Edinburgh.
+
+    - **Dr Nguyen Chien** - Research Associate in Coastal Ocean Digital Twins (2023 - Present), School of Engineering, University of Edinburgh
+
+    **Postgraduate Researchers**
 
     - **Anastasia Fragkou** - PhD researcher (2019 - Present), Institute for Infrastructure & Environment, University of Edinburgh - Co-Supervised with `Prof Vengatesan Venugopal (Co-I) <https://www.eng.ed.ac.uk/about/people/dr-vengatesan-venugopal>`_.
 
