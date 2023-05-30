@@ -54,8 +54,6 @@ div.toggle .header:hover{
   color: white;
 }
 
-
-
 div.toggle .header.open:before {
    font-family: "FontAwesome";
    content: "\f107";
