@@ -58,7 +58,5 @@ Research Team
     - `Dr Danny Coles <https://www.plymouth.ac.uk/staff/danny-coles>`_, Research Fellow of INTERREG V A France (Channel) TIGER Project, School of Engineering, Computing and Mathematics, University of Plymouth. 
     - `Dr Efthalia Chatzisymeon <https://www.eng.ed.ac.uk/about/people/dr-efthalia-chatzisymeon>`_, Senior  Lecturer in Environmental  Engineering, School of  Engineering, University of  Edinburgh
     - `Dr Carlo Gualtieri <http://www.dicea.unina.it/docente.php?id=37>`_, Associate Professor of Environmental Hydraulics, Department of Civil Engineering, University of Napoli Federico II.
-    - `Stephan Kramer <https://www.imperial.ac.uk/people/s.kramer>`_, Research Associate in Ocean Modelling and Numerical Methods, Department of Earth Science & Engineering, Imperial College London.
-    - `Dr Alexandros Avdis <https://www.imperial.ac.uk/people/a.avdis>`_, Research Associate in Coastal & Ocean Modelling, Department of Earth Science & Engineering, Imperial College London.  
-    - `Dr Nicolas Barral <https://nicolasbarral.fr/>`_, Research Associate in Computational Geoscience, Department of Earth Science & Engineering, Imperial College London.
+    - `Dr Stephan Kramer <https://www.imperial.ac.uk/people/s.kramer>`_, Research Associate in Ocean Modelling and Numerical Methods, Department of Earth Science & Engineering, Imperial College London.
     - `Dr Paul Evans <https://www.linkedin.com/in/paulevans83/?originalSubdomain=uk>`_, Research Associate & Visiting Lecturer in Ocean Engineering, School of Engineering, Cardiff University.

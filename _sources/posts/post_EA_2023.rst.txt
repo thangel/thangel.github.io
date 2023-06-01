@@ -1,0 +1,23 @@
+UK studies on the wider energy system benefits of tidal stream 
+--------------------------------------------------------------
+A recent collaboration with researchers from *Imperial College London*, the *University of Plymouth* and the *ORE Catapult* led to a recent communication in *RSC's Energy Advances*. The study contributes to the future of tidal stream technologies, and the level of Levelised Cost of Energy (LCoE) that should be achieved to render it as a competitive energy technology within the UK's energy grid.
+
+**Abstract**
+
+With high predictability and a consistent energy availability profile, Tidal Stream (TS) could play an important part in the optimal future low-carbon energy mix, improving the supply reliability and system resilience through diversification of renewable energy supplementing wind and solar power. This paper summarises key findings from UK studies on the benefits of TS by assessing its impact on the overall energy system. The studies use the Integrated Whole Energy System (IWES) model to minimise the overall cost of the 2050 GB energy system with and without TS under different scenarios while respecting the net-zero emission target and reliability requirement. The results show that TS could displace some capacity of mid-merit or peaking plants, indicating some capacity value of offshore wind and lowering the levelised cost of wind power because of lower system integration costs. Diversifying energy resources and improving flexibility are crucial to coping with low-carbon energy resource variation. The studies also demonstrate that the value of TS by 2050 should be around £50 per MW per h, and this cost target could be achieved if a sufficient learning rate (10–15%) with 10 GW of installed capacity could be obtained in the transition period. Other sensitivity studies provide insight into the impact of location, heat decarbonisation pathways, lower annual wind capacity factor, system flexibility, and interconnection capacity on TS's wider energy system benefits.
+
+.. container :: copylink
+
+   .. raw :: html
+
+      <a href="https://pubs.rsc.org/en/content/articlelanding/2023/YA/D2YA00251E">UK studies on the wider energy system benefits of tidal stream , <b>RSC Energy Advances</b>, 2023</a> 
+
+
+.. post:: April 23, 2023
+   :tags: tidal, energy, fes, communication
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en
+
+

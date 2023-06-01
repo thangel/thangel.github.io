@@ -144,23 +144,36 @@ Research
 
     .. container :: note2 
 
-         .. container :: copylink
+        .. container :: copylink
+
+           .. raw :: html
+
+              <a href="https://pubs.rsc.org/en/content/articlelanding/2023/YA/D2YA00251E">UK studies on the wider energy system benefits of tidal stream , <b>RSC Energy Advances</b>, 2023</a> 
+
+        .. container :: copylink
+
+           .. raw :: html
+
+             <a href="https://link.springer.com/article/10.1007/s40722-022-00225-2">Combining shallow-water and analytical wake models for tidal array micro-siting, <b>Journal of Ocean Engineering and Marine Energy</b>, 2022</a> 
+
+
+        .. container :: copylink
 
            .. raw :: html
 
               <a href="https://royalsocietypublishing.org/doi/full/10.1098/rspa.2021.0469">A review of the UK and British Channel Islands practical tidal stream energy resource, <b>Proceedings of the Royal Society A</b>, 2021</a> 
 
-         .. container :: copylink
+        .. container :: copylink
 
             .. raw :: html
 
                 <a href="https://www.sciencedirect.com/science/article/pii/S0306261918319093">Utilising the flexible generation potential of tidal range power plants to optimise economic value, <b>Applied Energy</b>, 2019</a> 
 
-         .. container :: copylink
+        .. container :: copylink
 
             .. raw :: html
 
-                      <a href="https://www.sciencedirect.com/science/article/pii/S0306261917317671">Optimising tidal range power plant operation, <b>Applied Energy</b>, 2018</a> 
+                 <a href="https://www.sciencedirect.com/science/article/pii/S0306261917317671">Optimising tidal range power plant operation, <b>Applied Energy</b>, 2018</a> 
 
     
     
@@ -243,6 +256,13 @@ Research
 
 
     .. container :: note2 
+
+
+         .. container :: copylink
+
+           .. raw :: html
+
+                 <a href="https://www.sciencedirect.com/science/article/pii/S0141118720310531">Modelling an energetic tidal strait: investigating implications of common numerical configuration choices, <b>Applied Ocean Research</b>, 2021</a> 
 
 
          .. container :: copylink
