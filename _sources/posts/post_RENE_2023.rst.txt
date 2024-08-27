@@ -1,0 +1,21 @@
+Sensitivity of tidal range assessments to harmonic constituents and analysis timeframe
+--------------------------------------------------------------------------------------
+
+Recent work by PhD candidate Konstantinos Pappas on the sensitivity of tidal range analysis to the tidal signal tested are now discussed within *Renewable Energy*. The study is the result of a collaboration between the University of Edinburgh and Tidetec SA to improve tidal range energy resource assessments
+
+**Abstract**
+
+Tides exhibit variability over time. This study proposes a methodology for selecting a representative timeframe for tidal range energy analyses, when constrained to a typical, short-term, lunar month-long period. We explore how the selection of particular timeframes skews findings of energy assessments, especially for cross-comparisons across studies. This exercise relies on metrics assessing the magnitude and variability of a tidal signal relative to longer-term nodal cycle quantities. Results based on UK tide gauges highlight that tide characteristics exhibit significant variations temporally within a lunar month. Relative to quantities of tidal elevation standard deviation or average potential energy, values can vary by 15% and 30% respectively. For each lunar month, interquartile range values for tidal height and energy can deviate by 45% from the mean. Spatially, we observe a satisfactory correlation only once sufficient constituents are considered. In that case, a representative timeframe can be identified for comparative tidal range scheme assessments within the same tidal system. In contrast, timeframes with high tidal variability distort individual project performance, particularly under fixed operation. The methodology, if integrated to marine energy resource and environmental impact assessments, would deliver marine power generation insights over a project lifetime that enable robust design comparisons across sites.
+
+.. container :: copylink
+
+   .. raw :: html
+
+         <a href="https://www.sciencedirect.com/science/article/pii/S096014812300071X">Sensitivity of tidal range assessments to harmonic constituents and analysis timeframe, <b>Renewable Energy</b>, 2023</a> 
+
+.. post:: March 23, 2023
+   :tags: tidal, barrage, marine, energy
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en

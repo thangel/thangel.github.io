@@ -1,0 +1,21 @@
+Tidal range resource of the Patagonian shelf
+--------------------------------------------
+
+Collaboration with Vicki Barclay of Bangor University has led to a perspective on the potential of tidal range energy which is now accessible in *Renewable Energy*. 
+
+**Abstract**
+
+With vast potential for renewable energy conversion, the ocean could help reduce our reliance on fossil fuels. Of the various forms of ocean energy, tidal range power is both mature and predictable, dating back to 1966. However, only a few regions of the world are suited to tidal range power. Here, we examine the tidal range potential of the Patagonian shelf – estimated to contain over 100 GW of tidal dissipation. We use a high resolution global tidal atlas (TPXO9) to examine this resource from theoretical and technical perspectives. The theoretical resource is 913 TWh (104 GW) – considerably exceeding neighbouring Argentina’s electricity demand (143 TWh in 2021). We find that due to near-resonance with the semidiurnal tides, the resource is concentrated in two regions – Golfo de San Matías, and Bahía Grande to Río Grande. Three sites are chosen for further analysis after considering practical constraints such as water depth and proximity to the electricity grid. Through 0D modelling with tidal range power plant operation we find that the selected sites offer high energy extraction potential, exceeding 40% of the available resource. Further analysis shows how the combination of the sites can reduce the periods of no-generation to under 20%.
+
+.. container :: copylink
+
+   .. raw :: html
+
+         <a href="https://www.sciencedirect.com/science/article/pii/S0960148123004433">Tidal range resource of the Patagonian shelf, <b>Renewable Energy</b>, 2023</a> 
+
+.. post:: June 07, 2023
+   :tags: tidal, barrage, marine, patagonia
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en

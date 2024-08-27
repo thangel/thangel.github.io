@@ -1,0 +1,47 @@
+
+Tidal energy research conference contributions at RENEW 2022 & EWTEC 2023 
+-------------------------------------------------------------------------
+
+Recent progress on energy research were presented by Konstantinos Pappas and Can Zhang on  sensitivity of timeframes on tidal range analyses and tidal array sediment transport modelling at RENEW 2022 in Lisbon and by Connor Jordan, Misha Patel and Bryn Townley at EWTEC 2023 in Bilbao, showcasing work on tidal array optimisation, resource assessment, and device modelling respectivelly.
+
+
+.. container :: copylink
+
+   .. raw :: html
+
+      <a href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781003360773-22/investigating-effect-sediment-transport-tidal-turbine-array-performance-zhang-angeloudis-kramer-zhang-piggott"> Zhang et al.,  Investigating the effect of the sediment transport on tidal turbine array performance, <b>Trends in Renewable Energies Offshore</b>, 2022</a> 
+
+
+.. container :: copylink
+
+   .. raw :: html
+
+      <a href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781003360773-8/selecting-representative-tide-conditions-tidal-range-energy-assessments-pappas-angeloudis-mackie-zilakos"> Pappas et al., Selecting representative tide conditions for tidal range and energy assessments, <b>Trends in Renewable Energies Offshore</b>, 2022</a> 
+
+.. container :: copylink
+
+   .. raw :: html
+
+      <a href="https://ora.ox.ac.uk/objects/uuid:18952c90-1744-406b-943d-56fd7131448b/files/sdv13zv727"> Patel et al., Investigation of low order parameters affecting tidal stream energy resource assessments, <b>Proceedings of the 15th European Wave and Tidal Energy Conference</b>, 2023</a> 
+
+.. container :: copylink
+
+   .. raw :: html
+
+      <a href="https://submissions.ewtec.org/proc-ewtec/article/view/283"> Townley et al.,  Investigating the impact of multi-rotor structure shadowing on tidal stream turbine performance, <b>Proceedings of the 15th European Wave and Tidal Energy Conference</b>, 2023</a> 
+
+.. container :: copylink
+
+   .. raw :: html
+
+      <a href="https://submissions.ewtec.org/proc-ewtec/article/view/302"> Jordan et al.,   On tidal array layout sensitivity to regional and device model representation, <b>Proceedings of the 15th European Wave and Tidal Energy Conference</b>, 2023</a> 
+
+
+.. post:: September 7, 2023
+   :tags: tidal, ocean, energy
+   :category: conference
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en
+
+

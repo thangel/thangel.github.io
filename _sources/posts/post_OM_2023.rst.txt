@@ -1,0 +1,21 @@
+Benchmarking a two-way coupled coastal wave–current hydrodynamics model
+-----------------------------------------------------------------------
+
+Recent work by Anastasia Fragkou on the benchmarking of wave-current interactions through Thetis and SWAN are now reported in *Ocean Modelling*. This documents our efforts towards coupled modelling
+
+**Abstract**
+
+Wave–current interaction phenomena are often represented through coupled model frameworks in ocean modelling. However, benchmarking of these models is scarce, revealing a substantial research challenge. We seek to address this through a selection of cases for coupled wave–current interaction modelling. This comprises a series of analytical and experimental test cases spanning three diverse conditions of wave run-up, one scenario of waves opposing a current flow, and a 2-D arrangement of waves propagating over a submerged bar. We simulate these through coupling the spectral wave model, Simulating WAves Nearshore (SWAN), with the coastal hydrodynamics shallow-water equation model, Thetis, using the Basic Model Interface (BMI) structure. By comparing calibrated versus default parameter settings we identify and highlight calibration uncertainties that emerge across a range of potential applications. Calibrated model results exhibit good correlation against experimental and analytical data, alongside benchmarked wave–current model predictions, where available. Specifically, inter-model comparisons show equivalent accuracy. Finally, the coupled model we developed as part of this work showcases its ability to account for wave–current effects, in a manner extensible to other coupled processes through BMI and applicable to more complex geometries.
+
+.. container :: copylink
+
+   .. raw :: html
+
+         <a href="https://www.sciencedirect.com/science/article/pii/S1463500323000343">Benchmarking a two-way coupled coastal wave–current hydrodynamics model, <b>Ocean Modelling</b>, 2023</a> 
+
+.. post:: June 23, 2023
+   :tags: waves, current, interactions, coupled-models
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en
