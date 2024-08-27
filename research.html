@@ -133,8 +133,8 @@ continually tested using GitHub Actions.</p>
 </aside>
 <p class="sd-card-text">Thetis is an unstructured grid coastal ocean model built using the
 <a class="reference external" href="http://www.firedrakeproject.org/">Firedrake</a> finite element framework.
-Currently Thetis consists of 2D depth averaged and full 3D baroclinic models.</p>
-<p class="sd-card-text">Some example animations are shown below. More animations can be found in the
+Currently Thetis consists of 2D depth averaged and full 3D baroclinic models. Since 2016, it has been actively developed and documented on Github, and includes tutorials, demos and a number of examples to simulate a range of coastal ocean applications.</p>
+<p class="sd-card-text">Thetis example animations can be found in the
 <a class="reference external" href="https://www.youtube.com/channel/UC0FYtpH1unCy_qcoI46CnRA">Youtube channel</a>.</p>
 <p class="sd-card-text">Thetis is brought to you by the <a class="reference external" href="https://en.ilmatieteenlaitos.fi/">Finnish Meteorological Institute</a>,
 the <a class="reference external" href="https://www.eng.ed.ac.uk/research/institutes/iie">Institute for Infrastructure and Environment</a>
@@ -305,27 +305,6 @@ In terms of environmental fluid mechanics we are interested in mixing processes 
 <p><span style="font-size: 9px;">The University of Edinburgh is a charitable body, registered in Scotland, with registration number SC005336.</span></p>
 </div>
 
-<script type="text/javascript">
-    $(document).ready(function() {
-        $(".toggle > *").hide();
-        $(".toggle .header").show();
-        $(".toggle .header").click(function() {
-            $(this).parent().children().not(".header").toggle(400);
-            $(this).parent().children(".header").toggleClass("open");
-        })
-    });
-</script>
-
-<script type="text/javascript">
-    $(document).ready(function() {
-        $(".toggle2 > *").show();
-        $(".toggle2 .header").show();
-        $(".toggle2 .header").click(function() {
-            $(this).parent().children().not(".header").toggle(400);
-            $(this).parent().children(".header").toggleClass("open");
-        })
-    });
-</script>
 
 <script>
 window.onscroll = function() {myFunction()};
@@ -343,23 +322,6 @@ function myFunction() {
 </script>
 
 
-
-<script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.maxHeight){
-      content.style.maxHeight = null;
-    } else {
-      content.style.maxHeight = content.scrollHeight + "px";
-    }
-  });
-}
-</script>
 
 
   </body>

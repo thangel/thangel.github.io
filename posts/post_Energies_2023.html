@@ -161,27 +161,6 @@ gtag('config', 'UA-152683855-1');
 <p><span style="font-size: 9px;">The University of Edinburgh is a charitable body, registered in Scotland, with registration number SC005336.</span></p>
 </div>
 
-<script type="text/javascript">
-    $(document).ready(function() {
-        $(".toggle > *").hide();
-        $(".toggle .header").show();
-        $(".toggle .header").click(function() {
-            $(this).parent().children().not(".header").toggle(400);
-            $(this).parent().children(".header").toggleClass("open");
-        })
-    });
-</script>
-
-<script type="text/javascript">
-    $(document).ready(function() {
-        $(".toggle2 > *").show();
-        $(".toggle2 .header").show();
-        $(".toggle2 .header").click(function() {
-            $(this).parent().children().not(".header").toggle(400);
-            $(this).parent().children(".header").toggleClass("open");
-        })
-    });
-</script>
 
 <script>
 window.onscroll = function() {myFunction()};
@@ -199,23 +178,6 @@ function myFunction() {
 </script>
 
 
-
-<script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.maxHeight){
-      content.style.maxHeight = null;
-    } else {
-      content.style.maxHeight = content.scrollHeight + "px";
-    }
-  });
-}
-</script>
 
 
   </body>
