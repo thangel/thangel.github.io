@@ -35,11 +35,7 @@ All posts with links to more information can be accessed below.
       <a href="blog.html"> All posts</a> 
 
 
-.. container:: toggle
-
-    .. container:: header
-
-       *Archive*
+.. dropdown::  *Archive*
 
     .. raw :: html
 
