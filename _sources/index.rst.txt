@@ -134,14 +134,7 @@ Contact
        <a href="https://twitter.com/aangeloudis">@AAngeloudis</a> 
 
 
-
-.. container:: toggle2
-
-    .. container:: header
-
-        *Further information & links*
-
-  
+.. dropdown:: *Further information & links*
 
     .. container :: leftside
      
@@ -217,11 +210,7 @@ Contact
 
               <a href="https://github.com/thangel">Github </a> 
 
-.. container:: toggle2
-
-    .. container:: header
-
-        *Supporters & Partners*
+.. dropdown:: *Supporters & Partners*
 
     
     .. raw:: html
@@ -238,15 +227,6 @@ Contact
       <a href="https://tidetec.com/"> <image style="height: 50px; padding:10px" src="https://www.dropbox.com/s/xl1yv9yucmmb94b/tidetec.png?raw=1"> </a>
 
       </center>
-
-.. .. <a href="https://scholar.google.com/citations?user=omIi6Z8AAAAJ&hl=en&authuser=1"> <image style="height: 50px; filter: invert(7%) sepia(97%) saturate(5749%) hue-rotate(359deg) brightness(94%) contrast(86%); padding:10px" src="_static/solid/user-graduate.svg"> </a>
-.. .. image:: support/ukri.png
-..    :align: center
-..    :height: 50 px
-.. .. image:: support/uoe.png
-..    :align: center
-..    :height: 50 px
-
 
 
 .. toctree::

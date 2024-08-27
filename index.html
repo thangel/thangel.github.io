@@ -43,10 +43,12 @@ gtag('config', 'UA-152683855-1');
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=fa44fd50" />
     <link rel="stylesheet" type="text/css" href="_static/personal.css?v=b1d2e29d" />
     <link rel="stylesheet" type="text/css" href="_static/plot_directive.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
     <link rel="stylesheet" href="_static/custom.css" type="text/css" />
     <script src="_static/documentation_options.js?v=5929fcd5"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
     <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/design-tabs.js?v=f930bc37"></script>
     <script async="async" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
@@ -145,10 +147,9 @@ gtag('config', 'UA-152683855-1');
 <a href="https://twitter.com/aangeloudis"> <image class="filter-pdf" alt="|E-mail|" src="_static/solid/twitter.svg"> </a></div>
 <div class="rightside docutils container">
 <a href="https://twitter.com/aangeloudis">@AAngeloudis</a></div>
-<div class="toggle2 docutils container">
-<div class="header docutils container">
-<p><em>Further information &amp; links</em></p>
-</div>
+<details class="sd-sphinx-override sd-dropdown sd-card sd-mb-3">
+<summary class="sd-summary-title sd-card-header">
+<span class="sd-summary-text"><em>Further information &amp; links</em></span><span class="sd-summary-state-marker sd-summary-chevron-right"><svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-right" viewBox="0 0 24 24" aria-hidden="true"><path d="M8.72 18.78a.75.75 0 0 1 0-1.06L14.44 12 8.72 6.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"></path></svg></span></summary><div class="sd-summary-content sd-card-body docutils">
 <div class="leftside docutils container">
 <a href="https://www.dropbox.com/s/l28z4yxg4wymd9y/cv.pdf?raw=1"><i class="fas fa-file-alt" style="font-size: 1.3em"></i></a></div>
 <div class="rightside docutils container">
@@ -174,10 +175,9 @@ gtag('config', 'UA-152683855-1');
 <div class="rightside docutils container">
 <a href="https://github.com/thangel">Github </a></div>
 </div>
-<div class="toggle2 docutils container">
-<div class="header docutils container">
-<p><em>Supporters &amp; Partners</em></p>
-</div>
+</details><details class="sd-sphinx-override sd-dropdown sd-card sd-mb-3">
+<summary class="sd-summary-title sd-card-header">
+<span class="sd-summary-text"><em>Supporters &amp; Partners</em></span><span class="sd-summary-state-marker sd-summary-chevron-right"><svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-right" viewBox="0 0 24 24" aria-hidden="true"><path d="M8.72 18.78a.75.75 0 0 1 0-1.06L14.44 12 8.72 6.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"></path></svg></span></summary><div class="sd-summary-content sd-card-body docutils">
 <center>
 <a href="https://nerc.ukri.org/"> <image style="height: 60px; padding:10px" src="_static/nerc-logo.jpg"> </a>
 
@@ -190,7 +190,7 @@ gtag('config', 'UA-152683855-1');
 <a href="https://tidetec.com/"> <image style="height: 50px; padding:10px" src="https://www.dropbox.com/s/xl1yv9yucmmb94b/tidetec.png?raw=1"> </a>
 
 </center></div>
-<div class="toctree-wrapper compound">
+</details><div class="toctree-wrapper compound">
 </div>
 </section>
 
@@ -258,6 +258,25 @@ function myFunction() {
   } else {
     navbar.classList.remove("sticky");
   }
+}
+</script>
+
+
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    }
+  });
 }
 </script>
 

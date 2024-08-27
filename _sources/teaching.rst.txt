@@ -2,7 +2,7 @@
    sphinx-quickstart on Fri May 18 18:18:29 2018.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
-   
+
 .. only:: html 
 .. _email: mailto: a.angeloudis@ed.ac.uk
 
@@ -12,11 +12,7 @@ Teaching
 This section summarises teaching responsibilities within the Discipline of Civil & Environmental Engineering.
 
 
-.. container:: toggle
-
-    .. container:: header
-
-        *Hydraulic Engineering IV*
+.. dropdown:: *Hydraulic Engineering IV*
 
     .. container :: note2 
 
@@ -25,11 +21,7 @@ This section summarises teaching responsibilities within the Discipline of Civil
     *Hydraulic Engineering IV* is a 4th year undergraduate civil engineering module on unsteady flows. I deliver material on open channel flows and hydraulic transients in pipe systems. Specifically, the content covers specifically flood routing, St Venant Equations, Solitary Waves, Surges and Coastal Waves and the Water Hammer phenomenon. `Course Website <http://www.drps.ed.ac.uk/18-19/dpt/cxcive10006.htm>`_ 
 
 
-.. container:: toggle
-
-    .. container:: header
-
-        *Water  Engineering, Transport & Treatment III*
+.. dropdown:: *Water  Engineering, Transport & Treatment III*
 
     .. container :: note2 
 
@@ -43,11 +35,7 @@ Educational Resources
 
 General information  on the broader themes that relate to our research activities. 
 
-.. container:: toggle2
-
-    .. container:: header
-
-        *Tidal Energy Open Educational Resource*
+.. dropdown::  *Tidal Energy Open Educational Resource*
 
     .. container :: note2 
 

@@ -16,11 +16,8 @@
 Opportunities
 -------------
 
-.. container:: toggle2
-
-    .. container:: header
-
-        *Current Opportunities*
+.. dropdown:: *Current Opportunities*
+   :open:
 
         
     - **I welcome applications for PhD applicants at The University of Edinburgh for research on Offshore, Coastal and Estuarine engineering**.
@@ -32,11 +29,7 @@ Opportunities
 
 ..      The funding is sourced from The University of Edinburgh and is available for UK/EU candidates. If you are interested to know more, feel free to contact me by `email`_.
 
-.. container:: toggle2
-
-   .. container:: header
-
-      *PhD Applicants*
+.. dropdown:: *PhD Applicants*
 
    If you wish to study for a PhD and/or attain a studentship at the University of Edinburgh, the first step to join our team is to apply `online <www.eng.ed.ac.uk/postgraduate/research/apply>`_.  During the application process, you will be asked to prepare a research proposal together with the further documentation regarding your background. During this process you will have to specify your preferred supervisor.
 

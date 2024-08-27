@@ -43,10 +43,12 @@ gtag('config', 'UA-152683855-1');
     <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=fa44fd50" />
     <link rel="stylesheet" type="text/css" href="_static/personal.css?v=b1d2e29d" />
     <link rel="stylesheet" type="text/css" href="_static/plot_directive.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
     <link rel="stylesheet" href="_static/custom.css" type="text/css" />
     <script src="_static/documentation_options.js?v=5929fcd5"></script>
     <script src="_static/doctools.js?v=9a2dae69"></script>
     <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/design-tabs.js?v=f930bc37"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="next" title="Teaching" href="teaching.html" />
@@ -103,15 +105,14 @@ gtag('config', 'UA-152683855-1');
 <section id="projects">
 <h1>Projects<a class="headerlink" href="#projects" title="Link to this heading">¶</a></h1>
 <p><strong>Active projects</strong></p>
-<div class="toggle2 docutils container">
-<div class="header docutils container">
-<p><em>EC H2020 ILIAD</em></p>
-</div>
-<p></p>
+<details class="sd-sphinx-override sd-dropdown sd-card sd-mb-3" open="open">
+<summary class="sd-summary-title sd-card-header">
+<span class="sd-summary-text"><em>EC H2020 ILIAD</em></span><span class="sd-summary-state-marker sd-summary-chevron-right"><svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-right" viewBox="0 0 24 24" aria-hidden="true"><path d="M8.72 18.78a.75.75 0 0 1 0-1.06L14.44 12 8.72 6.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"></path></svg></span></summary><div class="sd-summary-content sd-card-body docutils">
+<p class="sd-card-text"></p>
 <div class="min-section docutils container">
 <div class="profileright docutils container">
-<p><em>The project spans 2022-2025 and was funded by the European Commission through the H2020 framework</em></p>
-<p>The EC H2020 ILIAD (Integrated Digital Twins for Marine and Maritime Data and Information Services) project seeks to deliver Digital Twins of the Ocean space around Europe using a suite of pilot test cases relating to a range of marine spatial planning purposes. The EU has awarded €17 million to ILIAD. This international project will create a European Digital Twin of the Ocean (DTO) that will combine high-resolution modelling with real-time sensing of ocean parameters. The role of Edinburgh is supporting the hydroenvironmental modelling at different pilots, with a focus on ocean energy and ocean data management.</p>
+<p class="sd-card-text"><em>The project spans 2022-2025 and was funded by the European Commission through the H2020 framework</em></p>
+<p class="sd-card-text">The EC H2020 ILIAD (Integrated Digital Twins for Marine and Maritime Data and Information Services) project seeks to deliver Digital Twins of the Ocean space around Europe using a suite of pilot test cases relating to a range of marine spatial planning purposes. The EU has awarded €17 million to ILIAD. This international project will create a European Digital Twin of the Ocean (DTO) that will combine high-resolution modelling with real-time sensing of ocean parameters. The role of Edinburgh is supporting the hydroenvironmental modelling at different pilots, with a focus on ocean energy and ocean data management.</p>
 </div>
 <div class="profileleft docutils container">
 <center>
@@ -121,16 +122,41 @@ gtag('config', 'UA-152683855-1');
 </center></div>
 </div>
 </div>
-<p><strong>Completed projects</strong></p>
-<p>A list of completed projects is outlined below</p>
-<div class="toggle docutils container">
-<div class="header docutils container">
-<p><em>EPSRC FlexiFund FASTWATER</em> (2021-2022)</p>
-<p></p>
+</details><details class="sd-sphinx-override sd-dropdown sd-card sd-mb-3">
+<summary class="sd-summary-title sd-card-header">
+<span class="sd-summary-text"><em>The Thetis project</em></span><span class="sd-summary-state-marker sd-summary-chevron-right"><svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-right" viewBox="0 0 24 24" aria-hidden="true"><path d="M8.72 18.78a.75.75 0 0 1 0-1.06L14.44 12 8.72 6.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"></path></svg></span></summary><div class="sd-summary-content sd-card-body docutils">
+<aside class="sidebar">
+<p class="sidebar-title">Current development status</p>
+<p class="sd-card-text"><a class="reference external" href="https://github.com/thetisproject/thetis/actions/workflows/build.yml"><img alt="thetisbuild" src="https://github.com/thetisproject/thetis/actions/workflows/build.yml/badge.svg" /></a></p>
+<p class="sd-card-text">Thetis source code is hosted on  <a class="reference external" href="https://github.com/thetisproject/thetis/">Github</a> and is being
+continually tested using GitHub Actions.</p>
+</aside>
+<p class="sd-card-text">Thetis is an unstructured grid coastal ocean model built using the
+<a class="reference external" href="http://www.firedrakeproject.org/">Firedrake</a> finite element framework.
+Currently Thetis consists of 2D depth averaged and full 3D baroclinic models.</p>
+<p class="sd-card-text">Some example animations are shown below. More animations can be found in the
+<a class="reference external" href="https://www.youtube.com/channel/UC0FYtpH1unCy_qcoI46CnRA">Youtube channel</a>.</p>
+<p class="sd-card-text">Thetis is brought to you by the <a class="reference external" href="https://en.ilmatieteenlaitos.fi/">Finnish Meteorological Institute</a>,
+the <a class="reference external" href="https://www.eng.ed.ac.uk/research/institutes/iie">Institute for Infrastructure and Environment</a>
+at <a class="reference external" href="https://www.ed.ac.uk/">University of Edinburgh</a>
+and the departments of
+<a class="reference external" href="http://www.imperial.ac.uk/computing/">Computing</a>,
+<a class="reference external" href="http://www3.imperial.ac.uk/mathematics">Mathematics</a>, and
+<a class="reference external" href="http://www.imperial.ac.uk/ese/">Earth Science and Engineering</a> at
+<a class="reference external" href="http://www3.imperial.ac.uk">Imperial College London</a>.</p>
+<p class="sd-card-text">More details can be found at the dedicated <a class="reference external" href="https://thetisproject.org/">Thetis</a> page</p>
 </div>
+</details><p><strong>Completed projects</strong></p>
+<p>A list of completed projects is outlined below</p>
+<details class="sd-sphinx-override sd-dropdown sd-card sd-mb-3">
+<summary class="sd-summary-title sd-card-header">
+<span class="sd-summary-text"><em>EPSRC FlexiFund FASTWATER</em> (2021-2022)</span><span class="sd-summary-state-marker sd-summary-chevron-right"><svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-right" viewBox="0 0 24 24" aria-hidden="true"><path d="M8.72 18.78a.75.75 0 0 1 0-1.06L14.44 12 8.72 6.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"></path></svg></span></summary><div class="sd-summary-content sd-card-body docutils">
+<blockquote>
+<div><p class="sd-card-text"></p>
+</div></blockquote>
 <div class="min-section docutils container">
 <div class="profileright docutils container">
-<p>The FASTWATER project couples recent research findings, including datasets and open-source models, with robust calibration methodologies informed by best practice across multiple sectors. The project is an inter-disciplinary collaboration between Engineering and Mathematics, supported and demand-driven by Industrial partners. The research will develop and demonstrate universal methodologies trialled in Scottish waters, where extensive datasets and open-source 3D model elements are available within the team. FASTWATER will deliver three key project outputs. The first is a new fully open-source framework, data and methods (the FASTWATER Platform), needed to operate and increase adoption of numerical simulations of dynamic coastal regions through ease-of-use, reliability and transparency.</p>
+<p class="sd-card-text">The FASTWATER project couples recent research findings, including datasets and open-source models, with robust calibration methodologies informed by best practice across multiple sectors. The project is an inter-disciplinary collaboration between Engineering and Mathematics, supported and demand-driven by Industrial partners. The research will develop and demonstrate universal methodologies trialled in Scottish waters, where extensive datasets and open-source 3D model elements are available within the team. FASTWATER will deliver three key project outputs. The first is a new fully open-source framework, data and methods (the FASTWATER Platform), needed to operate and increase adoption of numerical simulations of dynamic coastal regions through ease-of-use, reliability and transparency.</p>
 </div>
 <div class="profileleft docutils container">
 <center>
@@ -138,16 +164,15 @@ gtag('config', 'UA-152683855-1');
 </center></div>
 </div>
 </div>
-<div class="toggle docutils container">
-<div class="header docutils container">
-<p><em>UKRI/NERC Industrial Innovation Fellowship on tidal energy</em> (2018-2021)</p>
-</div>
-<p></p>
+</details><details class="sd-sphinx-override sd-dropdown sd-card sd-mb-3">
+<summary class="sd-summary-title sd-card-header">
+<span class="sd-summary-text"><em>UKRI/NERC Industrial Innovation Fellowship on tidal energy</em> (2018-2021)</span><span class="sd-summary-state-marker sd-summary-chevron-right"><svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-right" viewBox="0 0 24 24" aria-hidden="true"><path d="M8.72 18.78a.75.75 0 0 1 0-1.06L14.44 12 8.72 6.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"></path></svg></span></summary><div class="sd-summary-content sd-card-body docutils">
+<p class="sd-card-text"></p>
 <div class="min-section docutils container">
 <div class="profileright docutils container">
-<p><em>This project was run between 2018-2021 at Imperial College London and the University of Edinburgh</em></p>
-<p>For tidal range-based technologies, the UK Government’s “Hendry review”, released on the 10th of Feb 2017, recommended that tidal lagoons (tidal range structures) can play an important role in the UK’s energy mix. This provides a roadmap towards the development of lagoons, with several industrial projects under consideration.This project seeks  built on this strong position by providing timely research on the environmental and ecological impacts of new, larger tidal developments in a manner that supports decision making by stakeholders, including coastal engineers, financiers, and primarily those concerned with environmental impacts. Research focused on the optimal spatial planning and operational control of prospective tidal range projects. Recent computational modelling findings suggest that up-scaling the development of marine energy infrastructure beyond the pilot scale poses a formidable challenge. Industrial proposals need to comprehensively evaluate and compensate for impacts on environmental processes that relate to water quality for sensitive species and tidal dynamics alterations. A quantification of environmental impacts (e.g. tidal flushing, Dissolved Oxygen) via simulation software can become computationally demanding when multiple processes are modelled at a large scale. Opportunities to reduce the computational load could stem from the fact that many of the environmental constraints can be described as objective functions. The optimisation strategy presented is fully coupled to the underlying tidal dynamics, so that changes to tidal range structure design and control can feed back to the hydro-environmental processes and vice-versa. The research was conducted at the interface of academia and industry, and has been informed by marine energy developers, technical consultants and experts in environmental and coastal processes. The overarching motivation of the research will be to inform environmental impact assessment practices and the sustainable development of upcoming clean energy technologies that will be developed by the UK’s industry.</p>
-<p>More information on project outputs can be found <a class="reference external" href="https://gtr.ukri.org/projects?ref=NE%2FR013209%2F2">here</a>.</p>
+<p class="sd-card-text"><em>This project was run between 2018-2021 at Imperial College London and the University of Edinburgh</em></p>
+<p class="sd-card-text">For tidal range-based technologies, the UK Government’s “Hendry review”, released on the 10th of Feb 2017, recommended that tidal lagoons (tidal range structures) can play an important role in the UK’s energy mix. This provides a roadmap towards the development of lagoons, with several industrial projects under consideration.This project seeks  built on this strong position by providing timely research on the environmental and ecological impacts of new, larger tidal developments in a manner that supports decision making by stakeholders, including coastal engineers, financiers, and primarily those concerned with environmental impacts. Research focused on the optimal spatial planning and operational control of prospective tidal range projects. Recent computational modelling findings suggest that up-scaling the development of marine energy infrastructure beyond the pilot scale poses a formidable challenge. Industrial proposals need to comprehensively evaluate and compensate for impacts on environmental processes that relate to water quality for sensitive species and tidal dynamics alterations. A quantification of environmental impacts (e.g. tidal flushing, Dissolved Oxygen) via simulation software can become computationally demanding when multiple processes are modelled at a large scale. Opportunities to reduce the computational load could stem from the fact that many of the environmental constraints can be described as objective functions. The optimisation strategy presented is fully coupled to the underlying tidal dynamics, so that changes to tidal range structure design and control can feed back to the hydro-environmental processes and vice-versa. The research was conducted at the interface of academia and industry, and has been informed by marine energy developers, technical consultants and experts in environmental and coastal processes. The overarching motivation of the research will be to inform environmental impact assessment practices and the sustainable development of upcoming clean energy technologies that will be developed by the UK’s industry.</p>
+<p class="sd-card-text">More information on project outputs can be found <a class="reference external" href="https://gtr.ukri.org/projects?ref=NE%2FR013209%2F2">here</a>.</p>
 </div>
 <div class="profileleft docutils container">
 <center>
@@ -155,7 +180,7 @@ gtag('config', 'UA-152683855-1');
 </center></div>
 </div>
 </div>
-</section>
+</details></section>
 <section id="research">
 <h1>Research<a class="headerlink" href="#research" title="Link to this heading">¶</a></h1>
 <div class="min-section docutils container">
@@ -170,14 +195,13 @@ gtag('config', 'UA-152683855-1');
 <p style="font-size:0.7em; font-weight:400; ">Flow through a tidal strait; Ramsey Sound, UK. Mackie et al. 2019</p>
 </div></div>
 </div>
-<div class="toggle docutils container">
-<div class="header docutils container">
-<p><em>Marine renewable energy</em></p>
-</div>
-<p></p>
+<details class="sd-sphinx-override sd-dropdown sd-card sd-mb-3">
+<summary class="sd-summary-title sd-card-header">
+<span class="sd-summary-text"><em>Marine renewable energy</em></span><span class="sd-summary-state-marker sd-summary-chevron-right"><svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-right" viewBox="0 0 24 24" aria-hidden="true"><path d="M8.72 18.78a.75.75 0 0 1 0-1.06L14.44 12 8.72 6.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"></path></svg></span></summary><div class="sd-summary-content sd-card-body docutils">
+<p class="sd-card-text"></p>
 <div class="profileright docutils container">
-<p>An attractive route towards decarbonising infrastructure is the strategic deployment of tidal energy technologies. Our work has so far focused on the development of state-of-the-art software, towards  addressing engineering challenges  associated with the energy output and environmental impacts.</p>
-<p>The research stream on marine energy is currently supported by the EC H2020 ILIAD project (2022-2025) that aims to deliver a digital twin of the ocean around EU waters, an EPSRC ORE Supergen  Flexifund project (FASTWATER,2021-2022). Previously, activities in this area were supported by the NERC fellowship grant <a class="reference external" href="http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/R013209/1">NE/R013209/1</a> and <a class="reference external" href="http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/R013209/2">NE/R013209/2</a> : Tidal energy operational and spatial planning optimisation.</p>
+<p class="sd-card-text">An attractive route towards decarbonising infrastructure is the strategic deployment of tidal energy technologies. Our work has so far focused on the development of state-of-the-art software, towards  addressing engineering challenges  associated with the energy output and environmental impacts.</p>
+<p class="sd-card-text">The research stream on marine energy is currently supported by the EC H2020 ILIAD project (2022-2025) that aims to deliver a digital twin of the ocean around EU waters, an EPSRC ORE Supergen  Flexifund project (FASTWATER,2021-2022). Previously, activities in this area were supported by the NERC fellowship grant <a class="reference external" href="http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/R013209/1">NE/R013209/1</a> and <a class="reference external" href="http://gotw.nerc.ac.uk/list_full.asp?pcode=NE/R013209/2">NE/R013209/2</a> : Tidal energy operational and spatial planning optimisation.</p>
 </div>
 <div class="profileleft docutils container">
 <div>
@@ -199,16 +223,15 @@ gtag('config', 'UA-152683855-1');
 <a href="https://www.sciencedirect.com/science/article/pii/S0306261917317671">Optimising tidal range power plant operation, <b>Applied Energy</b>, 2018</a></div>
 </div>
 </div>
-<div class="toggle docutils container">
-<div class="header docutils container">
-<p><em>Water treatment hydrodynamics</em></p>
-</div>
-<p></p>
+</details><details class="sd-sphinx-override sd-dropdown sd-card sd-mb-3">
+<summary class="sd-summary-title sd-card-header">
+<span class="sd-summary-text"><em>Water treatment hydrodynamics</em></span><span class="sd-summary-state-marker sd-summary-chevron-right"><svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-right" viewBox="0 0 24 24" aria-hidden="true"><path d="M8.72 18.78a.75.75 0 0 1 0-1.06L14.44 12 8.72 6.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"></path></svg></span></summary><div class="sd-summary-content sd-card-body docutils">
+<p class="sd-card-text"></p>
 <div class="profileright docutils container">
-<p>We  are interested in the effects of discharge outfalls and the implications of hydrodynamic-driven alterations on meeting water quality standards and directives. Outputs related to this stream include findings on water treatment process hydrodynamics, such as:</p>
+<p class="sd-card-text">We  are interested in the effects of discharge outfalls and the implications of hydrodynamic-driven alterations on meeting water quality standards and directives. Outputs related to this stream include findings on water treatment process hydrodynamics, such as:</p>
 <ul class="simple">
-<li><p>Identification of detrimental hydrodynamic structures and flow patterns and the interpretation of how these affect kinetic processes.</p></li>
-<li><p>A methodology that employs CFD model insight to diagnose the performance of water treatment tanks, departing from “black box” practices.</p></li>
+<li><p class="sd-card-text">Identification of detrimental hydrodynamic structures and flow patterns and the interpretation of how these affect kinetic processes.</p></li>
+<li><p class="sd-card-text">A methodology that employs CFD model insight to diagnose the performance of water treatment tanks, departing from “black box” practices.</p></li>
 </ul>
 </div>
 <div class="profileleft docutils container">
@@ -227,11 +250,10 @@ gtag('config', 'UA-152683855-1');
 <a href="https://www.sciencedirect.com/science/article/pii/S0043135414003224">Predicting the disinfection efficiency range in chlorine contact tanks through a CFD-based approach, <b>Water Research</b>, 2014</a></div>
 </div>
 </div>
-<div class="toggle docutils container">
-<div class="header docutils container">
-<p><em>Environmental fluid mechanics</em></p>
-</div>
-<p>The common factor between the application-focused streams outlined above is the application and development of numerical models that can be extended to more fundamental or generalised engineering applications.
+</details><details class="sd-sphinx-override sd-dropdown sd-card sd-mb-3">
+<summary class="sd-summary-title sd-card-header">
+<span class="sd-summary-text"><em>Environmental fluid mechanics</em></span><span class="sd-summary-state-marker sd-summary-chevron-right"><svg version="1.1" width="1.5em" height="1.5em" class="sd-octicon sd-octicon-chevron-right" viewBox="0 0 24 24" aria-hidden="true"><path d="M8.72 18.78a.75.75 0 0 1 0-1.06L14.44 12 8.72 6.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"></path></svg></span></summary><div class="sd-summary-content sd-card-body docutils">
+<p class="sd-card-text">The common factor between the application-focused streams outlined above is the application and development of numerical models that can be extended to more fundamental or generalised engineering applications.
 Recent examples include studies on the formation of depth-averaged vortices in oscillatory flows through inlets, the turbulent flow past bluff bodies and simple geometries.
 In terms of environmental fluid mechanics we are interested in mixing processes and the characterisation of anthropogenic effects on coastal, estuarine and fluvial processes.</p>
 <div id="images">
@@ -251,7 +273,7 @@ In terms of environmental fluid mechanics we are interested in mixing processes 
 <a href="https://www.mdpi.com/2311-5521/2/2/17">On the Values for the Turbulent Schmidt Number in Environmental Flows , <b>Fluids</b>, 2017</a></div>
 </div>
 </div>
-</section>
+</details></section>
 
 <div class="section ablog__blog_comments">
    
@@ -317,6 +339,25 @@ function myFunction() {
   } else {
     navbar.classList.remove("sticky");
   }
+}
+</script>
+
+
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    }
+  });
 }
 </script>
 

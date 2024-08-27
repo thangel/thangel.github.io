@@ -12,11 +12,8 @@ Projects
 **Active projects**
 
 
-.. container:: toggle2
-
-    .. container:: header
-
-       *EC H2020 ILIAD*
+.. dropdown:: *EC H2020 ILIAD*
+    :open:
 
     \
 
@@ -39,16 +36,48 @@ Projects
                       </center>
 
 
+.. dropdown:: *The Thetis project*
+
+    
+
+    .. only:: html
+
+      .. sidebar:: Current development status
+
+        |thetisbuild|
+
+        Thetis source code is hosted on  `Github
+        <https://github.com/thetisproject/thetis/>`__ and is being
+        continually tested using GitHub Actions.
+
+        .. |thetisbuild| image:: https://github.com/thetisproject/thetis/actions/workflows/build.yml/badge.svg
+                                 :target: https://github.com/thetisproject/thetis/actions/workflows/build.yml
+
+
+    Thetis is an unstructured grid coastal ocean model built using the
+    `Firedrake <http://www.firedrakeproject.org/>`__ finite element framework.
+    Currently Thetis consists of 2D depth averaged and full 3D baroclinic models.
+
+    Some example animations are shown below. More animations can be found in the
+    `Youtube channel <https://www.youtube.com/channel/UC0FYtpH1unCy_qcoI46CnRA>`__.
+
+    Thetis is brought to you by the `Finnish Meteorological Institute <https://en.ilmatieteenlaitos.fi/>`_,
+    the `Institute for Infrastructure and Environment <https://www.eng.ed.ac.uk/research/institutes/iie>`_
+    at `University of Edinburgh <https://www.ed.ac.uk/>`_
+    and the departments of
+    `Computing <http://www.imperial.ac.uk/computing/>`_,
+    `Mathematics <http://www3.imperial.ac.uk/mathematics>`_, and
+    `Earth Science and Engineering <http://www.imperial.ac.uk/ese/>`_ at
+    `Imperial College London <http://www3.imperial.ac.uk>`_.
+    
+    More details can be found at the dedicated `Thetis <https://thetisproject.org/>`__ page
+
 **Completed projects**
 
 
 A list of completed projects is outlined below
 
-.. container:: toggle
-
-    .. container:: header
-
-        *EPSRC FlexiFund FASTWATER* (2021-2022)
+.. dropdown:: *EPSRC FlexiFund FASTWATER* (2021-2022)
 
         \
 
@@ -67,11 +96,7 @@ A list of completed projects is outlined below
                   </center>
 
 
-.. container:: toggle
-
-    .. container:: header
-
-       *UKRI/NERC Industrial Innovation Fellowship on tidal energy* (2018-2021)
+.. dropdown:: *UKRI/NERC Industrial Innovation Fellowship on tidal energy* (2018-2021)
 
     \
 
@@ -116,11 +141,7 @@ Research
 
     
 
-.. container:: toggle
-
-    .. container:: header
-
-       *Marine renewable energy*
+.. dropdown:: *Marine renewable energy*
 
     \
 
@@ -183,11 +204,7 @@ Research
     For example, the animations present hydrodynamics simulations from the `Thetis <http://thetisproject.org/>`_ software, as adapted for the simulation of tidal range power plant operation, building on the existing tidal stream array optimisation capabilities.
 
 
-.. container:: toggle
-
-    .. container:: header
-
-        *Water treatment hydrodynamics*
+.. dropdown:: *Water treatment hydrodynamics*
 
     \
     
@@ -233,11 +250,7 @@ Research
 
 
 
-.. container:: toggle
-
-    .. container:: header
-
-        *Environmental fluid mechanics*
+.. dropdown::  *Environmental fluid mechanics*
 
     The common factor between the application-focused streams outlined above is the application and development of numerical models that can be extended to more fundamental or generalised engineering applications. 
     Recent examples include studies on the formation of depth-averaged vortices in oscillatory flows through inlets, the turbulent flow past bluff bodies and simple geometries. 

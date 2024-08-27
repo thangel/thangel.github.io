@@ -54,14 +54,6 @@ div.toggle .header:hover{
   color: white;
 }
 
-div.toggle .header.open:before {
-   font-family: "FontAwesome";
-   content: "\f107";
-   display: inline-block;
-   vertical-align: middle;
-   font-weight:900;
-}
-
 div.toggle2 .header:before {
    font-family: "FontAwesome";
    content: "\f107";
@@ -82,10 +74,6 @@ div.toggle2 .header.open:before {
    font-weight:900;
 }
 
-div.toggle .header:hover{
-  background-color: #9b3717;
-  color: white;
-}
 div.toggle2 .header:hover{
   background-color: #9b3717;
   color: white;
@@ -356,4 +344,6 @@ div.profileleft {
 div.profileright {
   width: 100%;
 }
+
+
 }

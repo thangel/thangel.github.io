@@ -43,10 +43,12 @@ gtag('config', 'UA-152683855-1');
     <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=fa44fd50" />
     <link rel="stylesheet" type="text/css" href="../_static/personal.css?v=b1d2e29d" />
     <link rel="stylesheet" type="text/css" href="../_static/plot_directive.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-design.min.css?v=95c83b7e" />
     <link rel="stylesheet" href="../_static/custom.css" type="text/css" />
     <script src="../_static/documentation_options.js?v=5929fcd5"></script>
     <script src="../_static/doctools.js?v=9a2dae69"></script>
     <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="../_static/design-tabs.js?v=f930bc37"></script>
     <script async="async" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
@@ -294,7 +296,7 @@ Nonetheless, there are several factors that will dictate the development of tida
 <li><p>Socio-economics and public perception</p></li>
 </ul>
 <blockquote>
-<div><p>Tidal range power plants are typically classed as large infrastructure projects situated in coastal and estuarine zones. Proposed designs must accordingly balance and acknowledge the multiple uses of the marine space for economic, social and recreational purposes. As such, feasibility is not merely dictated by maximising the energy extraction or profit from a site, but also the need to demonstrate the scheme’s acceptability relative to other uses of the same marine space occupied by the impoundment. Proponents of tidal range projects highlight the vast long-term and low-maintenance marine energy resource offered, as well as the substantial employment and regeneration opportunities presented. Nonetheless, a key factor for public acceptability regards the impact of a scheme on the local environment. Addressing this issue for marine infrastructure has been integrated into planning law. An example of this is the EU’s <a class="reference external" href="&quot;https://ec.europa.eu/environment/marine/eu-coast-and-marine-policy/marine-strategy-framework-directive/index_en.htm&quot;">Marine Strategy Framework Directive (MSFD)</a> that aims to protect the marine environment across Europe.</p>
+<div><p>Tidal range power plants are typically classed as large infrastructure projects situated in coastal and estuarine zones. Proposed designs must accordingly balance and acknowledge the multiple uses of the marine space for economic, social and recreational purposes. As such, feasibility is not merely dictated by maximising the energy extraction or profit from a site, but also the need to demonstrate the scheme’s acceptability relative to other uses of the same marine space occupied by the impoundment. Proponents of tidal range projects highlight the vast long-term and low-maintenance marine energy resource offered, as well as the substantial employment and regeneration opportunities presented. Nonetheless, a key factor for public acceptability regards the impact of a scheme on the local environment. Addressing this issue for marine infrastructure has been integrated into planning law. An example of this is the EU’s <a class="reference external" href="&quot;https://environment.ec.europa.eu/topics/marine-environment_en&quot;">Marine Strategy Framework Directive (MSFD)</a> that aims to protect the marine environment across Europe.</p>
 </div></blockquote>
 </section>
 <section id="assessment-and-optimisation">
@@ -437,6 +439,25 @@ function myFunction() {
   } else {
     navbar.classList.remove("sticky");
   }
+}
+</script>
+
+
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    }
+  });
 }
 </script>
 

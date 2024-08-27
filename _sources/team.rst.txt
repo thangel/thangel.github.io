@@ -12,12 +12,8 @@ Research Team
 =============
 
 
-.. container:: toggle2
-
-    .. container:: header
-        
-       *Research Group*
-
+.. dropdown:: *Research Group*
+   :open:
 
     **Postdoctoral Researchers**
     
@@ -38,11 +34,7 @@ Research Team
 
     - **Emils Brazovskis** - PhD researcher (2022 - Present), Institute for Infrastructure & Environment, University of Edinburgh - Co-Supervised with `Prof Lindsay Beevers <https://www.eng.ed.ac.uk/about/people/professor-lindsay-beevers>`_.
 
-.. container:: toggle2
-
-    .. container:: header
-        
-       *Alumni*
+.. dropdown:: *Alumni*
 
     - **Dr Misha Patel** - DPhil Researcher (2020 - 2024) - The Impact of Real World Constraints on Tidal Stream Energy Resource Assessments, University of Oxford. 
  
@@ -54,11 +46,7 @@ Research Team
 
 
 
-.. .. container:: toggle
-
-..     .. container:: header
-        
-..        *Academic Collaborators*
+.. .. dropdown::  *Academic Collaborators*
 
 ..     - `Prof Matthew Piggott <https://www.imperial.ac.uk/people/m.d.piggott>`_, Professor of Computational Geoscience and Engineering, Department of Earth Science & Engineering, Imperial College London.
 ..     - `Prof Thorsten Stoesser <https://iris.ucl.ac.uk/iris/browse/profile?upi=TSTOE28>`_, Professor of Civil Engineering Fluids, Department of Civil & Environmental Engineering, University College London.
