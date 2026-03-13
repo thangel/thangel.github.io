@@ -1,0 +1,30 @@
+The potential for tidal range energy systems to Provide continuous power: a UK case study
+----------------------------------------------------------------------------------------------
+
+In a study published in *Journal of Marine Science & Engineering*, we investigate the potential of tidal range energy systems to provide continuous power output. Using a UK case study, the research demonstrates how tidal lagoons can offer baseload generation when combined with energy storage.
+
+**Abstract**
+
+Tidal range energy has the potential to provide a reliable and predictable source of renewable electricity. However, the intermittent nature of tidal cycles means that tidal range power plants typically produce power in bursts. This study explores the potential for tidal range energy systems to provide continuous power output by combining multiple lagoons with energy storage. A 0-D model is used to simulate the operation of a fleet of tidal lagoons in the UK, considering different storage technologies and operational strategies. The results show that a combination of lagoons with pumped hydro storage can provide continuous power output for up to 80% of the time, with an overall capacity factor of 40%. The study concludes that tidal range energy systems have significant potential to contribute to a low-carbon electricity grid, particularly when combined with energy storage to provide baseload generation.
+
+.. raw:: html
+
+   <div id="images">
+   <img class="imagerow" border="0" style="width:90vw; height:auto"  src="https://www.dropbox.com/s/placeholder_image2.png?raw=1"/>
+
+   <p><i style="font-size: 0.7em"><b>Figure: </b> Power output profile for a fleet of tidal lagoons with storage.
+   </i></p>
+   </div>
+
+.. container :: copylink
+
+   .. raw :: html
+
+         <a href="https://doi.org/10.3390/jmse8100780">The potential for tidal range energy systems to Provide continuous power: a UK case study <b>Journal of Marine Science & Engineering</b>, 2020</a>
+
+.. post:: January 1, 2020
+   :tags: tidal, energy, storage
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en

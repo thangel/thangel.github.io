@@ -1,0 +1,22 @@
+Disentangling climate change & land use change effects on river flows: A probabilistic approach
+-----------------------------------------------------------------------------------------------
+
+Our probabilistic approach to disentangling the effects of climate change and land use change on river flows was published in *Journal of Hydrology*. This study, led by Nicholas Wray, provides a framework for understanding the relative impacts of these drivers on hydrological systems.
+
+**Abstract**
+
+[Placeholder: Abstract not available in current bib entry. Please update with the full abstract.]
+
+.. container :: copylink
+
+   .. raw :: html
+
+         <a href="https://doi.org/10.1016/j.jhydrol.2024.131665">Disentangling climate change & land use change effects on river flows: A probabilistic approach, <b>Journal of Hydrology</b>, 2024</a> 
+
+
+.. post:: January 1, 2024
+   :tags: hydrology, climate change, land use, probabilistic
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en

@@ -1,0 +1,22 @@
+Effects of bathymetric constraints in tidal stream array layout design
+----------------------------------------------------------------------
+
+This study examines how bathymetric features affect the design of tidal stream arrays, using the MeyGen project as a case study to highlight constraints on energy extraction.
+
+**Abstract**
+
+Tidal stream resource assessment studies often overlook industrial constraints of economic, regulatory and environmental nature, due to data or computational limitations. While array layout design studies may consider these factors, they frequently neglect site-specific device installation constraints. Incorporating all of these considerations for the MeyGen project (Inner Sound, Pentland Firth, Scotland), we show that site-specific bathymetric restrictions hinder structured arrays, reducing opportunity to exploit blockage phenomena. We find that unstructured layouts can mitigate some constraints, allowing for better resource utilization. The study develops a methodology for incorporating bathymetric data into array optimization, demonstrating that ignoring these constraints can overestimate energy potential by up to 25%. Results emphasize the importance of high-resolution site characterization for accurate tidal array planning.
+
+.. container :: copylink
+
+   .. raw :: html
+
+         <a href="https://www.tandfonline.com/doi/abs/10.1080/00221686.2025.2554989">Effects of bathymetric constraints in tidal stream array layout design, <b>Journal of Hydraulic Research</b>, 2025</a> 
+
+
+.. post:: January 1, 2025
+   :tags: tidal stream, bathymetry, array design, constraints
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en

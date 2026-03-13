@@ -1,0 +1,22 @@
+On the economic feasibility of tidal range power plants
+---------------------------------------------------------------------------------------------
+
+This paper evaluates the economic viability of tidal range power plants, integrating operation optimization and design considerations to assess their potential in the energy market.
+
+**Abstract**
+
+The potential energy associated with tides presents a sustainable energy resource that remains largely untapped. Uncertainties on the economic case of tidal range power plants are a known obstacle. Research on tidal range structures suggests energy yield may be maximized through operation strategy optimization, and that impacts can be mitigated through design optimization. While instructive, these perspectives alone are insufficient to support the feasibility of individual projects. We integrate operation optimization and design optimization within a comprehensive economic assessment framework. The framework considers capital costs, operational expenses, and revenue streams from electricity generation. Case studies of potential tidal range sites demonstrate that optimized operation can increase energy output by 20-30%, while design modifications can reduce environmental impacts. Economic analysis shows that tidal range plants can achieve levelized cost of energy competitive with other renewables under favorable conditions, but require supportive policy frameworks to overcome high upfront costs. The study provides guidance for developers and policymakers on the key factors influencing tidal range project feasibility.
+
+.. container :: copylink
+
+   .. raw :: html
+
+         <a href="https://royalsocietypublishing.org/rspa/article/481/2305/20230867/101266">On the economic feasibility of tidal range power plants, <b>Proceedings of the Royal Society A</b>, 2025</a> 
+
+
+.. post:: January 1, 2025
+   :tags: tidal range, economics, feasibility, optimisation
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en

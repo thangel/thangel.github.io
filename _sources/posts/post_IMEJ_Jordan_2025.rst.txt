@@ -1,0 +1,19 @@
+On tidal array layout sensitivity to regional hydrodynamics representation
+--------------------------------------------------------------------------
+
+Our study on the sensitivity of tidal array layouts to different representations of regional hydrodynamics was published in *International Marine Energy Journal*. This work, led by Connor Jordan, explores how modelling choices affect the optimisation of tidal energy systems.
+
+
+.. container :: copylink
+
+   .. raw :: html
+
+         <a href="#">On tidal array layout sensitivity to regional hydrodynamics representation, <b>International Marine Energy Journal</b>, 2025</a> 
+
+
+.. post:: January 1, 2025
+   :tags: tidal, layout, hydrodynamics, sensitivity
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en

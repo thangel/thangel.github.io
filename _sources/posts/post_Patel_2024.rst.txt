@@ -1,0 +1,22 @@
+Implementation of homogeneous and heterogeneous tidal arrays in the Inner Sound of the Pentland Firth
+-----------------------------------------------------------------------------------------------------
+
+Our research on the implementation of tidal turbine arrays in the Inner Sound of the Pentland Firth, exploring homogeneous and heterogeneous configurations, was published in *Journal of Ocean Engineering and Marine Energy*. This work, led by Misha Patel, contributes to the design and optimisation of tidal energy systems.
+
+**Abstract**
+
+[Placeholder: Abstract not available in current bib entry. Please update with the full abstract.]
+
+.. container :: copylink
+
+   .. raw :: html
+
+         <a href="https://doi.org/10.1007/s40722-024-00313-5">Implementation of homogeneous and heterogeneous tidal arrays in the Inner Sound of the Pentland Firth, <b>Journal of Ocean Engineering and Marine Energy</b>, 2024</a> 
+
+
+.. post:: January 1, 2024
+   :tags: tidal, array, optimisation, Pentland Firth
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en

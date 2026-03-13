@@ -1,0 +1,22 @@
+Quantifying the regional blockage effects of tidal arrays within multi-scale channel network models
+---------------------------------------------------------------------------------------------------
+
+This conference paper explores the regional impacts of tidal arrays on flow blockage using advanced modelling techniques.
+
+**Abstract**
+
+Abstract not available online.
+
+.. container :: copylink
+
+   .. raw :: html
+
+         <a href="https://www.ewtec.org/ewtec-2025/">Quantifying the regional blockage effects of tidal arrays within multi-scale channel network models, <b>Proceedings of the European Wave and Tidal Energy Conference</b>, 2025</a> 
+
+
+.. post:: January 1, 2025
+   :tags: tidal, blockage, multi-scale, modelling
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en

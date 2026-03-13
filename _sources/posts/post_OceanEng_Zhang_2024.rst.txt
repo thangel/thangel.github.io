@@ -1,0 +1,22 @@
+Economics-constrained tidal turbine array layout optimisation at the Putuoshan--Hulu island waterway
+---------------------------------------------------------------------------------------------
+
+This work optimizes tidal turbine array layouts considering economic factors, demonstrating how cost constraints influence design and performance at a Chinese waterway site.
+
+**Abstract**
+
+For the successful large scale commercialisation of the tidal stream energy industry it is imperative to consider array revenue rather than simply array power performance. This article reports on the application of a gradient-based optimisation algorithm to establish the optimal array size and layout at the Putuoshan–Hulu Islands waterway. Array economic viability is considered within the optimisation by introducing a break even power concept. Results show that the break even power constraint promotes increased power output per unit cost, leading to more compact and efficient array designs. The optimisation framework integrates hydrodynamic modelling with economic analysis, allowing for the simultaneous consideration of energy production and financial feasibility. Case studies demonstrate that economic constraints can reduce optimal array sizes by up to 30%, while maintaining profitability. The study highlights the need for integrated design approaches that balance technical performance with economic realities in the tidal energy sector.
+
+.. container :: copylink
+
+   .. raw :: html
+
+         <a href="https://www.sciencedirect.com/science/article/pii/S0029801824029561">Economics-constrained tidal turbine array layout optimisation at the Putuoshan--Hulu island waterway, <b>Ocean Engineering</b>, 2024</a> 
+
+
+.. post:: January 1, 2024
+   :tags: tidal, optimisation, economics, array
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en

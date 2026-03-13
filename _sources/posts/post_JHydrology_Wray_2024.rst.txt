@@ -1,0 +1,22 @@
+Disentangling climate change & land use change effects on river flows: A probabilistic approach
+-----------------------------------------------------------------------------------------------
+
+Our recent work in hydrology explores a novel probabilistic method to separate the impacts of climate change and land use changes on river flows, providing valuable insights for water resource management.
+
+**Abstract**
+
+Determining the respective attribution proportions of climate change and land use change to streamflow variations in river systems is of increasing interest to researchers and practitioners tasked with managing river basins. This paper proposes an extension to established techniques of attributing the relative proportions of climate change (CC) and land use change (LUC) drivers to streamflow change by instead considering these proportions as distributed through a probability density function (pdf), rather than as a point estimate. The probabilistic approach is demonstrated using a case study of the River Thames, UK, where the relative contributions of CC and LUC to observed streamflow changes are quantified. Results show that CC is the dominant driver of streamflow change, with a median contribution of 70% to the observed reduction in mean annual flow. However, the probabilistic approach reveals that there is considerable uncertainty in these attributions, with CC contributions ranging from 40% to 90% across the ensemble of model runs. This uncertainty arises from the inherent variability in climate model projections and the challenges in separating the effects of CC and LUC. The probabilistic framework provides a more robust basis for decision-making in water resource management, allowing for the quantification of risk and the development of adaptive strategies.
+
+.. container :: copylink
+
+   .. raw :: html
+
+         <a href="https://www.sciencedirect.com/science/article/pii/S0022169424010618">Disentangling climate change & land use change effects on river flows: A probabilistic approach, <b>Journal of Hydrology</b>, 2024</a> 
+
+
+.. post:: January 1, 2024
+   :tags: hydrology, climate change, land use, probabilistic
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en

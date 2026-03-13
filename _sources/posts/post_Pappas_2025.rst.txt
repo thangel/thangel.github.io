@@ -1,0 +1,18 @@
+On the economic feasibility of tidal range power plants
+-------------------------------------------------------
+
+Our investigation into the economic feasibility of tidal range power plants, considering various operational modes and market conditions, was published in *Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences*. This work, led by Konstantinos Pappas, evaluates the potential for tidal range energy to become a competitive renewable energy source.
+
+.. container :: copylink
+
+   .. raw :: html
+
+         <a href="https://doi.org/10.1098/rspa.2023.0867">On the economic feasibility of tidal range power plants, <b>Proceedings of the Royal Society A</b>, 2025</a> 
+
+
+.. post:: January 1, 2025
+   :tags: tidal range, economics, feasibility
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en

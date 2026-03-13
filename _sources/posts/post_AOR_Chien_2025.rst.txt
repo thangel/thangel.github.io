@@ -1,0 +1,22 @@
+Operational coastal ocean modelling for tidal stream turbine arrays
+-------------------------------------------------------------------
+
+Our development of operational coastal ocean models for simulating tidal stream turbine arrays was published in *Applied Ocean Research*. Led by Nguyen Q. Chien, this research advances the modelling capabilities for assessing the hydrodynamic impacts of tidal energy installations.
+
+**Abstract**
+
+[Placeholder: Abstract not available in current bib entry. Please update with the full abstract.]
+
+.. container :: copylink
+
+   .. raw :: html
+
+         <a href="https://doi.org/10.1016/j.apor.2025.104847">Operational coastal ocean modelling for tidal stream turbine arrays, <b>Applied Ocean Research</b>, 2025</a> 
+
+
+.. post:: January 1, 2025
+   :tags: coastal, modelling, tidal stream, arrays
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en

@@ -1,0 +1,30 @@
+On the potential of linked-basin tidal power plants
+--------------------------------------------------
+
+In a study published in *Renewable Energy*, we explore the potential of linked-basin tidal power plants, assessing their operational and coastal modelling impacts. The research highlights advantages in energy output and environmental effects compared to conventional single-basin designs.
+
+**Abstract**
+
+Tidal range energy has the potential to provide a significant contribution to renewable electricity generation. However, the environmental impacts and energy output of tidal range structures are highly dependent on their design and operation. This study assesses the potential of linked-basin tidal power plants, where two or more basins are connected via sluice gates, allowing for more flexible operation. A 0-D analytical model is used to optimise the operation of linked-basin systems, considering energy output, flood risk mitigation, and environmental impacts. The results are validated using a 2-D coastal ocean model for a case study in the Bristol Channel and Severn Estuary, UK. The findings demonstrate that linked-basin systems can increase energy output by up to 20% compared to single-basin designs, while also reducing flood risk and minimising environmental impacts. The study concludes that linked-basin tidal power plants offer a promising alternative to conventional designs, with significant potential for further development.
+
+.. raw:: html
+
+   <div id="images">
+   <img class="imagerow" border="0" style="width:90vw; height:auto"  src="https://www.dropbox.com/s/placeholder_image.png?raw=1"/>
+
+   <p><i style="font-size: 0.7em"><b>Figure: </b> Schematic of linked-basin tidal power plant operation.
+   </i></p>
+   </div>
+
+.. container :: copylink
+
+   .. raw :: html
+
+         <a href="https://doi.org/10.1016/j.renene.2020.03.167">On the potential of linked-basin tidal power plants: An operational and coastal modelling assessment <b>Renewable Energy</b>, 2020</a>
+
+.. post:: January 1, 2020
+   :tags: tidal, energy, optimisation
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en

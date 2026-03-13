@@ -1,0 +1,22 @@
+Implementation of homogeneous and heterogeneous tidal arrays in the Inner Sound of the Pentland Firth
+-----------------------------------------------------------------------------------------------------
+
+Our study investigates the deployment of tidal arrays with varying turbine specifications in the Pentland Firth, highlighting the benefits of heterogeneous designs for maximizing energy extraction.
+
+**Abstract**
+
+The effective development of tidal stream energy sites requires an understanding of constraints limiting extraction of the resource. This study considers the implications of certain spatial constraints on the practical tidal stream energy resource. Specifically, we investigate how bathymetry influences array design and how much energy is obtained when heterogeneous arrays (comprising of turbine devices with varying specifications) are deployed at a site compared to homogeneous arrays. A novel framework for designing heterogeneous arrays is proposed, which optimizes the selection and placement of turbines based on local flow conditions and bathymetric constraints. The framework is applied to the Inner Sound of the Pentland Firth, where high-resolution bathymetric data and flow measurements are used to assess the potential energy yield. Results show that heterogeneous arrays can increase energy extraction by up to 15% compared to homogeneous arrays, by better matching turbine specifications to local conditions. However, the benefits are constrained by the availability of suitable turbine designs and the costs associated with deploying multiple turbine types. The study underscores the importance of considering site-specific constraints in array design and provides a methodology for optimizing tidal array layouts.
+
+.. container :: copylink
+
+   .. raw :: html
+
+         <a href="https://link.springer.com/article/10.1007/s40722-024-00342-0">Implementation of homogeneous and heterogeneous tidal arrays in the Inner Sound of the Pentland Firth, <b>Journal of Ocean Engineering and Marine Energy</b>, 2024</a> 
+
+
+.. post:: January 1, 2024
+   :tags: tidal, array, heterogeneous, Pentland Firth
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en

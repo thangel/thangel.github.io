@@ -1,0 +1,20 @@
+Economics-constrained tidal turbine array layout optimisation at the Putuoshan--Hulu island waterway
+-----------------------------------------------------------------------------------------------------
+
+Our study on economics-constrained optimisation of tidal turbine array layouts at the Putuoshan-Hulu island waterway in China was published in *Ocean Engineering*. Led by Can Zhang, this research integrates economic considerations into the design of tidal energy arrays for improved feasibility.
+
+**Abstract**
+
+.. container :: copylink
+
+   .. raw :: html
+
+         <a href="https://doi.org/10.1016/j.oceaneng.2024.119618">Economics-constrained tidal turbine array layout optimisation at the Putuoshan--Hulu island waterway, <b>Ocean Engineering</b>, 2024</a> 
+
+
+.. post:: January 1, 2024
+   :tags: tidal, optimisation, economics, China
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en
