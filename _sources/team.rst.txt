@@ -17,16 +17,10 @@ Research Team
 
     **Postdoctoral Researchers**
     
-    - **Dr Nguyen Chien** - Research Associate in Coastal Ocean Digital Twins (2023 - Present), School of Engineering, University of Edinburgh
+    - **Dr Tian Tan** - Research Associate in Hydroenvironmental modelling for tidal stream energy  (2025 - Present), School of Engineering, University of Edinburgh
 
-    - **Dr Yaling Chen** - Research Associate in Hydroenvironmental modelling for tidal stream energy  (2024 - Present), School of Engineering, University of Edinburgh
-
-
+    
     **Postgraduate Researchers**
-
-    - **Phoebe Hudson** - PhD researcher (2020 - Present), Institute for Infrastructure & Environment, University of Edinburgh - Co-supervised with `Dr Adrien Martin (PI) <https://www.researchgate.net/profile/Adrien_Martin2>`_ and Prof Simon A Josey (NOC Southampton).
-
-    - **Konstantinos Pappas** - PhD researcher (2021 - Present), Institute for Infrastructure & Environment, University of Edinburgh - Co-Supervised with Dr Harry van der Weijde, Dr Ilias Zilakos (Tidetec), and `Prof Lindsay Beevers <https://www.eng.ed.ac.uk/about/people/prof-lindsay-beevers>`_.
 
     - **Connor Jordan** - PhD researcher (2022 - Present), Institute for Infrastructure & Environment, University of Edinburgh - Co-Supervised with `Prof Sotirios Tsaftaris <https://www.eng.ed.ac.uk/about/people/dr-sotirios-tsaftaris>`_.
 
@@ -36,6 +30,10 @@ Research Team
 
 .. dropdown:: *Alumni*
 
+    - **Dr Phoebe Hudson** - PhD researcher (2020 - 2025), Institute for Infrastructure & Environment, University of Edinburgh. 
+
+    - **Dr Konstantinos Pappas** - PhD researcher (2021 - 2025), Institute for Infrastructure & Environment, University of Edinburgh.
+
     - **Dr Misha Patel** - DPhil Researcher (2020 - 2024) - The Impact of Real World Constraints on Tidal Stream Energy Resource Assessments, University of Oxford. 
  
     - **Dr Anastasia Fragkou** - PhD Researcher (2019 - 2023) - Developing a multi-scale parallelised coupled system for wave-current interactions at regional scales, University of Edinburgh. 
@@ -43,6 +41,11 @@ Research Team
     - **Dr Lucas Mackie** - PhD Researcher (2018 - 2021) - Modelling the Interaction of Tidal Range Power Systems for Renewable Energy Generation, Imperial College London. 
 
     - **Dr Chris Old** - Senior Research Associate in Marine Renewable Energy (2022 - 2023), School of Engineering, University of Edinburgh.
+
+    - **Dr Nguyen Chien** - Research Associate in Coastal Ocean Digital Twins (2023 - 2025), School of Engineering, University of Edinburgh
+
+    - **Dr Yaling Chen** - Research Associate in Hydroenvironmental modelling for tidal stream energy  (2024 - 2025), School of Engineering, University of Edinburgh
+
 
 
 
