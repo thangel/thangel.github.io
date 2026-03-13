@@ -26,7 +26,7 @@ Research Team
 
     - **Bryn Townley** - EngD researcher (2022 - Present), Institute for Infrastructure & Environment, University of Edinburgh - Co-Supervised with `Professor Qing Xiao <https://www.strath.ac.uk/staff/xiaoqingdr/>`_ (University of Strathclyde) and `Dr Ian Ashton <https://renewable.exeter.ac.uk/staff/iga202>`_ (University of Exeter).
 
-    - **Emils Brazovskis** - PhD researcher (2022 - Present), Institute for Infrastructure & Environment, University of Edinburgh - Co-Supervised with `Prof Lindsay Beevers <https://www.eng.ed.ac.uk/about/people/professor-lindsay-beevers>`_.
+    - **Emils Brazovskis** - PhD researcher (2023 - Present), Institute for Infrastructure & Environment, University of Edinburgh - Co-Supervised with `Prof Lindsay Beevers <https://www.eng.ed.ac.uk/about/people/professor-lindsay-beevers>`_.
 
 .. dropdown:: *Alumni*
 
