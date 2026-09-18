@@ -1,0 +1,15 @@
+Sensitivity analysis of tidal stream resource using multi-scale channel network models
+--------------------------------------------------------------------------------------
+
+This IAHR World Congress paper applies multi-scale channel-network models to investigate the sensitivity of tidal-stream resource estimates. The work led by Emīls Brazovskis examines how model assumptions and channel-scale representation affect resource characterisation.
+
+.. container:: copylink
+
+   `View the group’s publication record <https://uoe-hydrocomputation.github.io/publications.html>`_.
+
+.. post:: June 22, 2025
+   :tags: tidal stream, resource assessment, sensitivity, multi-scale
+   :category: conference
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en

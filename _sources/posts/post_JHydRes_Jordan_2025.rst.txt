@@ -14,7 +14,7 @@ Tidal stream resource assessment studies often overlook industrial constraints o
          <a href="https://www.tandfonline.com/doi/abs/10.1080/00221686.2025.2554989">Effects of bathymetric constraints in tidal stream array layout design, <b>Journal of Hydraulic Research</b>, 2025</a> 
 
 
-.. post:: January 1, 2025
+.. post:: September 3, 2025
    :tags: tidal stream, bathymetry, array design, constraints
    :category: article
    :author: Athanasios Angeloudis

@@ -1,0 +1,17 @@
+Iterative dynamics-based mesh discretisation for multi-scale coastal ocean modelling
+-------------------------------------------------------------------------------------
+
+New work led by Chris Old introduces an iterative, dynamics-based approach to mesh discretisation for multi-scale coastal-ocean modelling. The study examines how model resolution can be focused where it matters most for representing coastal dynamics, supporting more efficient and reliable simulations.
+
+.. container:: copylink
+
+   .. raw:: html
+
+      <a href="https://doi.org/10.1007/s40722-024-00314-4">Iterative dynamics-based mesh discretisation for multi-scale coastal ocean modelling, <b>Journal of Ocean Engineering and Marine Energy</b>, 2024</a>
+
+.. post:: February 23, 2024
+   :tags: coastal modelling, mesh adaptation, numerical methods
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en

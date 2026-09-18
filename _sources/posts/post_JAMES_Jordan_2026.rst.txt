@@ -1,0 +1,15 @@
+Assimilation of velocity data for tidal hydrodynamics model calibration
+=======================================================================
+
+This article applies velocity-data assimilation to calibrate tidal hydrodynamics models, improving the use of observations in model development.
+
+.. container:: copylink
+
+   `Read the article <https://doi.org/10.1029/2025MS005399>`_ in *Journal of Advances in Modeling Earth Systems*.
+
+.. post:: August 21, 2026
+   :tags: tidal, hydrodynamics, data assimilation, model calibration
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en

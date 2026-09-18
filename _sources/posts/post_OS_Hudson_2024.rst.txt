@@ -1,0 +1,17 @@
+Drivers of Laptev Sea interannual variability in salinity and temperature
+-------------------------------------------------------------------------
+
+This study, led by Phoebe Hudson, investigates the drivers of year-to-year variability in salinity and temperature in the Laptev Sea. The work contributes to understanding how physical processes shape conditions in Arctic shelf seas.
+
+.. container:: copylink
+
+   .. raw:: html
+
+      <a href="https://doi.org/10.5194/os-20-341-2024">Drivers of Laptev Sea interannual variability in salinity and temperature, <b>Ocean Science</b>, 2024</a>
+
+.. post:: March 18, 2024
+   :tags: ocean modelling, Arctic, salinity, temperature
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en

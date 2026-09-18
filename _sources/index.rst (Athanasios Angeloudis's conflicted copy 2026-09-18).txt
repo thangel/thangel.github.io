@@ -1,0 +1,239 @@
+.. webpage documentation master file, created by
+   sphinx-quickstart on Fri May 18 18:18:29 2018.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+.. |fa-pdf| raw:: html
+
+    <a href="https://www.dropbox.com/s/4hrjn2c7h4bpdxi/cv.pdf?raw=1"><i class="fas file-pdf"></i></a>
+
+ 
+
+.. |twitter| raw:: html
+   
+   <a class="twitter-timeline" href="https://twitter.com/AAngeloudis" data-tweet-limit="2">Tweets by TwitterDev</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+.. |analytics| raw:: html
+
+
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-KN383G4');</script>
+        <!-- End Google Tag Manager -->
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-152683855-1"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'UA-152683855-1');
+        </script>
+
+
+.. .. only:: html 
+ 
+    .. sidebar:: Twitter feed 
+      
+      .. container:: twitter
+     
+          |twitter|
+
+
+About us
+--------
+
+Welcome! These pages detail information on applied fluid mechanics research activities led by Dr Athanasios Angeloudis. Our work is based at the School of Engineering of the University of Edinburgh. 
+
+
+Introduction
+------------
+
+.. container :: min-section
+
+    .. container :: profileleft
+
+      Athanasios Angeloudis
+
+      .. raw:: html
+
+         <div>
+         <img border="0" style="width: 200px; object-fit: contain; overflow: hidden; border-radius:50%;" src="_static/profile_2.jpg" />
+         </div>
+
+         <div>
+         <p style="font-size: 0.8em; font-weight:400;"> Reader, School of Engineering,<br>
+         
+         <a style="font-size: 1.0em" href="https://www.eng.ed.ac.uk/about/people/dr-athanasios-angeloudis"> University of Edinburgh </a>
+         </p>
+         </div>
+
+    .. container :: profileright
+      
+        I am working as a Reader (Associate Professor) on engineering fluid mechanics, incorporated within the Institute for Infrastructure and the Environment and leading research on hydro-environmental engineering applications. I am a Fellow of the Higher Education Academy (FHEA) and have previously led an Industrial Innovation  Research Fellowship by the UK's Natural Environment Research Council (NERC). Accordingly, my team coordinates research activities on computational methods for marine and offshore renewable energy, working closely with industry and other research groups. 
+
+        I am Chartered member (CEng) with the Institution of Civil Engineers and with the Technical Chamber of Greece.
+
+        Our research and expertise spans across the following
+
+        * Environmental fluid mechanics
+        * Offshore renewable energy
+        * Coastal processes 
+        * Numerical methods in engineering
+        * Data analytics and optimisation methods
+
+
+
+
+
+
+
+
+Contact
+-------
+
+
+.. container :: leftside
+     
+   .. raw:: html
+
+      <a href="mailto:a.angeloudis@ed.ac.uk"> <img class="filter-pdf" alt="E-mail" src="_static/solid/envelope.svg"> </a>
+
+..  container :: rightside
+         
+    .. raw :: html
+
+       <a href="mailto:a.angeloudis@ed.ac.uk">a.angeloudis@ed.ac.uk </a> 
+
+.. container :: leftside
+     
+   .. raw:: html
+
+      <a href="https://www.google.com/maps/place/Alexander+Graham+Bell+Building/@55.9223318,-3.1751804,17z/data=!3m1!4b1!4m5!3m4!1s0x4887b89e0e24be8f:0x3406da84c36b301c!8m2!3d55.9223318!4d-3.1729917"> <img class="filter-pdf" alt="Map" src="_static/solid/map-marked-alt.svg"> </a>
+
+..  container :: rightside
+         
+    .. raw :: html
+
+       <a href="https://www.google.com/maps/place/Alexander+Graham+Bell+Building/@55.9223318,-3.1751804,17z/data=!3m1!4b1!4m5!3m4!1s0x4887b89e0e24be8f:0x3406da84c36b301c!8m2!3d55.9223318!4d-3.1729917">The University of Edinburgh<br>Alexander Graham Bell Building,  EH9 3FG </a> 
+
+.. container :: leftside
+     
+   .. raw:: html
+
+      <a href="https://twitter.com/aangeloudis"> <img class="filter-pdf" alt="X / Twitter" src="_static/solid/twitter.svg"> </a>
+
+..  container :: rightside
+         
+    .. raw :: html
+
+       <a href="https://twitter.com/aangeloudis">@AAngeloudis</a> 
+
+
+.. dropdown:: *Further information & links*
+
+    .. container :: leftside
+     
+           .. raw :: html
+
+         
+                 <a href="https://www.dropbox.com/scl/fi/tajgs2dpr9h2k22nuzt3m/cv.pdf?rlkey=om0epo6jqzg1ildwodnl8att2&st=ssxrl5bj&raw=1"><i class="fas fa-file-alt" style="font-size: 1.3em"></i></a>
+
+    ..  container :: rightside
+         
+           .. raw :: html
+
+                <a href="hhttps://www.dropbox.com/scl/fi/tajgs2dpr9h2k22nuzt3m/cv.pdf?rlkey=om0epo6jqzg1ildwodnl8att2&st=ssxrl5bj&raw=1"> Curriculum Vitae </b> </a> 
+
+    .. container :: leftside
+
+        .. raw:: html
+
+              <a href="https://www.research.ed.ac.uk/portal/en/persons/athanasios-angeloudis(0decfe6e-f7e9-4be5-9e9b-1ea94ff30706).html"> <img class="filter-pdf" alt="Edinburgh Research Explorer" src="_static/solid/university.svg"> </a>
+
+    ..  container :: rightside
+                   
+        .. raw :: html
+
+              <a href="https://www.research.ed.ac.uk/portal/en/persons/athanasios-angeloudis(0decfe6e-f7e9-4be5-9e9b-1ea94ff30706).html">Edinburgh Research Explorer </a> 
+
+    .. container :: leftside
+
+        .. raw:: html
+
+              <a href="https://www.researchgate.net/profile/Athanasios_Angeloudis"> <img class="filter-pdf" alt="ResearchGate" src="_static/solid/researchgate.svg"> </a>
+
+    ..  container :: rightside
+                   
+        .. raw :: html
+
+              <a href="https://www.researchgate.net/profile/Athanasios_Angeloudis">ResearchGate </a> 
+
+    .. container :: leftside
+
+        .. raw:: html
+
+              <a href="https://scholar.google.com/citations?user=omIi6Z8AAAAJ&hl=en&authuser=1"> <img class="filter-pdf" alt="Google Scholar" src="_static/solid/user-graduate.svg"> </a>
+
+    ..  container :: rightside
+                   
+        .. raw :: html
+
+              <a href="https://scholar.google.com/citations?user=omIi6Z8AAAAJ&hl=en&authuser=1">Google Scholar </a> 
+
+    .. container :: leftside
+
+        .. raw:: html
+
+              <a href="https://www.linkedin.com/in/aangeloudis/"> <img class="filter-pdf" alt="LinkedIn" src="_static/solid/linkedin.svg"> </a>
+
+    ..  container :: rightside
+                   
+        .. raw :: html
+
+              <a href="https://www.linkedin.com/in/aangeloudis/">Linkedin </a> 
+
+
+    .. container :: leftside
+
+        .. raw:: html
+
+              <a href="https://github.com/thangel"> <img class="filter-pdf" alt="GitHub" src="_static/solid/github.svg"> </a>
+
+    ..  container :: rightside
+                   
+        .. raw :: html
+
+              <a href="https://github.com/thangel">Github </a> 
+
+.. dropdown:: *Supporters, collaborators & partners*
+
+    .. raw:: html
+
+      <ul class="organisation-marks" aria-label="Supporters, collaborators and partners">
+        <li><a href="https://www.ed.ac.uk/" target="_blank" rel="noopener"><img src="_static/uoe.png" alt="University of Edinburgh"></a></li>
+        <li><a href="https://www.ukri.org/" target="_blank" rel="noopener"><img src="_static/ukri.png" alt="UK Research and Innovation"></a></li>
+        <li><a href="https://www.imperial.ac.uk/" target="_blank" rel="noopener"><img src="_static/logo_imperial_college_london.png" alt="Imperial College London"></a></li>
+        <li><a href="https://ampeak.energy/tidal-stream/meygen/" target="_blank" rel="noopener"><img src="https://uoe-hydrocomputation.github.io/_static/media/meygen.jpg" alt="MeyGen"></a></li>
+        <li><a href="https://orbitalmarine.com/" target="_blank" rel="noopener"><img src="https://uoe-hydrocomputation.github.io/_static/media/orbital.png" alt="Orbital Marine Power"></a></li>
+        <li><a href="https://www.emec.org.uk/" target="_blank" rel="noopener"><img src="https://uoe-hydrocomputation.github.io/_static/media/EMEC.png" alt="European Marine Energy Centre"></a></li>
+        <li><a href="https://www.nexans.com/" target="_blank" rel="noopener"><img src="https://uoe-hydrocomputation.github.io/_static/media/Nexans.webp" alt="Nexans"></a></li>
+        <li><a href="https://aurora-oe.com/" target="_blank" rel="noopener"><img src="https://uoe-hydrocomputation.github.io/_static/media/auroraoffshore.png" alt="Aurora Offshore Engineering"></a></li>
+      </ul>
+
+
+.. toctree::
+   :titlesonly:
+   :hidden:
+
+   research
+   teaching
+   publications
+   news
+   team
+   opportunities
+   tidal/tidal_oer

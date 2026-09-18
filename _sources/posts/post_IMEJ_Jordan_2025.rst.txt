@@ -8,10 +8,10 @@ Our study on the sensitivity of tidal array layouts to different representations
 
    .. raw :: html
 
-         <a href="#">On tidal array layout sensitivity to regional hydrodynamics representation, <b>International Marine Energy Journal</b>, 2025</a> 
+         <a href="https://doi.org/10.36688/imej.8.227-236">On tidal array layout sensitivity to regional hydrodynamics representation, <b>International Marine Energy Journal</b>, 2025</a> 
 
 
-.. post:: January 1, 2025
+.. post:: June 16, 2025
    :tags: tidal, layout, hydrodynamics, sensitivity
    :category: article
    :author: Athanasios Angeloudis

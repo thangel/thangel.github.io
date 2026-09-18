@@ -1,0 +1,15 @@
+A probabilistic approach to disentangling climate change and land-use change effects on river flows
+----------------------------------------------------------------------------------------------------
+
+This EGU General Assembly contribution presents a probabilistic approach for separating the effects of climate change and land-use change on river flows. It complements the group’s recent Journal of Hydrology article on the same broader research theme.
+
+.. container:: copylink
+
+   `View the group’s publication record <https://uoe-hydrocomputation.github.io/publications.html>`_.
+
+.. post:: April 27, 2025
+   :tags: hydrology, climate change, land use, probabilistic
+   :category: conference
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en

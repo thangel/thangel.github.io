@@ -1,0 +1,15 @@
+Non-uniform resistance in optimising energy extraction from a flow
+==================================================================
+
+This article investigates non-uniform resistance when optimising energy extraction from a flow, advancing analytical understanding of the underlying design problem.
+
+.. container:: copylink
+
+   `Read the article <https://doi.org/10.1017/jfm.2026.11764>`_ in *Journal of Fluid Mechanics*.
+
+.. post:: July 8, 2026
+   :tags: energy extraction, optimisation, flow, analytical modelling
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en

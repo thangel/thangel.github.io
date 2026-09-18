@@ -1,0 +1,183 @@
+/* Personal-site theme, aligned with the Edinburgh Hydro-computation Group. */
+:root {
+  --ink: #20242a;
+  --muted: #606974;
+  --line: #d9dde1;
+  --paper: #ffffff;
+  --wash: #f5f6f6;
+  --accent: #0065bd;
+  --accent-dark: #004b8d;
+  --accent-pale: #e8f2fb;
+  --max-width: 72rem;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  color: var(--ink);
+  background: var(--paper);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 17px;
+  line-height: 1.65;
+}
+
+a { color: var(--accent); }
+a:visited { color: var(--accent-dark); }
+a:hover { color: var(--accent-dark); }
+
+div.document, div.documentwrapper, div.bodywrapper, div.body {
+  float: none;
+  width: auto;
+  min-width: 0;
+  margin: 0;
+}
+
+div.document { min-height: 0; background: var(--paper); }
+div.body { max-width: var(--max-width); margin: 0 auto; padding: 3.5rem 2rem 5rem; overflow: visible; }
+
+.site-header {
+  border-top: 5px solid var(--accent);
+  border-bottom: 1px solid var(--line);
+  background: rgba(255, 255, 255, .97);
+}
+
+.site-header__inner, .site-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 1.05rem 2rem;
+}
+
+.wordmark {
+  display: inline-flex;
+  flex: 0 0 auto;
+  align-items: center;
+  gap: .7rem;
+  color: var(--ink);
+  line-height: 1.15;
+  text-decoration: none;
+}
+.wordmark:hover { color: var(--accent); text-decoration: none; }
+.wordmark strong { display: block; font-size: 1rem; letter-spacing: .01em; }
+.wordmark small { display: block; color: var(--muted); font-size: .78rem; }
+.wordmark__mark {
+  display: grid;
+  width: 2.5rem;
+  height: 2.5rem;
+  place-items: center;
+  border-radius: 50%;
+  background: var(--accent);
+  color: #fff;
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: .9rem;
+  font-weight: bold;
+}
+
+.site-nav { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: .55rem 1.15rem; }
+.site-nav a { color: var(--ink); font-size: .88rem; font-weight: bold; text-decoration: none; }
+.site-nav a:hover { color: var(--accent); text-decoration: underline; text-underline-offset: .35rem; }
+
+div.body h1, div.body h2, div.body h3, div.body h4, div.body h5, div.body h6 {
+  color: var(--ink);
+  background: none;
+  font-family: Georgia, 'Times New Roman', serif;
+  font-weight: normal;
+  line-height: 1.15;
+}
+div.body h1 { margin: 0 0 1.2rem; padding: 0; font-size: clamp(2.25rem, 5vw, 4.4rem); letter-spacing: -.025em; }
+div.body h2 { margin: 4rem 0 1rem; padding: 0; font-size: clamp(1.7rem, 3vw, 2.5rem); }
+div.body h3 { margin: 2.2rem 0 .55rem; padding: 0; font-size: 1.3rem; }
+div.body h4, div.body h5, div.body h6 { margin: 1.5rem 0 .5rem; padding: 0; }
+div.body p, div.body li, div.body dd { max-width: none; line-height: 1.65; }
+div.body ul, div.body ol { max-width: none; padding-left: 1.4rem; }
+div.body li::marker { color: var(--accent); }
+div.body li + li { margin-top: .38rem; }
+div.body img { max-width: 100%; height: auto; }
+
+/* Keep the legacy two-column source containers usable in the new layout. */
+div.min-section { display: flow-root; min-height: 0; margin: 1.5rem 0; }
+div.profileleft { float: left; width: min(30%, 18rem); margin: 0 1.5rem 1rem 0; font-size: 1rem; font-weight: 600; text-align: center; }
+div.profileright { width: auto; min-height: 0; text-align: left; }
+div.profileleft p { margin-top: 0; }
+div.leftside { float: left; width: 2.4rem; height: 2.4rem; margin: 0; padding: .3rem 0; text-align: left; }
+div.rightside { min-height: 2.4rem; margin: 0; padding: .3rem 0 .3rem 2.75rem; }
+.filter-pdf { width: 1.15rem; filter: invert(31%) sepia(40%) saturate(1810%) hue-rotate(170deg) brightness(85%) contrast(102%); }
+
+/* Sphinx Design dropdowns become restrained, accessible content cards. */
+details.sd-dropdown.sd-card {
+  max-width: none;
+  margin: 1.2rem 0;
+  border: 0;
+  border-top: 4px solid var(--accent);
+  border-radius: 0;
+  background: var(--wash);
+  box-shadow: none;
+}
+details.sd-dropdown > summary.sd-card-header {
+  padding: 1rem 1.25rem;
+  border: 0;
+  background: transparent;
+  color: var(--ink);
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1.18rem;
+  cursor: pointer;
+}
+details.sd-dropdown > summary.sd-card-header:hover { color: var(--accent); }
+details.sd-dropdown .sd-summary-content { padding: 0 1.25rem 1.25rem; }
+details.sd-dropdown .sd-card-body > :first-child { margin-top: 0; }
+details.sd-dropdown .sd-card-body > :last-child { margin-bottom: 0; }
+
+div.note2, div.notegrey {
+  max-width: none;
+  margin: 1.25rem 0;
+  padding: 1rem 1.2rem;
+  border: 0;
+  border-left: 4px solid var(--accent);
+  background: var(--accent-pale);
+}
+div.notegrey { border-left-color: #66727d; background: var(--wash); }
+div.copylink, div.researchgatelink, div.pythonlink { padding: .45rem 0; }
+div.copylink + div.copylink, div.researchgatelink + div.researchgatelink, div.pythonlink + div.pythonlink { border-top: 1px solid rgba(32, 36, 42, .12); }
+div.copylink::before, div.researchgatelink::before, div.pythonlink::before { display: none; }
+
+div.note, div.seealso, div.topic, div.hint, div.warning {
+  max-width: none;
+  margin: 1.25rem 0;
+  padding: 1rem 1.2rem;
+  border: 0;
+  border-left: 4px solid var(--accent);
+  background: var(--accent-pale);
+}
+div.warning { border-left-color: #aa3b32; background: #fcefed; }
+
+table.docutils, table.citation { max-width: 100%; margin: 1.5rem 0; border-collapse: collapse; }
+table.docutils td, table.docutils th { padding: .7rem; border: 1px solid var(--line); text-align: left; }
+pre, tt, code { color: var(--ink); font-size: .9em; }
+div.highlight > pre, div.highlight > code { padding: 1rem; border: 0; background: var(--wash); }
+
+.site-footer {
+  align-items: flex-start;
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+  font-size: .82rem;
+  line-height: 1.6;
+}
+.site-footer a { color: var(--muted); }
+
+@media (max-width: 900px) {
+  .site-header__inner { align-items: flex-start; flex-direction: column; gap: 1rem; }
+  .site-nav { justify-content: flex-start; }
+}
+
+@media (max-width: 700px) {
+  body { font-size: 16px; }
+  div.body { padding: 2.5rem 1.25rem 4rem; }
+  .site-header__inner, .site-footer { align-items: flex-start; flex-direction: column; gap: 1rem; padding: 1rem 1.25rem; }
+  .site-nav { gap: .55rem 1rem; }
+  div.profileleft { float: none; width: 100%; max-width: 18rem; margin: 0 auto 1.3rem; }
+  div.rightside { padding-left: 2.5rem; }
+}

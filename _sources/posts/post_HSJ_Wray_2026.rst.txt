@@ -1,0 +1,15 @@
+Distinguishing regional spatio-temporal hydrological regimes
+============================================================
+
+This article develops an approach for distinguishing hydrological regimes across regions and through time, supporting clearer interpretation of spatial and temporal variability.
+
+.. container:: copylink
+
+   `Read the article <https://doi.org/10.1080/02626667.2026.2661091>`_ in *Hydrological Sciences Journal*.
+
+.. post:: May 26, 2026
+   :tags: hydrology, spatio-temporal, regional, modelling
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en

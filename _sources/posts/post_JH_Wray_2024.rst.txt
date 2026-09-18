@@ -14,7 +14,7 @@ Our probabilistic approach to disentangling the effects of climate change and la
          <a href="https://doi.org/10.1016/j.jhydrol.2024.131665">Disentangling climate change & land use change effects on river flows: A probabilistic approach, <b>Journal of Hydrology</b>, 2024</a> 
 
 
-.. post:: January 1, 2024
+.. post:: July 14, 2024
    :tags: hydrology, climate change, land use, probabilistic
    :category: article
    :author: Athanasios Angeloudis

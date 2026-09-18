@@ -1,61 +1,42 @@
-.. webpage documentation master file, created by
-   sphinx-quickstart on Fri May 18 18:18:29 2018.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-
-
-.. only:: html 
-.. _email: mailto: a.angeloudis@ed.ac.uk
-
 Research Team
 =============
 
+.. raw:: html
 
-.. dropdown:: *Research Group*
-   :open:
+   <p class="page-intro">I lead the Edinburgh Hydro-computation Group: researchers and students developing computational approaches to hydro-environmental engineering.</p>
 
-    **Postdoctoral Researchers**
-    
-    - **Dr Tian Tan** - Research Associate in Hydroenvironmental modelling for tidal stream energy  (2025 - Present), School of Engineering, University of Edinburgh
+   <a class="school-mark" href="https://eng.ed.ac.uk/" aria-label="School of Engineering, University of Edinburgh"><img src="_static/uoe.png" alt="School of Engineering, University of Edinburgh"></a>
 
-    
-    **Postgraduate Researchers**
+The `group website <https://uoe-hydrocomputation.github.io/people.html>`_ is the maintained source for team profiles and current opportunities.
 
-    - **Connor Jordan** - PhD researcher (2022 - Present), Institute for Infrastructure & Environment, University of Edinburgh - Co-Supervised with `Prof Sotirios Tsaftaris <https://www.eng.ed.ac.uk/about/people/dr-sotirios-tsaftaris>`_.
+Current team
+------------
 
-    - **Bryn Townley** - EngD researcher (2022 - Present), Institute for Infrastructure & Environment, University of Edinburgh - Co-Supervised with `Professor Qing Xiao <https://www.strath.ac.uk/staff/xiaoqingdr/>`_ (University of Strathclyde) and `Dr Ian Ashton <https://renewable.exeter.ac.uk/staff/iga202>`_ (University of Exeter).
+.. raw:: html
 
-    - **Emils Brazovskis** - PhD researcher (2023 - Present), Institute for Infrastructure & Environment, University of Edinburgh - Co-Supervised with `Prof Lindsay Beevers <https://www.eng.ed.ac.uk/about/people/professor-lindsay-beevers>`_.
+   <div class="cards team-cards">
+     <article class="card"><h3><a href="https://tiantan.xyz/">Dr Tian Tan</a></h3><p><strong>Research Associate</strong><br>Research in hydro-environmental modelling for tidal-stream energy.</p></article>
+     <article class="card"><h3><a href="https://uoe-hydrocomputation.github.io/profiles/connor-jordan.html">Connor Jordan</a></h3><p><strong>PhD Student &amp; Industry Engagement Lead</strong><br><span class="card-meta">Group member since October 2022</span><br>Research on tidal-array design and environmental interactions.</p></article>
+     <article class="card"><h3><a href="https://uoe-hydrocomputation.github.io/profiles/emils-brazovskis.html">Emīls Brazovskis</a></h3><p><strong>PhD Researcher</strong><br><span class="card-meta">Group member since October 2023</span><br>Research in uncertainty quantification in coastal-ocean models.</p></article>
+     <article class="card"><h3><a href="https://uoe-hydrocomputation.github.io/profiles/bryn-townley.html">Bryn Townley</a></h3><p><strong>Engineer, Frazer Nash</strong><br><span class="card-meta">Group member since September 2022</span><br>Engineering and computational fluid dynamics.</p></article>
+     <article class="card"><h3><a href="https://uoe-hydrocomputation.github.io/profiles/michalis-constantas.html">Michalis Constantas</a></h3><p><strong>PhD Researcher</strong><br><span class="card-meta">Group member since September 2025</span><br>Research on array optimisation.</p></article>
+     <article class="card"><h3><a href="https://uoe-hydrocomputation.github.io/profiles/alexandra-dukic.html">Alexandra Dukic</a></h3><p><strong>PhD Researcher</strong><br><span class="card-meta">Group member since September 2026</span><br>Research on downscaling of regional ocean models.</p></article>
+   </div>
 
-.. dropdown:: *Alumni*
+.. dropdown:: Alumni
 
-    - **Dr Phoebe Hudson** - PhD researcher (2020 - 2025), Institute for Infrastructure & Environment, University of Edinburgh. 
+   Our alumni have contributed to research across marine renewable energy, environmental fluid mechanics and computational engineering.
 
-    - **Dr Konstantinos Pappas** - PhD researcher (2021 - 2025), Institute for Infrastructure & Environment, University of Edinburgh.
+   - Dr N. Chien — Postdoctoral researcher in Ocean Digital Twins, University of Edinburgh (2023–2025).
+   - Dr Y. Chen — Postdoctoral researcher in Tidal Stream Energy, University of Edinburgh (2024–2025).
+   - Dr C. Old — Postdoctoral researcher in Marine Energy, University of Edinburgh (2022–2023).
+   - Dr P. Hudson — PhD Researcher, University of Edinburgh (2020–2025).
+   - Dr K. Pappas — PhD Researcher, University of Edinburgh (2021–2025).
+   - Dr M. Patel — DPhil Researcher, University of Oxford (2020–2024).
+   - Dr A. Fragkou — PhD Researcher, University of Edinburgh (2019–2023).
+   - Dr L. Mackie — PhD Researcher, Imperial College London (2018–2021).
 
-    - **Dr Misha Patel** - DPhil Researcher (2020 - 2024) - The Impact of Real World Constraints on Tidal Stream Energy Resource Assessments, University of Oxford. 
- 
-    - **Dr Anastasia Fragkou** - PhD Researcher (2019 - 2023) - Developing a multi-scale parallelised coupled system for wave-current interactions at regional scales, University of Edinburgh. 
- 
-    - **Dr Lucas Mackie** - PhD Researcher (2018 - 2021) - Modelling the Interaction of Tidal Range Power Systems for Renewable Energy Generation, Imperial College London. 
+Join the group
+--------------
 
-    - **Dr Chris Old** - Senior Research Associate in Marine Renewable Energy (2022 - 2023), School of Engineering, University of Edinburgh.
-
-    - **Dr Nguyen Chien** - Research Associate in Coastal Ocean Digital Twins (2023 - 2025), School of Engineering, University of Edinburgh
-
-    - **Dr Yaling Chen** - Research Associate in Hydroenvironmental modelling for tidal stream energy  (2024 - 2025), School of Engineering, University of Edinburgh
-
-
-
-
-.. .. dropdown::  *Academic Collaborators*
-
-..     - `Prof Matthew Piggott <https://www.imperial.ac.uk/people/m.d.piggott>`_, Professor of Computational Geoscience and Engineering, Department of Earth Science & Engineering, Imperial College London.
-..     - `Prof Thorsten Stoesser <https://iris.ucl.ac.uk/iris/browse/profile?upi=TSTOE28>`_, Professor of Civil Engineering Fluids, Department of Civil & Environmental Engineering, University College London.
-..     - `Prof Roger A. Falconer <https://www.cardiff.ac.uk/people/view/364367-falconer-roger>`_, Emeritus Professor of Water Management, Hydro-environmental Research Centre, Cardiff University.
-..     - `Dr Danny Coles <https://www.plymouth.ac.uk/staff/danny-coles>`_, Research Fellow of INTERREG V A France (Channel) TIGER Project, School of Engineering, Computing and Mathematics, University of Plymouth. 
-..     - `Dr Efthalia Chatzisymeon <https://www.eng.ed.ac.uk/about/people/dr-efthalia-chatzisymeon>`_, Senior  Lecturer in Environmental  Engineering, School of  Engineering, University of  Edinburgh
-..     - `Dr Carlo Gualtieri <http://www.dicea.unina.it/docente.php?id=37>`_, Associate Professor of Environmental Hydraulics, Department of Civil Engineering, University of Napoli Federico II.
-..     - `Dr Stephan Kramer <https://www.imperial.ac.uk/people/s.kramer>`_, Research Associate in Ocean Modelling and Numerical Methods, Department of Earth Science & Engineering, Imperial College London.
-
+I welcome enquiries from prospective PhD students, postdoctoral researchers and visiting researchers. See the :doc:`opportunities page <opportunities>` or the `group opportunities <https://uoe-hydrocomputation.github.io/people.html#opportunities>`_ for current guidance.

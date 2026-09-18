@@ -1,5 +1,5 @@
 Economics-constrained tidal turbine array layout optimisation at the Putuoshan--Hulu island waterway
----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
 
 This work optimizes tidal turbine array layouts considering economic factors, demonstrating how cost constraints influence design and performance at a Chinese waterway site.
 
@@ -14,7 +14,7 @@ For the successful large scale commercialisation of the tidal stream energy indu
          <a href="https://www.sciencedirect.com/science/article/pii/S0029801824029561">Economics-constrained tidal turbine array layout optimisation at the Putuoshan--Hulu island waterway, <b>Ocean Engineering</b>, 2024</a> 
 
 
-.. post:: January 1, 2024
+.. post:: November 4, 2024
    :tags: tidal, optimisation, economics, array
    :category: article
    :author: Athanasios Angeloudis

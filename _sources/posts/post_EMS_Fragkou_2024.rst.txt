@@ -1,0 +1,17 @@
+Thetis-SWAN: A Python-interfaced wave-current interactions coupled system
+-------------------------------------------------------------------------
+
+Research led by Anastasia Fragkou presents Thetis-SWAN, a Python-interfaced coupled modelling system for wave-current interactions. The work extends open coastal-ocean modelling workflows for applications where waves and currents need to be represented together.
+
+.. container:: copylink
+
+   .. raw:: html
+
+      <a href="https://doi.org/10.1016/j.envsoft.2024.106034">Thetis-SWAN: A Python-interfaced wave-current interactions coupled system, <b>Environmental Modelling &amp; Software</b>, 2024</a>
+
+.. post:: April 6, 2024
+   :tags: Thetis, SWAN, wave-current interactions, open source
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en

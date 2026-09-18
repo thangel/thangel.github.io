@@ -1,0 +1,15 @@
+Hybrid methods in flood inundation modeling: a systematic review
+=================================================================
+
+This systematic review surveys hybrid approaches to flood-inundation modelling, bringing together complementary methods for more effective prediction and assessment of flood hazards.
+
+.. container:: copylink
+
+   `Read the article <https://doi.org/10.1007/s11069-026-08078-w>`_ in *Natural Hazards*.
+
+.. post:: April 2, 2026
+   :tags: flood inundation, hydrology, modelling, review
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en

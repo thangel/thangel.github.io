@@ -14,7 +14,7 @@ The effective development of tidal stream energy sites requires an understanding
          <a href="https://link.springer.com/article/10.1007/s40722-024-00342-0">Implementation of homogeneous and heterogeneous tidal arrays in the Inner Sound of the Pentland Firth, <b>Journal of Ocean Engineering and Marine Energy</b>, 2024</a> 
 
 
-.. post:: January 1, 2024
+.. post:: September 12, 2024
    :tags: tidal, array, heterogeneous, Pentland Firth
    :category: article
    :author: Athanasios Angeloudis

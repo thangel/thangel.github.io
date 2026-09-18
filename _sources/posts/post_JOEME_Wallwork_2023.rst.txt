@@ -1,0 +1,17 @@
+Tidal turbine array modelling using goal-oriented mesh adaptation
+-----------------------------------------------------------------
+
+This study presents goal-oriented mesh adaptation for tidal-turbine array modelling. The method focuses computational resolution on the features most relevant to a modelling objective, supporting efficient and reliable simulation of tidal-energy arrays.
+
+.. container:: copylink
+
+   .. raw:: html
+
+      <a href="https://doi.org/10.1007/s40722-023-00307-9">Tidal turbine array modelling using goal-oriented mesh adaptation, <b>Journal of Ocean Engineering and Marine Energy</b>, 2024</a>
+
+.. post:: December 8, 2023
+   :tags: tidal stream, mesh adaptation, numerical methods, arrays
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en

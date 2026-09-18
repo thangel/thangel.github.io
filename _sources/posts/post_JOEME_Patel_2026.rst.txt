@@ -1,0 +1,15 @@
+The interplay and incremental development of tidal stream arrays in the Pentland Firth
+=======================================================================================
+
+This article examines how tidal-stream arrays in the Pentland Firth interact as development progresses, informing the staged design of the resource.
+
+.. container:: copylink
+
+   `Read the article <https://doi.org/10.1007/s40722-026-00490-5>`_ in *Journal of Ocean Engineering and Marine Energy*.
+
+.. post:: April 15, 2026
+   :tags: tidal stream, arrays, Pentland Firth, hydrodynamics
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en

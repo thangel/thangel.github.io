@@ -1,61 +1,27 @@
-.. webpage documentation master file, created by
-   sphinx-quickstart on Fri May 18 18:18:29 2018.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-
-
-.. 
-  .. only:: html 
-
-.. toctree::
-   :maxdepth: 1
-
-.. _email: mailto: a.angeloudis@ed.ac.uk
-
 Opportunities
--------------
+=============
 
-.. dropdown:: *Current Opportunities*
-   :open:
+.. raw:: html
 
-        
-    - **I welcome applications for PhD applicants at The University of Edinburgh for research on Offshore, Coastal and Estuarine engineering**.
-      I am looking for highly motivated candidates that are keen to conduct computational research that is aligned with the fields of *coastal engineering*, *environmental fluid mechanics* or CFD for *ocean energy* applications. A strong foundation in engineering hydraulics and an interest in modern programming techniques (using Python, Matlab, C and FORTRAN) and High-Performance Computing are desirable. For funding options and enquiries please feel free to get in touch by `e-mail <mailto: a.angeloudis@ed.ac.uk>`_.
+   <p class="page-intro">I welcome enquiries from prospective PhD students, postdoctoral researchers and visiting researchers working in hydro-environmental engineering and computational fluid mechanics.</p>
 
-    
-..    - **I am currently offering an opportunity for a PhD studentship at The University of Edinburgh for research on Water & Environmental engineering**.
-      I am looking for highly motivated candidates that are keen to conduct computational research that is aligned with the fields of *coastal engineering*, *environmental fluid mechanics* or CFD for *water engineering* applications. A strong foundation in civil engineering hydraulics and an interest in modern programming techniques (using Python, Matlab, C and FORTRAN) and High-Performance Computing will be considered as prerequisites.
+   <a class="school-mark" href="https://eng.ed.ac.uk/" aria-label="School of Engineering, University of Edinburgh"><img src="_static/uoe.png" alt="School of Engineering, University of Edinburgh"></a>
 
-..      The funding is sourced from The University of Edinburgh and is available for UK/EU candidates. If you are interested to know more, feel free to contact me by `email`_.
+PhD study
+---------
 
-.. dropdown:: *PhD Applicants*
+Potential doctoral projects may involve coastal, offshore and estuarine engineering; environmental fluid mechanics; and computational methods for ocean-energy applications. A strong grounding in engineering hydraulics and an interest in programming, numerical methods and high-performance computing are valuable.
 
-   If you wish to study for a PhD and/or attain a studentship at the University of Edinburgh, the first step to join our team is to apply `online <www.eng.ed.ac.uk/postgraduate/research/apply>`_.  During the application process, you will be asked to prepare a research proposal together with the further documentation regarding your background. During this process you will have to specify your preferred supervisor.
+Before applying, please email `a.angeloudis@ed.ac.uk <mailto:a.angeloudis@ed.ac.uk>`_ with a short outline of your interests, background and proposed area of research. Supervision availability and funding vary, so an early discussion is helpful.
 
-   Putting together a robust proposal on a hydro-environmental modelling theme is crucial for your success and you are encouraged to get in touch with any questions. The research proposal itself will not be explicitly binding, and can be formally adapted at a later stage. It is imperative for applicants to  demonstrate traits reflected by academic researchers and specifically for our group, an understanding of contemporary water research challenges. Further documentation to be taken under consideration should be sent directly by `e-mail <mailto: a.angeloudis@ed.ac.uk>`_.
+.. raw:: html
 
-   Additional information on scholarships at the University of Edinburgh can be found below.
+   <div class="feature">
+     <h2>University application and funding</h2>
+     <p>Start with the University of Edinburgh’s <a href="https://study.ed.ac.uk/postgraduate/applying">postgraduate application guidance</a>. For funding information, see the University’s <a href="https://registryservices.ed.ac.uk/student-funding/postgraduate">postgraduate funding overview</a>, including guidance for <a href="https://www.ed.ac.uk/student-funding/postgraduate/uk-eu">UK and EU students</a> and <a href="https://www.ed.ac.uk/student-funding/postgraduate/international">international students</a>.</p>
+   </div>
 
-   .. container :: note2 
+Research roles and collaboration
+--------------------------------
 
-
-         .. container :: copylink
-
-            .. raw :: html
-
-                      <a href="https://www.eng.ed.ac.uk/studying/postgraduate/research/phd-scholarships">https://www.eng.ed.ac.uk/studying/postgraduate/research/phd-scholarships</a> 
-
-
-         .. container :: copylink
-
-            .. raw :: html
-
-                      <a href="http://www.ed.ac.uk/schools-departments/student-funding/postgraduate/overview">http://www.ed.ac.uk/schools-departments/student-funding/postgraduate/overview</a> 
-
-   For any queries on the scholarships and the application process, please contact directly the Postgraduate Office of the School of Engineering: EngGradOffice@ed.ac.uk. 
-
-
-
-
-
+Open postdoctoral, research and visiting opportunities are announced through the `Edinburgh Hydro-computation Group <https://uoe-hydrocomputation.github.io/people.html#opportunities>`_ and the University’s formal recruitment channels. Please get in touch if your interests align with the group’s `research themes <https://uoe-hydrocomputation.github.io/research.html>`_.

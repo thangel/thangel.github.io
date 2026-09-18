@@ -11,10 +11,10 @@ Many tidal stream turbine developers are now opting for fixed yaw devices, in fa
 
    .. raw :: html
 
-         <a href="https://asmedigitalcollection.asme.org/OMAE/proceedings-abstract/OMAE2025/88940/1221501">Modelling the Impact of Structure Generated Shadowing on Tidal Stream Turbine Performance, <b>International Conference on Offshore Mechanics and Arctic Engineering</b>, 2025</a> 
+         <a href="https://doi.org/10.1115/OMAE2025-157588">Modelling the Impact of Structure Generated Shadowing on Tidal Stream Turbine Performance, <b>International Conference on Offshore Mechanics and Arctic Engineering</b>, 2025</a> 
 
 
-.. post:: January 1, 2025
+.. post:: June 22, 2025
    :tags: tidal stream, CFD, shadowing, turbine performance
    :category: article
    :author: Athanasios Angeloudis

@@ -14,7 +14,7 @@ Determining the respective attribution proportions of climate change and land us
          <a href="https://www.sciencedirect.com/science/article/pii/S0022169424010618">Disentangling climate change & land use change effects on river flows: A probabilistic approach, <b>Journal of Hydrology</b>, 2024</a> 
 
 
-.. post:: January 1, 2024
+.. post:: July 14, 2024
    :tags: hydrology, climate change, land use, probabilistic
    :category: article
    :author: Athanasios Angeloudis

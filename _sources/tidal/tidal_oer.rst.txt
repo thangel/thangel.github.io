@@ -17,22 +17,14 @@
 
 ..     This page is currently under construction. Excuse us if we are not looking our best!
 
-.. sidebar::  Tidal Range Energy OER
+.. sidebar:: Tidal Range Energy OER
 
    .. raw:: html
 
-      <p style="padding:5px"><a href="tidal_oer.html" ><i class="fas fa-home"></i> Introduction </a></p>
-
-      <p style="padding:5px"><a href="tidal_oer_range_resource.html"><i class="fas fa-water"></i> Tidal range resource </a></p>
-
-      <p style="padding:5px"><a href="tidal_oer_range_technologies.html"><i class="fas fa-fan"></i> Tidal range technologies </a></p>
-
-.. <p style="padding:5px"><a href="tidal_oer_info.html"><i class="fas fa-info-circle"></i> Further information </a></p>
-   
-   
-..  .. <p style="padding:5px"><a href="tidal_oer_tides.html"><i class="fas fa-water"></i> Tides </a></p>
-
-         <p style="padding:5px"><a href="tidal_oer_stream.html"><i class="fas fa-wind"></i> Tidal stream energy </a></p>
+      <p><a href="tidal_oer.html"><i class="fas fa-home" aria-hidden="true"></i> Introduction</a></p>
+      <p><a href="tidal_oer_range_resource.html"><i class="fas fa-water" aria-hidden="true"></i> Tidal range resource</a></p>
+      <p><a href="tidal_oer_range_technologies.html"><i class="fas fa-fan" aria-hidden="true"></i> Tidal range technologies</a></p>
+      <p><a href="tidal_oer_info.html"><i class="fas fa-circle-info" aria-hidden="true"></i> Further information</a></p>
 
 
 

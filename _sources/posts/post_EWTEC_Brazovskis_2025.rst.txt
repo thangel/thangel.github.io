@@ -5,16 +5,16 @@ This conference paper explores the regional impacts of tidal arrays on flow bloc
 
 **Abstract**
 
-Abstract not available online.
+Past studies on global blockage have shown that some level of array-induced flow diversion away from the exploited channel is inevitable. The magnitude of this diversion is a function of the total resistance introduced by the turbine array, as well as the physical characteristics of the domain, i.e., channel cross-sectional area, seabed roughness, mixing losses. Furthermore, islands and headlands establish what could be considered a network of sub-channels among which the overall volumetric flux is distributed based on the equilibrium of retarding forces each experiences. Blockage effects must therefore be a function of not just the overall resistance exerted by the exploited channel, but also of the resistance properties of any alternative flow paths. The limited availability of spatial parameter data like bathymetry and bed friction makes resource assessment results sensitive to assumptions and approximations made within numerical models. Insufficient knowledge about the domain of interest may therefore lead to erroneous estimates of energy yield, with the propagation of uncertainty also becoming more difficult to follow, increasing project risk and deterring investment. A multi-scale nested channel network approach is developed to quantify the sensitivity of tidal array performance to the spatial parameters describing the region. 1D gradually varied flow models are interlinked in parallel and series to create a larger model representing the complex domains often considered for tidal stream development. Array scale core and bypass flow is modelled by a set of parallel channels, nested within another set of parallel channels representing the sub-channels created by islands, which is then nested within another channel representing the overall region. The model can therefore capture the interactions between tidal arrays and the regional scale dynamics that are overlooked by existing analytical and 1D models of comparable computational cost. Although the model cannot reproduce phenomena that higher order models would (e.g., wake interactions, mixing), its low computational cost allows for its use in non-deterministic analysis, whilst still capturing the hydrodynamics most relevant to array and global scale blockage. The model is used to investigate the impact of tidal arrays on a number of scales – the performance differences between fully spanning arrays and partial arrays that allow for flow bypass; the impact of turbine-induced resistance on funnelling flow through adjacent channels or away from the domain altogether; the changes in energy flux from the standard ambient baseline.
 
 .. container :: copylink
 
    .. raw :: html
 
-         <a href="https://www.ewtec.org/ewtec-2025/">Quantifying the regional blockage effects of tidal arrays within multi-scale channel network models, <b>Proceedings of the European Wave and Tidal Energy Conference</b>, 2025</a> 
+         <a href="https://doi.org/10.36688/ewtec-2025-931">Quantifying the regional blockage effects of tidal arrays within multi-scale channel network models, <b>Proceedings of the European Wave and Tidal Energy Conference</b>, 2025</a> 
 
 
-.. post:: January 1, 2025
+.. post:: September 8, 2025
    :tags: tidal, blockage, multi-scale, modelling
    :category: article
    :author: Athanasios Angeloudis

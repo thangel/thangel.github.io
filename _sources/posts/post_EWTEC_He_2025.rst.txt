@@ -1,0 +1,17 @@
+A multi-scale analytical model for the performance of a tidal stream array in a tidal channel
+----------------------------------------------------------------------------------------------
+
+This European Wave and Tidal Energy Conference paper presents a multi-scale analytical model for tidal-stream array performance in an idealised tidal channel. The work connects array-scale behaviour with channel-scale hydrodynamics to support interpretable early-stage assessment.
+
+.. container:: copylink
+
+   .. raw:: html
+
+      <a href="https://doi.org/10.36688/ewtec-2025-977">A multi-scale analytical model for the performance of a tidal stream array in a tidal channel, <b>Proceedings of the European Wave and Tidal Energy Conference</b>, 2025</a>
+
+.. post:: September 8, 2025
+   :tags: tidal stream, arrays, analytical modelling, multi-scale
+   :category: conference
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en

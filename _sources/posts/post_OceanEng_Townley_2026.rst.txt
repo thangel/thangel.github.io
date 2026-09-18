@@ -1,0 +1,15 @@
+Modelling the impact of the foundation shadow effect and flow misalignment disparity on tidal stream turbine performance
+========================================================================================================================
+
+This article assesses how foundation shadowing and differences in flow misalignment affect tidal-stream turbine performance.
+
+.. container:: copylink
+
+   `Read the article <https://doi.org/10.1016/j.oceaneng.2026.125873>`_ in *Ocean Engineering*.
+
+.. post:: June 19, 2026
+   :tags: tidal stream, turbine performance, foundation shadowing, modelling
+   :category: article
+   :author: Athanasios Angeloudis
+   :location: Edinburgh
+   :language: en
