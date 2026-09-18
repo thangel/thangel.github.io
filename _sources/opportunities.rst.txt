@@ -5,8 +5,6 @@ Opportunities
 
    <p class="page-intro">I welcome enquiries from prospective PhD students, postdoctoral researchers and visiting researchers working in hydro-environmental engineering and computational fluid mechanics.</p>
 
-   <a class="school-mark" href="https://eng.ed.ac.uk/" aria-label="School of Engineering, University of Edinburgh"><img src="_static/uoe.png" alt="School of Engineering, University of Edinburgh"></a>
-
 PhD study
 ---------
 
@@ -24,4 +22,4 @@ Before applying, please email `a.angeloudis@ed.ac.uk <mailto:a.angeloudis@ed.ac.
 Research roles and collaboration
 --------------------------------
 
-Open postdoctoral, research and visiting opportunities are announced through the `Edinburgh Hydro-computation Group <https://uoe-hydrocomputation.github.io/people.html#opportunities>`_ and the University’s formal recruitment channels. Please get in touch if your interests align with the group’s `research themes <https://uoe-hydrocomputation.github.io/research.html>`_.
+Open postdoctoral, research and visiting opportunities are announced through `E-COM — Edinburgh Coastal Ocean Modelling Group <https://uoe-hydrocomputation.github.io/people.html#opportunities>`_ and the University’s formal recruitment channels. Please get in touch if your interests align with `E-COM’s research themes <https://uoe-hydrocomputation.github.io/research.html>`_.

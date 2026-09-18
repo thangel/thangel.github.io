@@ -5,20 +5,18 @@ Research
 
    <p class="page-intro">I develop and apply computational models to understand environmental flows, support resilient infrastructure and enable responsible marine-energy development.</p>
 
-   <a class="school-mark" href="https://eng.ed.ac.uk/" aria-label="School of Engineering, University of Edinburgh"><img src="_static/uoe.png" alt="School of Engineering, University of Edinburgh"></a>
-
 My work is in environmental fluid mechanics, with a particular focus on coastal and ocean systems. I combine numerical modelling, observations, data analysis and optimisation to address questions that matter to infrastructure, ecosystems and the energy transition.
 
-Research in the Edinburgh Hydro-computation Group
--------------------------------------------------
+Research in E-COM
+-----------------
 
-I lead the `Edinburgh Hydro-computation Group <https://uoe-hydrocomputation.github.io/>`_. The group website is the maintained home for our current projects, researchers, software and collaborative work.
+I lead `E-COM — Edinburgh Coastal Ocean Modelling Group <https://uoe-hydrocomputation.github.io/>`_. Its website is the maintained home for current projects, researchers, software and collaborative work.
 
 .. raw:: html
 
    <div class="feature">
-     <h2>Explore the group’s work</h2>
-     <p>For the latest project portfolio, research themes and team profiles, visit the <a href="https://uoe-hydrocomputation.github.io/research.html">group research page</a>. The group’s <a href="https://uoe-hydrocomputation.github.io/people.html">people page</a> and <a href="https://uoe-hydrocomputation.github.io/publications.html">publications page</a> are kept current as the team and its outputs develop.</p>
+     <h2>Explore E-COM’s work</h2>
+     <p>For the latest project portfolio, research themes and team profiles, visit the <a href="https://uoe-hydrocomputation.github.io/research.html">E-COM research page</a>. E-COM’s <a href="https://uoe-hydrocomputation.github.io/people.html">people page</a> and <a href="https://uoe-hydrocomputation.github.io/publications.html">publications page</a> are kept current as the team and its outputs develop.</p>
    </div>
 
 Focus areas
@@ -47,9 +45,9 @@ Selected recent publications
      <article class="card"><p class="card-kicker">2024 · Journal of Hydrology</p><h3><a href="https://doi.org/10.1016/j.jhydrol.2024.131665">Disentangling climate change and land-use change effects on river flows</a></h3><p>Nicholas Wray, Duncan Bowie, Ian Pattison, Athanasios Angeloudis and Lindsay Beevers.</p></article>
    </div>
 
-For the complete record, see my :doc:`publications <publications>` or `browse the group’s publications <https://uoe-hydrocomputation.github.io/publications.html>`_.
+For the complete record, see my :doc:`publications <publications>` or `browse E-COM’s publications <https://uoe-hydrocomputation.github.io/publications.html>`_.
 
 Open-source software
 --------------------
 
-I use and contribute to open modelling tools that make research inspectable, reusable and extensible. `Thetis <https://thetisproject.org/>`_ is an open-source coastal-ocean model built on Firedrake and is a central component of much of this work. More group software and workflow information is available on the `group research page <https://uoe-hydrocomputation.github.io/research.html>`_.
+I use and contribute to open modelling tools that make research inspectable, reusable and extensible. `Thetis <https://thetisproject.org/>`_ is an open-source coastal-ocean model built on Firedrake and is a central component of much of this work. More software and workflow information is available on the `E-COM research page <https://uoe-hydrocomputation.github.io/research.html>`_.

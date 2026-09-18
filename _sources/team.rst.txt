@@ -3,11 +3,9 @@ Research Team
 
 .. raw:: html
 
-   <p class="page-intro">I lead the Edinburgh Hydro-computation Group: researchers and students developing computational approaches to hydro-environmental engineering.</p>
+   <p class="page-intro">I lead E-COM — Edinburgh Coastal Ocean Modelling Group: researchers and students developing computational approaches to hydro-environmental engineering.</p>
 
-   <a class="school-mark" href="https://eng.ed.ac.uk/" aria-label="School of Engineering, University of Edinburgh"><img src="_static/uoe.png" alt="School of Engineering, University of Edinburgh"></a>
-
-The `group website <https://uoe-hydrocomputation.github.io/people.html>`_ is the maintained source for team profiles and current opportunities.
+The `E-COM website <https://uoe-hydrocomputation.github.io/people.html>`_ is the maintained source for team profiles and current opportunities.
 
 Current team
 ------------
@@ -16,11 +14,11 @@ Current team
 
    <div class="cards team-cards">
      <article class="card"><h3><a href="https://tiantan.xyz/">Dr Tian Tan</a></h3><p><strong>Research Associate</strong><br>Research in hydro-environmental modelling for tidal-stream energy.</p></article>
-     <article class="card"><h3><a href="https://uoe-hydrocomputation.github.io/profiles/connor-jordan.html">Connor Jordan</a></h3><p><strong>PhD Student &amp; Industry Engagement Lead</strong><br><span class="card-meta">Group member since October 2022</span><br>Research on tidal-array design and environmental interactions.</p></article>
-     <article class="card"><h3><a href="https://uoe-hydrocomputation.github.io/profiles/emils-brazovskis.html">Emīls Brazovskis</a></h3><p><strong>PhD Researcher</strong><br><span class="card-meta">Group member since October 2023</span><br>Research in uncertainty quantification in coastal-ocean models.</p></article>
-     <article class="card"><h3><a href="https://uoe-hydrocomputation.github.io/profiles/bryn-townley.html">Bryn Townley</a></h3><p><strong>Engineer, Frazer Nash</strong><br><span class="card-meta">Group member since September 2022</span><br>Engineering and computational fluid dynamics.</p></article>
-     <article class="card"><h3><a href="https://uoe-hydrocomputation.github.io/profiles/michalis-constantas.html">Michalis Constantas</a></h3><p><strong>PhD Researcher</strong><br><span class="card-meta">Group member since September 2025</span><br>Research on array optimisation.</p></article>
-     <article class="card"><h3><a href="https://uoe-hydrocomputation.github.io/profiles/alexandra-dukic.html">Alexandra Dukic</a></h3><p><strong>PhD Researcher</strong><br><span class="card-meta">Group member since September 2026</span><br>Research on downscaling of regional ocean models.</p></article>
+     <article class="card"><h3><a href="https://uoe-hydrocomputation.github.io/profiles/connor-jordan.html">Connor Jordan</a></h3><p><strong>PhD Student &amp; Industry Engagement Lead</strong><br><span class="card-meta">E-COM member since October 2022</span><br>Research on tidal-array design and environmental interactions.</p></article>
+     <article class="card"><h3><a href="https://uoe-hydrocomputation.github.io/profiles/emils-brazovskis.html">Emīls Brazovskis</a></h3><p><strong>PhD Researcher</strong><br><span class="card-meta">E-COM member since October 2023</span><br>Research in uncertainty quantification in coastal-ocean models.</p></article>
+     <article class="card"><h3><a href="https://uoe-hydrocomputation.github.io/profiles/bryn-townley.html">Bryn Townley</a></h3><p><strong>Engineer, Frazer Nash</strong><br><span class="card-meta">E-COM member since September 2022</span><br>Engineering and computational fluid dynamics.</p></article>
+     <article class="card"><h3><a href="https://uoe-hydrocomputation.github.io/profiles/michalis-constantas.html">Michalis Constantas</a></h3><p><strong>PhD Researcher</strong><br><span class="card-meta">E-COM member since September 2025</span><br>Research on array optimisation.</p></article>
+     <article class="card"><h3><a href="https://uoe-hydrocomputation.github.io/profiles/alexandra-dukic.html">Alexandra Dukic</a></h3><p><strong>PhD Researcher</strong><br><span class="card-meta">E-COM member since September 2026</span><br>Research on downscaling of regional ocean models.</p></article>
    </div>
 
 .. dropdown:: Alumni
@@ -36,7 +34,7 @@ Current team
    - Dr A. Fragkou — PhD Researcher, University of Edinburgh (2019–2023).
    - Dr L. Mackie — PhD Researcher, Imperial College London (2018–2021).
 
-Join the group
---------------
+Join E-COM
+----------
 
-I welcome enquiries from prospective PhD students, postdoctoral researchers and visiting researchers. See the :doc:`opportunities page <opportunities>` or the `group opportunities <https://uoe-hydrocomputation.github.io/people.html#opportunities>`_ for current guidance.
+I welcome enquiries from prospective PhD students, postdoctoral researchers and visiting researchers. See the :doc:`opportunities page <opportunities>` or `E-COM opportunities <https://uoe-hydrocomputation.github.io/people.html#opportunities>`_ for current guidance.

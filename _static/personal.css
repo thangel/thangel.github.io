@@ -103,14 +103,14 @@ div.min-section { display: flow-root; min-height: 0; margin: 1.5rem 0; }
 div.profileleft { float: left; width: min(30%, 18rem); margin: 0 1.5rem 1rem 0; font-size: 1rem; font-weight: 600; text-align: center; }
 div.profileright { width: auto; min-height: 0; text-align: left; }
 div.profileleft p { margin-top: 0; }
+div.profileright .expertise-list ul { margin: .85rem 0 0; padding-left: 1.3rem; }
+div.profileright .expertise-list li { padding-left: .2rem; }
 div.leftside { float: left; width: 2.4rem; height: 2.4rem; margin: 0; padding: .3rem 0; text-align: left; }
 div.rightside { min-height: 2.4rem; margin: 0; padding: .3rem 0 .3rem 2.75rem; }
 .filter-pdf { width: 1.15rem; filter: invert(31%) sepia(40%) saturate(1810%) hue-rotate(170deg) brightness(85%) contrast(102%); }
 
 /* Shared research-page components, mirroring the group-site information design. */
 .page-intro { margin-bottom: 2.5rem; color: var(--muted); font-size: 1.16rem; }
-.school-mark { display: block; width: min(16rem, 70%); margin: -1.15rem 0 2.5rem; }
-.school-mark img { display: block; width: 100%; height: auto; }
 .feature { margin: 2.5rem 0 3.7rem; padding: 2rem; border-left: 5px solid var(--accent); background: var(--accent-pale); }
 .feature h2 { margin-top: 0; }
 .feature p:last-child { margin-bottom: 0; }
@@ -205,12 +205,15 @@ div.highlight > pre, div.highlight > code { padding: 1rem; border: 0; background
 
 .site-footer {
   align-items: flex-start;
+  flex-wrap: wrap;
   border-top: 1px solid var(--line);
   color: var(--muted);
   font-size: .82rem;
   line-height: 1.6;
 }
 .site-footer a { color: var(--muted); }
+.footer-school-mark { display: block; flex: 0 0 auto; width: 13rem; }
+.footer-school-mark img { display: block; width: 100%; height: auto; }
 
 @media (max-width: 900px) {
   .site-header__inner { align-items: flex-start; flex-direction: column; gap: 1rem; }

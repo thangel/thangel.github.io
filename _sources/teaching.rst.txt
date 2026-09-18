@@ -11,10 +11,6 @@ Teaching
 
 This section summarises teaching responsibilities within the Discipline of Civil & Environmental Engineering.
 
-.. raw:: html
-
-   <a class="school-mark" href="https://eng.ed.ac.uk/" aria-label="School of Engineering, University of Edinburgh"><img src="_static/uoe.png" alt="School of Engineering, University of Edinburgh"></a>
-
 
 .. dropdown:: *Hydraulic Engineering IV*
 
@@ -35,7 +31,7 @@ This section summarises teaching responsibilities within the Discipline of Civil
 
 
 Educational Resources
-=====================
+---------------------
 
 General information  on the broader themes that relate to our research activities. 
 
@@ -66,5 +62,3 @@ General information  on the broader themes that relate to our research activitie
    :height: 70px
 ..
   .. |UoE| 
-
-

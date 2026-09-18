@@ -45,9 +45,9 @@
 
 
 About us
---------
+========
 
-Welcome! These pages detail information on applied fluid mechanics research activities led by Dr Athanasios Angeloudis. Our work is based at the School of Engineering of the University of Edinburgh. 
+Welcome! These pages detail information on applied fluid mechanics research activities led by Dr Athanasios Angeloudis. Our work is based at the School of Engineering of the University of Edinburgh.
 
 
 Introduction
@@ -65,32 +65,17 @@ Introduction
          <img border="0" style="width: 200px; object-fit: contain; overflow: hidden; border-radius:50%;" src="_static/profile_2.jpg" />
          </div>
 
-         <div>
-         <p style="font-size: 0.8em; font-weight:400;"> Reader, School of Engineering,<br>
-         
-         <a style="font-size: 1.0em" href="https://www.eng.ed.ac.uk/about/people/dr-athanasios-angeloudis"> University of Edinburgh </a>
-         </p>
-         </div>
-
     .. container :: profileright
       
-        I am working as a Reader (Associate Professor) on engineering fluid mechanics, incorporated within the Institute for Infrastructure and the Environment and leading research on hydro-environmental engineering applications. I am a Fellow of the Higher Education Academy (FHEA) and have previously led an Industrial Innovation  Research Fellowship by the UK's Natural Environment Research Council (NERC). Accordingly, my team coordinates research activities on computational methods for marine and offshore renewable energy, working closely with industry and other research groups. 
+        Athanasios (Than) is a Reader (Associate Professor) in engineering fluid mechanics, incorporated within the Institute for Infrastructure and the Environment at the School of Engineering at the University of Edinburgh. He leads research on hydro-environmental engineering applications. His group, Edinburgh Coastal Ocean Modelling (E-COM) coordinates research activities on computational methods for marine and offshore renewable energy, working closely with industry and supported by national and international research grants. 
 
-        I am Chartered member (CEng) with the Institution of Civil Engineers and with the Technical Chamber of Greece.
+        Our research and expertise span:
 
-        Our research and expertise spans across the following
-
-        * Environmental fluid mechanics
-        * Offshore renewable energy
-        * Coastal processes 
-        * Numerical methods in engineering
-        * Data analytics and optimisation methods
-
-
-
-
-
-
+           * Environmental fluid mechanics
+           * Offshore renewable energy
+           * Coastal processes
+           * Numerical methods in engineering
+           * Data analytics and optimisation methods
 
 
 Contact
@@ -147,7 +132,7 @@ Contact
          
            .. raw :: html
 
-                <a href="hhttps://www.dropbox.com/scl/fi/tajgs2dpr9h2k22nuzt3m/cv.pdf?rlkey=om0epo6jqzg1ildwodnl8att2&st=ssxrl5bj&raw=1"> Curriculum Vitae </b> </a> 
+                <a href="https://www.dropbox.com/scl/fi/tajgs2dpr9h2k22nuzt3m/cv.pdf?rlkey=om0epo6jqzg1ildwodnl8att2&st=ssxrl5bj&raw=1">Curriculum Vitae</a>
 
     .. container :: leftside
 
